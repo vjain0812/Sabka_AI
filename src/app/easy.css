@@ -1231,3 +1231,46 @@
     font-size: 0.9rem;
   }
 }
+
+/* Missing-field highlight: soft tint and ring, no layout shift, cleared as each field is fixed. */
+.simple-business-form .field-flagged {
+  background: rgba(226, 24, 51, 0.05);
+  box-shadow:
+    0 0 0 1px rgba(226, 24, 51, 0.3),
+    0 0 0 7px rgba(226, 24, 51, 0.05);
+  border-radius: 12px;
+  animation: field-flag-in 0.45s ease-out;
+}
+.simple-business-form .field.field-flagged,
+.simple-business-form fieldset.field-flagged {
+  padding: 8px 10px;
+  margin: -8px -10px;
+}
+@keyframes field-flag-in {
+  from {
+    background: rgba(226, 24, 51, 0.14);
+  }
+}
+.error-summary .error-link {
+  background: none;
+  border: 0;
+  padding: 0;
+  font: inherit;
+  color: inherit;
+  text-align: left;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  cursor: pointer;
+}
+.error-summary .error-link:hover {
+  text-decoration-thickness: 2px;
+}
+.error-summary-hint {
+  font-size: 0.75rem;
+  opacity: 0.8;
+}
+@media (prefers-reduced-motion: reduce) {
+  .simple-business-form .field-flagged {
+    animation: none;
+  }
+}

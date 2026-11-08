@@ -9,17 +9,20 @@ type FieldProps = {
   name: string;
   hint?: string;
   error?: string;
+  /** Marks the field as needing attention (subtle highlight) and exposes it to jump links. */
+  flagged?: boolean;
+  anchor?: string;
   children: (props: {
     id: string;
     'aria-describedby'?: string;
     'aria-invalid': boolean;
   }) => ReactNode;
 };
-export function Field({ label, name, hint, error, children }: FieldProps) {
+export function Field({ label, name, hint, error, flagged, anchor, children }: FieldProps) {
   const suffix = useId();
   const id = `${name}-${suffix}`;
   return (
-    <div className="field">
+    <div className={`field${flagged ? ' field-flagged' : ''}`} data-field={anchor}>
       <label htmlFor={id}>{label}</label>
       {hint && (
         <p id={`${id}-hint`} className="field-hint">
@@ -31,7 +34,7 @@ export function Field({ label, name, hint, error, children }: FieldProps) {
         'aria-describedby':
           [hint ? `${id}-hint` : '', error ? `${id}-error` : ''].filter(Boolean).join(' ') ||
           undefined,
-        'aria-invalid': !!error,
+        'aria-invalid': !!error || !!flagged,
       })}
       {error && (
         <p className="field-error" id={`${id}-error`}>

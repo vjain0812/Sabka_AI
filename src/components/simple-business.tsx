@@ -32,6 +32,34 @@ import { ScenarioIcon } from './site/scenario-icon';
 import { AccessNeedsSection } from './accessibility/access-needs-section';
 import { VoiceInputButton } from './accessibility/speech-buttons';
 
+type FieldKey =
+  | 'category'
+  | 'otherCategory'
+  | 'problem'
+  | 'channels'
+  | 'systems'
+  | 'budget'
+  | 'setup'
+  | 'consent';
+type Problem = { message: string; field?: FieldKey };
+const fieldForPath: Record<string, FieldKey> = {
+  'profile.category': 'category',
+  'profile.otherCategory': 'otherCategory',
+  'need.problem': 'problem',
+  'need.channels': 'channels',
+  'need.currentSystems': 'systems',
+  'need.monthlyBudgetUsd': 'budget',
+  'need.setupMinutes': 'setup',
+};
+/** Scroll a flagged field into view and focus its first control. */
+function jumpToField(key: FieldKey) {
+  const el = document.querySelector<HTMLElement>(`[data-field="${key}"]`);
+  if (!el) return;
+  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  el.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'center' });
+  el.querySelector<HTMLElement>('input, select, textarea')?.focus({ preventScroll: true });
+}
+
 const categorySpanish = [
   'Panadería casera',
   'Cafetería o restaurante',
@@ -83,7 +111,9 @@ export function SimpleBusiness() {
   const { t, locale } = useLanguage();
   const router = useRouter();
   const fromScenario = scenarioBySlug(useSearchParams().get('from') ?? '');
-  const [errors, setErrors] = useState<string[]>([]);
+  const [errors, setErrors] = useState<Problem[]>([]);
+  // null = follow the saved choice until the person ticks or unticks the box.
+  const [consentTicked, setConsentTicked] = useState<boolean | null>(null);
   const [busy, setBusy] = useState(false);
   // Connect opt-in: nothing is created unless the person ticks the consent box.
   const connectIdentity = useConnectIdentity();
@@ -125,7 +155,7 @@ export function SimpleBusiness() {
       : { ...b, need: { ...b.need, job: inferJob(b.need.problem) } };
     const parsed = businessBriefSchema.safeParse(completed);
     const consent = new FormData(e.currentTarget).get('matching-consent') === 'on';
-    const messages: string[] = [];
+    const messages: Problem[] = [];
     if (!parsed.success) {
       const labels: Record<string, string> = {
         'profile.category': t('Choose your business type.', 'Elige tu tipo de negocio.'),
@@ -151,24 +181,34 @@ export function SimpleBusiness() {
           'Ingresa el tiempo de preparación en minutos.',
         ),
       };
-      parsed.error.issues.forEach((issue) =>
-        messages.push(
-          labels[issue.path.join('.')] ??
+      parsed.error.issues.forEach((issue) => {
+        const path = issue.path.join('.');
+        messages.push({
+          message:
+            labels[path] ??
             t('Check the format of your answers.', 'Revisa el formato de tus respuestas.'),
-        ),
-      );
+          field: fieldForPath[path],
+        });
+      });
     }
     if (!consent)
-      messages.push(
-        t('Tick the box to let us find options.', 'Marca la casilla para buscar opciones.'),
-      );
+      messages.push({
+        message: t(
+          'Tick the box to let us find options.',
+          'Marca la casilla para buscar opciones.',
+        ),
+        field: 'consent',
+      });
     if (parsed.success) {
       try {
         matchingConstraints(parsed.data);
       } catch {
-        messages.push(
-          t('Use at most 10 required connections.', 'Usa como máximo 10 conexiones necesarias.'),
-        );
+        messages.push({
+          message: t(
+            'Use at most 10 required connections.',
+            'Usa como máximo 10 conexiones necesarias.',
+          ),
+        });
       }
     }
     const joinConnect = connectOn && !connectIdentity;
@@ -179,11 +219,14 @@ export function SimpleBusiness() {
       ),
     );
     if (joinConnect && !connectInput.success)
-      messages.push(
-        connectInput.error.issues[0]?.message ??
+      messages.push({
+        message:
+          connectInput.error.issues[0]?.message ??
           t('Check your Connect profile.', 'Revisa tu perfil de Connect.'),
-      );
-    setErrors([...new Set(messages)]);
+      });
+    setErrors(
+      messages.filter((m, i) => messages.findIndex((o) => o.message === m.message) === i),
+    );
     if (messages.length) {
       requestAnimationFrame(() => errorRef.current?.focus());
       return;
@@ -198,16 +241,21 @@ export function SimpleBusiness() {
       } catch (err) {
         setBusy(false);
         setErrors([
-          err instanceof ConnectError
-            ? err.message
-            : t(
-                'We couldn’t add you to Connect right now.',
-                'No pudimos agregarte a Connect ahora.',
-              ),
-          t(
-            'Untick the Connect box to continue without it, or try again.',
-            'Desmarca la casilla de Connect para continuar sin ella, o inténtalo de nuevo.',
-          ),
+          {
+            message:
+              err instanceof ConnectError
+                ? err.message
+                : t(
+                    'We couldn’t add you to Connect right now.',
+                    'No pudimos agregarte a Connect ahora.',
+                  ),
+          },
+          {
+            message: t(
+              'Untick the Connect box to continue without it, or try again.',
+              'Desmarca la casilla de Connect para continuar sin ella, o inténtalo de nuevo.',
+            ),
+          },
         ]);
         requestAnimationFrame(() => errorRef.current?.focus());
         return;
@@ -215,6 +263,31 @@ export function SimpleBusiness() {
     }
     router.push('/recommendations');
   }
+  const consentOn = consentTicked ?? state.session.matchingConsent;
+  /** Whether a flagged field still needs attention, so highlights clear as people fix them. */
+  function stillMissing(key: FieldKey) {
+    switch (key) {
+      case 'category':
+        return !b.profile.category;
+      case 'otherCategory':
+        return b.profile.category === 'Other' && !b.profile.otherCategory.trim();
+      case 'problem':
+        return b.need.problem.trim().length < 10;
+      case 'channels':
+        return b.need.channels.length === 0;
+      case 'systems':
+        return b.need.currentSystems.length === 0;
+      case 'budget':
+        return b.need.monthlyBudgetUsd === null;
+      case 'setup':
+        return b.need.setupMinutes === null || !Number.isInteger(b.need.setupMinutes);
+      case 'consent':
+        return !consentOn;
+    }
+  }
+  const openProblems = errors.filter((e) => !e.field || stillMissing(e.field));
+  const flagged = new Set(openProblems.flatMap((e) => (e.field ? [e.field] : [])));
+  const flag = (key: FieldKey) => flagged.has(key);
   const tasks = [
     ['customer_reply_drafting', t('Customer replies', 'Respuestas a clientes'), MessageSquareText],
     ['marketing_content', t('Marketing & content', 'Marketing y contenido'), Sparkles],
@@ -283,12 +356,30 @@ export function SimpleBusiness() {
         )}
       </div>
       <form onSubmit={submit} noValidate className="simple-business-form">
-        {errors.length > 0 && (
+        {openProblems.length > 0 && (
           <div className="error-summary" role="alert" tabIndex={-1} ref={errorRef}>
             <strong>{t('Almost there:', 'Casi listo:')}</strong>
+            {flagged.size > 0 && (
+              <span className="error-summary-hint">
+                {' '}
+                {t('Select an item to jump to it.', 'Toca un elemento para ir a él.')}
+              </span>
+            )}
             <ul>
-              {errors.map((e) => (
-                <li key={e}>{e}</li>
+              {openProblems.map(({ message, field }) => (
+                <li key={message}>
+                  {field ? (
+                    <button
+                      type="button"
+                      className="error-link"
+                      onClick={() => jumpToField(field)}
+                    >
+                      {message}
+                    </button>
+                  ) : (
+                    message
+                  )}
+                </li>
               ))}
             </ul>
           </div>
@@ -303,6 +394,8 @@ export function SimpleBusiness() {
           <div className="field-columns">
             <Field
               name="easy-category"
+              anchor="category"
+              flagged={flag('category')}
               label={t('What kind of business?', '¿Qué tipo de negocio tienes?')}
             >
               {(p) => (
@@ -340,6 +433,8 @@ export function SimpleBusiness() {
           {b.profile.category === 'Other' && (
             <Field
               name="easy-other"
+              anchor="otherCategory"
+              flagged={flag('otherCategory')}
               label={t('Describe your business type', 'Describe tu tipo de negocio')}
             >
               {(p) => (
@@ -362,6 +457,8 @@ export function SimpleBusiness() {
           </div>
           <Field
             name="easy-problem"
+            anchor="problem"
+            flagged={flag('problem')}
             label={t('What makes this task difficult?', '¿Qué dificulta esta tarea?')}
             hint={t(
               'Your own words work best. Skip customer names and private details.',
@@ -453,6 +550,8 @@ export function SimpleBusiness() {
           <div className="field-columns">
             <Field
               name="easy-budget"
+              anchor="budget"
+              flagged={flag('budget')}
               label={t('Additional monthly budget (USD)', 'Presupuesto mensual adicional (USD)')}
               hint={t('$0 is welcome.', '$0 es válido.')}
             >
@@ -473,6 +572,8 @@ export function SimpleBusiness() {
             </Field>
             <Field
               name="easy-setup"
+              anchor="setup"
+              flagged={flag('setup')}
               label={t(
                 'Time available for setup (minutes)',
                 'Tiempo disponible para empezar (minutos)',
@@ -493,7 +594,10 @@ export function SimpleBusiness() {
               )}
             </Field>
           </div>
-          <fieldset>
+          <fieldset
+            data-field="systems"
+            className={flag('systems') ? 'field-flagged' : undefined}
+          >
             <legend>{t('Tools you already use', 'Herramientas que ya usas')}</legend>
             <div className="easy-chips">
               {systemOptions.map((s, i) => (
@@ -512,7 +616,10 @@ export function SimpleBusiness() {
               ))}
             </div>
           </fieldset>
-          <fieldset>
+          <fieldset
+            data-field="channels"
+            className={flag('channels') ? 'field-flagged' : undefined}
+          >
             <legend>{t('How do customers reach you?', '¿Cómo te contactan tus clientes?')}</legend>
             <div className="easy-chips">
               {channelOptions.map((s, i) => (
@@ -601,11 +708,16 @@ export function SimpleBusiness() {
                 'Enviamos tu descripción, tipo de negocio y límites a nuestro buscador, nunca el nombre de tu negocio. Si el orden con IA está activo, la descripción (sin datos de contacto) también la lee un modelo de IA mediante OpenRouter. Lo que compartas en “Hazlo más fácil para ti” solo lo usan nuestras reglas, nunca el modelo de IA. No se guarda nada.',
               )}
             </p>
-            <label className="checkbox-line">
+            <label
+              className={`checkbox-line ${flag('consent') ? 'field-flagged' : ''}`}
+              data-field="consent"
+            >
               <input
                 type="checkbox"
                 name="matching-consent"
-                defaultChecked={state.session.matchingConsent}
+                checked={consentOn}
+                aria-invalid={flag('consent') || undefined}
+                onChange={(e) => setConsentTicked(e.target.checked)}
               />
               <span>
                 {t(
