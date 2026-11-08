@@ -1,4 +1,5 @@
 import { z } from 'zod';
+import type { AccountBusiness } from '@/lib/domain/journey';
 import { configurationStatus } from '@/lib/server/config';
 import { journeyStore } from '@/lib/server/journey-store';
 import { requester } from '@/lib/server/journey-api';
@@ -13,12 +14,19 @@ export async function GET() {
     if (!configurationStatus().database) return json({ available: false, signedIn: false });
     const owner = await currentOwner();
     if (!owner) return json({ available: true, signedIn: false });
-    const store = await journeyStore();
-    const businesses = await store.listForAccount({
-      tokenHash: null,
-      userId: owner.userId,
-      accessToken: owner.accessToken,
-    });
+    // A signed-in owner must always be able to see (and use) the account menu to sign out,
+    // even when the Journey tables aren't available yet. Report no businesses in that case.
+    let businesses: AccountBusiness[] = [];
+    try {
+      const store = await journeyStore();
+      businesses = await store.listForAccount({
+        tokenHash: null,
+        userId: owner.userId,
+        accessToken: owner.accessToken,
+      });
+    } catch {
+      businesses = [];
+    }
     return json({ available: true, signedIn: true, email: owner.email, businesses });
   } catch (error) {
     return errorResponse(error);
