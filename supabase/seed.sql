@@ -1,0 +1,3 @@
+-- Intentionally empty. Fictional business examples live in src/lib/fixtures/businesses.ts.
+-- Never seed guest data into a cloud database or invent vendor evidence.
+-- Phase 2 will add an explicitly reviewed vendor import with provenance.

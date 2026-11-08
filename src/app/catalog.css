@@ -1,0 +1,447 @@
+.catalog-intro {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  padding: 23px 27px;
+  border: 1px solid #e0ded6;
+  border-radius: 14px;
+  background: #f1efea;
+}
+.catalog-intro > div {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.catalog-intro > p {
+  width: 100%;
+  font-size: 0.8125rem;
+  color: var(--muted);
+}
+.catalog-filters {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr 1fr 1fr;
+  gap: 16px;
+  padding: 22px;
+}
+.catalog-search {
+  grid-column: span 2;
+}
+.catalog-filters > div {
+  min-width: 0;
+}
+.catalog-grid + nav {
+  justify-content: center;
+  margin: 26px 0;
+}
+.catalog-filters label {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.catalog-filters input,
+.catalog-filters select {
+  width: 100%;
+  min-height: 46px;
+  padding: 10px;
+  border: 1px solid #d6d4cf;
+  border-radius: 8px;
+  background: white;
+  font-size: 0.8125rem;
+  color: var(--text);
+}
+.catalog-result-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0 14px;
+  font-size: 0.8125rem;
+  color: var(--muted);
+}
+.catalog-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+}
+.tool-card {
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+}
+.tool-monogram {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 43px;
+  width: 43px;
+  border-radius: 11px;
+  background: #eceae4;
+  color: #4a4a4a;
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+.tool-card .badge {
+  font-size: 0.625rem;
+}
+.tool-vendor {
+  font-size: 0.6875rem;
+  color: var(--muted);
+  margin-top: 20px;
+}
+.tool-card h2 {
+  font-size: 1.3rem;
+  margin: 5px 0 13px;
+}
+.tool-card h2 a:hover {
+  text-decoration: underline;
+}
+.tool-summary {
+  font-size: 0.8125rem;
+  color: var(--muted);
+  line-height: 1.8;
+  min-height: 65px;
+}
+.tool-jobs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin: 16px 0;
+}
+.tool-price {
+  border-top: 1px solid var(--line);
+  padding-top: 17px;
+  margin-top: auto;
+}
+.tool-price strong {
+  display: block;
+  font-size: 0.875rem;
+}
+.tool-price small {
+  display: block;
+  font-size: 0.6875rem;
+  color: var(--muted);
+  margin-top: 5px;
+}
+.tool-caveat {
+  display: flex;
+  gap: 7px;
+  align-items: flex-start;
+  font-size: 0.6875rem;
+  color: #585858;
+  margin: 18px 0;
+  line-height: 1.7;
+}
+.tool-card-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border-top: 1px solid var(--line);
+  padding-top: 13px;
+}
+.tool-card-footer > span {
+  font-size: 0.625rem;
+  color: var(--muted);
+}
+.tool-card-footer .text-button {
+  font-size: 0.75rem;
+}
+.catalog-footnote {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  margin-top: 25px;
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+.catalog-footnote .quiet-link {
+  font-size: 0.75rem;
+  flex-shrink: 0;
+}
+.detail-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 300px;
+  gap: 25px;
+}
+.detail-caption {
+  margin: 15px 0 22px;
+}
+.claim-list article {
+  padding: 20px 0;
+  border-top: 1px solid var(--line);
+}
+.claim-list strong {
+  font-size: 0.8125rem;
+  text-transform: capitalize;
+}
+.claim-list p {
+  font-size: 0.875rem;
+  margin-top: 12px;
+  line-height: 1.8;
+}
+.claim-list .small {
+  font-size: 0.75rem;
+}
+.claim-list .quiet-link {
+  font-size: 0.75rem;
+  justify-content: flex-start;
+}
+.detail-section {
+  margin-top: 24px;
+}
+.plain-list {
+  padding-left: 20px;
+  margin: 20px 0;
+}
+.plain-list li {
+  font-size: 0.8125rem;
+  line-height: 1.8;
+  margin-bottom: 12px;
+  color: #575757;
+}
+.detail-price h2 {
+  font-size: 1.5rem;
+  margin: 20px 0;
+}
+.detail-price h3 {
+  font-size: 0.875rem;
+}
+.detail-price p {
+  font-size: 0.8125rem;
+  color: var(--muted);
+  margin: 14px 0;
+  line-height: 1.8;
+}
+.detail-price .small {
+  font-size: 0.6875rem;
+}
+.detail-price .button {
+  margin-top: 15px;
+  font-size: 0.75rem;
+}
+.source-evidence {
+  border-top: 1px solid var(--line);
+  padding-top: 22px;
+  margin-top: 20px;
+}
+.source-evidence h3 {
+  font-size: 0.9375rem;
+}
+.source-url {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  font-size: 0.75rem;
+  color: var(--teal);
+  overflow-wrap: anywhere;
+  margin: 13px 0;
+  text-decoration: underline;
+}
+.source-url svg {
+  margin-top: 4px;
+}
+.source-evidence dl {
+  font-size: 0.75rem;
+}
+.source-evidence dl > div {
+  display: grid;
+  grid-template-columns: 130px minmax(0, 1fr);
+  gap: 10px;
+  margin-top: 9px;
+}
+.source-evidence dt {
+  color: var(--muted);
+}
+.source-evidence dd {
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+.admin-login {
+  max-width: 540px;
+}
+.admin-lock {
+  color: var(--teal);
+  margin-bottom: 20px;
+}
+.admin-login > p,
+.admin-run-form > p {
+  font-size: 0.8125rem;
+  color: var(--muted);
+  line-height: 1.8;
+  margin: 16px 0 24px;
+}
+.admin-run-form {
+  max-width: 850px;
+}
+.admin-runs,
+.admin-review-queue {
+  margin-top: 35px;
+}
+.admin-review-queue > p {
+  font-size: 0.8125rem;
+  margin: 14px 0 24px;
+}
+.run-row {
+  margin-top: 16px;
+  padding: 22px;
+}
+.run-row > p {
+  font-size: 0.8125rem;
+  margin-top: 10px;
+}
+.run-row > p.small {
+  font-size: 0.6875rem;
+}
+.run-row summary,
+.candidate-card summary {
+  cursor: pointer;
+  min-height: 44px;
+  padding: 10px 0;
+  color: var(--teal);
+  font-size: 0.8125rem;
+}
+.candidate-card {
+  margin-top: 22px;
+}
+.candidate-card > .row-between h3 {
+  font-size: 1.3rem;
+  margin-top: 9px;
+}
+.candidate-card > p {
+  margin: 16px 0;
+  font-size: 0.8125rem;
+}
+.candidate-card > .small {
+  font-size: 0.75rem;
+}
+.candidate-sources {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.candidate-sources a {
+  font-size: 0.8125rem;
+}
+.evidence-editor {
+  display: block;
+  width: 100%;
+  border: 1px solid #c3c3c3;
+  border-radius: 8px;
+  padding: 15px;
+  font: 12px/1.6 monospace;
+  white-space: pre;
+  overflow: auto;
+  resize: vertical;
+  margin: 14px 0;
+}
+.candidate-card > .field {
+  margin: 20px 0;
+}
+.candidate-card > .button-row {
+  margin-top: 22px;
+}
+.candidate-card > .checkbox-line {
+  margin-top: 20px;
+}
+.candidate-card button:disabled,
+.admin-run-form button:disabled {
+  opacity: 0.55;
+  transform: none;
+}
+.admin-status {
+  padding: 14px 20px;
+  background: #f0eee9;
+  border: 1px solid #cecece;
+  border-radius: 9px;
+  margin-bottom: 24px;
+  font-size: 0.8125rem;
+}
+.admin-review-queue .empty-state {
+  margin: 25px 0;
+  max-width: none;
+}
+@media (max-width: 1250px) {
+  .catalog-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .catalog-filters {
+    grid-template-columns: 1fr 1fr;
+  }
+  .detail-layout {
+    grid-template-columns: minmax(0, 1fr) 260px;
+  }
+  .detail-layout > .card {
+    padding: 22px;
+  }
+}
+@media (max-width: 980px) {
+  .detail-layout {
+    grid-template-columns: 1fr;
+  }
+  .detail-layout > aside {
+    grid-row: 1;
+  }
+  .detail-price {
+    max-width: none;
+  }
+  .catalog-grid {
+    gap: 15px;
+  }
+  .tool-card {
+    padding: 20px;
+  }
+  .tool-card > .row-between {
+    align-items: flex-start;
+    gap: 10px;
+  }
+}
+@media (max-width: 600px) {
+  .catalog-search {
+    grid-column: auto;
+  }
+  .catalog-grid,
+  .catalog-filters {
+    grid-template-columns: 1fr;
+  }
+  .catalog-intro {
+    padding: 20px;
+  }
+  .catalog-intro > div {
+    font-size: 0.875rem;
+  }
+  .catalog-footnote {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .source-evidence dl > div {
+    grid-template-columns: 1fr;
+    gap: 3px;
+  }
+  .source-evidence > .row-between {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .catalog-result-line {
+    gap: 15px;
+  }
+  .tool-summary {
+    min-height: auto;
+  }
+  .tool-card-footer {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+  }
+  .detail-layout .card {
+    padding: 23px;
+  }
+  .candidate-card .row-between {
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+}

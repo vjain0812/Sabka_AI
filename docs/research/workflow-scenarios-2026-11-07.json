@@ -1,0 +1,792 @@
+[
+ {
+  "slug": "mindbody",
+  "name": "Mindbody",
+  "vendor": "Mindbody",
+  "website": "https://www.mindbodyonline.com/",
+  "jobs": [],
+  "summary": "Class and appointment booking for fitness and wellness businesses, with automated reminders, waitlist notifications and cancellation windows.",
+  "libraryWorkflows": [
+   "scheduling",
+   "communications"
+  ],
+  "businessTypes": [
+   "health_wellness",
+   "education_creators"
+  ],
+  "aliases": [],
+  "capabilities": [
+   {
+    "text": "Manages classes and appointments from one schedule, with automated reminders sent before services.",
+    "url": "https://www.mindbodyonline.com/business/scheduling"
+   },
+   {
+    "text": "Notifies waitlisted clients when spots open and supports cancellation windows that limit late cancellations.",
+    "url": "https://www.mindbodyonline.com/business/scheduling"
+   }
+  ],
+  "pricing": {
+   "tier": "Applicable plan not verified",
+   "monthlyUsd": null,
+   "billingBasis": null,
+   "url": "https://www.mindbodyonline.com/business/scheduling",
+   "notes": "Full applicable plan, seat and usage cost has not been verified. SMS confirmation features are described as tier-dependent on the vendor site. Consult the vendor; this entry is not a price quotation."
+  },
+  "limitations": [
+   "Reminder and cancellation policies are business settings; the owner decides fees and exceptions.",
+   "Official-source review only; no independent task test or SABKA AI integration is claimed."
+  ],
+  "unknowns": [
+   "Business-specific compatibility and setup effort have not been tested.",
+   "Applicable price, usage limits and regional availability require confirmation.",
+   "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+   "No licensed customer-review data or measured adoption outcomes are included."
+  ],
+  "sources": [
+   {
+    "url": "https://www.mindbodyonline.com/business/scheduling",
+    "title": "Mindbody scheduling software",
+    "type": "official",
+    "checkedAt": "2026-11-07T22:55:00Z",
+    "permissionBasis": "Public official page consulted via web research on the checked date. Store only an original short factual summary with attribution and a link; no bulk copying, vendor endorsement or third-party review license is claimed.",
+    "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+   }
+  ]
+ },
+ {
+  "slug": "fitune",
+  "name": "Fitune",
+  "vendor": "Fitune",
+  "website": "https://fitune.io/",
+  "jobs": [],
+  "summary": "Studio scheduling for instructors and small fitness businesses: recurring classes, client self-booking and a booking and cancellation dashboard.",
+  "libraryWorkflows": [
+   "scheduling"
+  ],
+  "businessTypes": [
+   "health_wellness",
+   "education_creators"
+  ],
+  "aliases": [],
+  "capabilities": [
+   {
+    "text": "Lists booking and cancellation management from a simple dashboard for studio owners and instructors.",
+    "url": "https://fitune.io/features/booking-management"
+   },
+   {
+    "text": "Supports creating recurring or one-off classes and assigning trainers to classes.",
+    "url": "https://fitune.io/features/booking-management"
+   }
+  ],
+  "pricing": {
+   "tier": "Applicable plan not verified",
+   "monthlyUsd": null,
+   "billingBasis": null,
+   "url": "https://fitune.io/features/booking-management",
+   "notes": "Full applicable plan, seat and usage cost has not been verified. The vendor lists a free-forever tier alongside paid tiers; included limits were not verified. Consult the vendor; this entry is not a price quotation."
+  },
+  "limitations": [
+   "The vendor site blocked automated retrieval (HTTP 403) on the checked date; page titles were confirmed through web-search listings of fitune.io and need a manual recheck.",
+   "Official-source review only; no independent task test or SABKA AI integration is claimed."
+  ],
+  "unknowns": [
+   "Business-specific compatibility and setup effort have not been tested.",
+   "Applicable price, usage limits and regional availability require confirmation.",
+   "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+   "No licensed customer-review data or measured adoption outcomes are included."
+  ],
+  "sources": [
+   {
+    "url": "https://fitune.io/features/booking-management",
+    "title": "Fitune booking management",
+    "type": "official",
+    "checkedAt": "2026-11-07T22:55:00Z",
+    "permissionBasis": "Public official page consulted via web research on the checked date. Store only an original short factual summary with attribution and a link; no bulk copying, vendor endorsement or third-party review license is claimed.",
+    "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance. Direct fetch was blocked; confirmed via search listing."
+   },
+   {
+    "url": "https://fitune.io/features/in-person-group-classes",
+    "title": "Fitune in-person group classes",
+    "type": "official",
+    "checkedAt": "2026-11-07T22:55:00Z",
+    "permissionBasis": "Public official page consulted via web research on the checked date. Store only an original short factual summary with attribution and a link; no bulk copying, vendor endorsement or third-party review license is claimed.",
+    "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+   }
+  ]
+ },
+ {
+  "slug": "jobber",
+  "name": "Jobber",
+  "vendor": "Jobber",
+  "website": "https://www.getjobber.com/",
+  "jobs": [],
+  "summary": "Field-service scheduling, quoting and client communication for home-service businesses, with an optional AI Receptionist for calls and texts.",
+  "libraryWorkflows": [
+   "scheduling",
+   "communications",
+   "projects_operations"
+  ],
+  "businessTypes": [
+   "home_field_services"
+  ],
+  "aliases": [],
+  "capabilities": [
+   {
+    "text": "The AI Receptionist answers calls and texts 24/7, books visits and takes requests or messages.",
+    "url": "https://www.getjobber.com/features/ai-receptionist/"
+   },
+   {
+    "text": "When a job cannot be booked outright, the Receptionist can create a work request for the business to review.",
+    "url": "https://www.getjobber.com/features/ai-receptionist/"
+   }
+  ],
+  "pricing": {
+   "tier": "Applicable plan not verified",
+   "monthlyUsd": null,
+   "billingBasis": null,
+   "url": "https://www.getjobber.com/features/ai-receptionist/",
+   "notes": "Full applicable plan, seat and usage cost has not been verified. The vendor page links to pricing without listing a Receptionist price on the checked page. Consult the vendor; this entry is not a price quotation."
+  },
+  "limitations": [
+   "The Receptionist talks to callers directly; confirm which actions it may take without the owner's review.",
+   "Official-source review only; no independent task test or SABKA AI integration is claimed."
+  ],
+  "unknowns": [
+   "Business-specific compatibility and setup effort have not been tested.",
+   "Applicable price, usage limits and regional availability require confirmation.",
+   "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+   "No licensed customer-review data or measured adoption outcomes are included."
+  ],
+  "sources": [
+   {
+    "url": "https://www.getjobber.com/features/ai-receptionist/",
+    "title": "Jobber AI Receptionist",
+    "type": "official",
+    "checkedAt": "2026-11-07T22:55:00Z",
+    "permissionBasis": "Public official page consulted via web research on the checked date. Store only an original short factual summary with attribution and a link; no bulk copying, vendor endorsement or third-party review license is claimed.",
+    "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+   }
+  ]
+ },
+ {
+  "slug": "housecall-pro",
+  "name": "Housecall Pro CSR AI",
+  "vendor": "Housecall Pro",
+  "website": "https://www.housecallpro.com/",
+  "jobs": [],
+  "summary": "Home-service job management with CSR AI, a virtual assistant that answers business calls, responds to common questions and can be set to book jobs.",
+  "libraryWorkflows": [
+   "scheduling",
+   "communications"
+  ],
+  "businessTypes": [
+   "home_field_services"
+  ],
+  "aliases": [],
+  "capabilities": [
+   {
+    "text": "CSR AI answers business calls, responds to common questions and can be configured to book jobs.",
+    "url": "https://help.housecallpro.com/en/articles/9740104-csr-ai-overview"
+   },
+   {
+    "text": "Each call appears in a call log with customer details, a summary and urgency for the business to review.",
+    "url": "https://help.housecallpro.com/en/articles/9740104-csr-ai-overview"
+   }
+  ],
+  "pricing": {
+   "tier": "Applicable plan not verified",
+   "monthlyUsd": null,
+   "billingBasis": null,
+   "url": "https://help.housecallpro.com/en/articles/9740104-csr-ai-overview",
+   "notes": "Full applicable plan, seat and usage cost has not been verified. Add-on status and price were not stated in the checked help article. Consult the vendor; this entry is not a price quotation."
+  },
+  "limitations": [
+   "Call forwarding setup depends on the business's phone carrier.",
+   "Booking automatically is a setting; keep confirmation with a person where needed.",
+   "Official-source review only; no independent task test or SABKA AI integration is claimed."
+  ],
+  "unknowns": [
+   "Business-specific compatibility and setup effort have not been tested.",
+   "Applicable price, usage limits and regional availability require confirmation.",
+   "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+   "No licensed customer-review data or measured adoption outcomes are included."
+  ],
+  "sources": [
+   {
+    "url": "https://help.housecallpro.com/en/articles/9740104-csr-ai-overview",
+    "title": "Housecall Pro CSR AI overview",
+    "type": "official",
+    "checkedAt": "2026-11-07T22:55:00Z",
+    "permissionBasis": "Public official page consulted via web research on the checked date. Store only an original short factual summary with attribution and a link; no bulk copying, vendor endorsement or third-party review license is claimed.",
+    "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+   }
+  ]
+ },
+ {
+  "slug": "smith-ai",
+  "name": "Smith.ai AI Receptionist",
+  "vendor": "Smith.ai",
+  "website": "https://smith.ai/",
+  "jobs": [],
+  "summary": "AI-first phone answering that screens and qualifies callers, books appointments and can hand calls to live human agents.",
+  "libraryWorkflows": [
+   "communications",
+   "scheduling"
+  ],
+  "businessTypes": [
+   "home_field_services",
+   "professional_services"
+  ],
+  "aliases": [],
+  "capabilities": [
+   {
+    "text": "Answers calls 24/7, screens and qualifies callers, books appointments and syncs details to connected tools.",
+    "url": "https://smith.ai/ai-receptionist"
+   },
+   {
+    "text": "Offers escalation to a live human agent network.",
+    "url": "https://smith.ai/ai-receptionist"
+   }
+  ],
+  "pricing": {
+   "tier": "Plan depends on call volume",
+   "monthlyUsd": null,
+   "billingBasis": null,
+   "url": "https://smith.ai/ai-receptionist",
+   "notes": "The checked official page described a starting tier with included calls, per-call charges beyond it and higher monthly plans. Per-call charges mean the total depends on volume, so no monthly total is recorded. Confirm current terms with the vendor."
+  },
+  "limitations": [
+   "Callers speak with the AI directly; confirm escalation rules and what it may promise customers.",
+   "Official-source review only; no independent task test or SABKA AI integration is claimed."
+  ],
+  "unknowns": [
+   "Business-specific compatibility and setup effort have not been tested.",
+   "Applicable price, usage limits and regional availability require confirmation.",
+   "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+   "No licensed customer-review data or measured adoption outcomes are included."
+  ],
+  "sources": [
+   {
+    "url": "https://smith.ai/ai-receptionist",
+    "title": "Smith.ai AI Receptionist",
+    "type": "official",
+    "checkedAt": "2026-11-07T22:55:00Z",
+    "permissionBasis": "Public official page consulted via web research on the checked date. Store only an original short factual summary with attribution and a link; no bulk copying, vendor endorsement or third-party review license is claimed.",
+    "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+   }
+  ]
+ },
+ {
+  "slug": "eliseai",
+  "name": "EliseAI",
+  "vendor": "EliseAI",
+  "website": "https://eliseai.com/",
+  "jobs": [],
+  "summary": "Leasing communication assistant for property managers that handles prospect inquiries by text, email, website chat and phone.",
+  "libraryWorkflows": [
+   "communications",
+   "sales_crm",
+   "scheduling"
+  ],
+  "businessTypes": [
+   "professional_services"
+  ],
+  "aliases": [],
+  "capabilities": [
+   {
+    "text": "Engages prospects and residents across text, email, website chat and phone, including after hours.",
+    "url": "https://eliseai.com/"
+   },
+   {
+    "text": "Describes email follow-ups for leasing prospects and guided tour options.",
+    "url": "https://eliseai.com/"
+   }
+  ],
+  "pricing": {
+   "tier": "Applicable plan not verified",
+   "monthlyUsd": null,
+   "billingBasis": null,
+   "url": "https://eliseai.com/",
+   "notes": "Full applicable plan, seat and usage cost has not been verified. The checked page lists no public pricing. Consult the vendor; this entry is not a price quotation."
+  },
+  "limitations": [
+   "Built for property-management teams; suitability for a single independent agent is unverified.",
+   "Responds to prospects automatically; confirm whether replies can be held for staff approval.",
+   "Official-source review only; no independent task test or SABKA AI integration is claimed."
+  ],
+  "unknowns": [
+   "Business-specific compatibility and setup effort have not been tested.",
+   "Applicable price, usage limits and regional availability require confirmation.",
+   "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+   "No licensed customer-review data or measured adoption outcomes are included."
+  ],
+  "sources": [
+   {
+    "url": "https://eliseai.com/",
+    "title": "EliseAI home page",
+    "type": "official",
+    "checkedAt": "2026-11-07T22:55:00Z",
+    "permissionBasis": "Public official page consulted via web research on the checked date. Store only an original short factual summary with attribution and a link; no bulk copying, vendor endorsement or third-party review license is claimed.",
+    "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+   }
+  ]
+ },
+ {
+  "slug": "structurely",
+  "name": "Structurely",
+  "vendor": "Structurely (21X)",
+  "website": "https://www.structurely.com/",
+  "jobs": [],
+  "summary": "Conversational lead assistant that qualifies, answers, schedules and follows up with leads across SMS, email, chat and voice.",
+  "libraryWorkflows": [
+   "sales_crm",
+   "communications"
+  ],
+  "businessTypes": [
+   "professional_services"
+  ],
+  "aliases": [
+   "21X"
+  ],
+  "capabilities": [
+   {
+    "text": "Qualifies, answers, schedules, transfers and follows up with leads across voice, SMS, email and chat.",
+    "url": "https://www.structurely.com/"
+   }
+  ],
+  "pricing": {
+   "tier": "Applicable plan not verified",
+   "monthlyUsd": null,
+   "billingBasis": null,
+   "url": "https://www.structurely.com/",
+   "notes": "Full applicable plan, seat and usage cost has not been verified. The checked page links to pricing without listing it. Consult the vendor; this entry is not a price quotation."
+  },
+  "limitations": [
+   "The checked page presents the product under the 21X name and details mortgage use most fully; real-estate leasing detail requires confirmation.",
+   "Contacts leads automatically; confirm consent, messaging rules and approval settings.",
+   "Official-source review only; no independent task test or SABKA AI integration is claimed."
+  ],
+  "unknowns": [
+   "Business-specific compatibility and setup effort have not been tested.",
+   "Applicable price, usage limits and regional availability require confirmation.",
+   "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+   "No licensed customer-review data or measured adoption outcomes are included."
+  ],
+  "sources": [
+   {
+    "url": "https://www.structurely.com/",
+    "title": "Structurely / 21X home page",
+    "type": "official",
+    "checkedAt": "2026-11-07T22:55:00Z",
+    "permissionBasis": "Public official page consulted via web research on the checked date. Store only an original short factual summary with attribution and a link; no bulk copying, vendor endorsement or third-party review license is claimed.",
+    "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+   }
+  ]
+ },
+ {
+  "slug": "appfolio",
+  "name": "AppFolio Realm-X",
+  "vendor": "AppFolio",
+  "website": "https://www.appfolio.com/",
+  "jobs": [],
+  "summary": "Property-management platform whose Leasing Performer answers rental inquiries by phone, email and text and schedules tours.",
+  "libraryWorkflows": [
+   "projects_operations",
+   "communications",
+   "scheduling"
+  ],
+  "businessTypes": [
+   "professional_services"
+  ],
+  "aliases": [],
+  "capabilities": [
+   {
+    "text": "Leasing Performer answers inquiries 24/7 by phone, email and text in multiple languages and schedules tours.",
+    "url": "https://www.appfolio.com/newsroom/appfolio-deepens-agentic-ai-across-leasing-accounting-and-resident-operations"
+   }
+  ],
+  "pricing": {
+   "tier": "Applicable plan not verified",
+   "monthlyUsd": null,
+   "billingBasis": null,
+   "url": "https://www.appfolio.com/newsroom/appfolio-deepens-agentic-ai-across-leasing-accounting-and-resident-operations",
+   "notes": "Full applicable plan, seat and usage cost has not been verified. A newsroom announcement does not establish plan pricing. Consult the vendor; this entry is not a price quotation."
+  },
+  "limitations": [
+   "The checked source is a vendor press release, not product documentation.",
+   "Vendor-reported performance figures are not repeated as outcomes here.",
+   "Official-source review only; no independent task test or SABKA AI integration is claimed."
+  ],
+  "unknowns": [
+   "Business-specific compatibility and setup effort have not been tested.",
+   "Applicable price, usage limits and regional availability require confirmation.",
+   "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+   "No licensed customer-review data or measured adoption outcomes are included."
+  ],
+  "sources": [
+   {
+    "url": "https://www.appfolio.com/newsroom/appfolio-deepens-agentic-ai-across-leasing-accounting-and-resident-operations",
+    "title": "AppFolio newsroom: agentic AI across leasing, accounting and resident operations",
+    "type": "official",
+    "checkedAt": "2026-11-07T22:55:00Z",
+    "permissionBasis": "Public official page consulted via web research on the checked date. Store only an original short factual summary with attribution and a link; no bulk copying, vendor endorsement or third-party review license is claimed.",
+    "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+   }
+  ]
+ },
+ {
+  "slug": "cents",
+  "name": "Cents",
+  "vendor": "Cents",
+  "website": "https://www.trycents.com/",
+  "jobs": [],
+  "summary": "Laundromat and laundry-service operations software with online ordering, order tracking and automatic, customizable order-status texts.",
+  "libraryWorkflows": [
+   "communications",
+   "websites_commerce",
+   "projects_operations"
+  ],
+  "businessTypes": [
+   "home_field_services",
+   "retail_ecommerce"
+  ],
+  "aliases": [],
+  "capabilities": [
+   {
+    "text": "Customers can order online, set up recurring orders and arrange delivery.",
+    "url": "https://trycents.com/solutions/online-ordering"
+   },
+   {
+    "text": "Tracks each order step and can automatically send customizable text notifications in multiple languages.",
+    "url": "https://trycents.com/solutions/online-ordering"
+   }
+  ],
+  "pricing": {
+   "tier": "Applicable plan not verified",
+   "monthlyUsd": null,
+   "billingBasis": null,
+   "url": "https://trycents.com/solutions/online-ordering",
+   "notes": "Full applicable plan, seat and usage cost has not been verified. The checked page links to pricing without listing it. Consult the vendor; this entry is not a price quotation."
+  },
+  "limitations": [
+   "Notification wording is set by the business; review templates before turning them on.",
+   "Official-source review only; no independent task test or SABKA AI integration is claimed."
+  ],
+  "unknowns": [
+   "Business-specific compatibility and setup effort have not been tested.",
+   "Applicable price, usage limits and regional availability require confirmation.",
+   "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+   "No licensed customer-review data or measured adoption outcomes are included."
+  ],
+  "sources": [
+   {
+    "url": "https://trycents.com/solutions/online-ordering",
+    "title": "Cents online ordering",
+    "type": "official",
+    "checkedAt": "2026-11-07T22:55:00Z",
+    "permissionBasis": "Public official page consulted via web research on the checked date. Store only an original short factual summary with attribution and a link; no bulk copying, vendor endorsement or third-party review license is claimed.",
+    "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+   }
+  ]
+ },
+ {
+  "slug": "cleancloud",
+  "name": "CleanCloud",
+  "vendor": "CleanCloud",
+  "website": "https://cleancloudapp.com/",
+  "jobs": [],
+  "summary": "Laundry and dry-cleaning POS that tracks garments through the workflow and keeps customers informed by email, SMS, push and WhatsApp.",
+  "libraryWorkflows": [
+   "communications",
+   "websites_commerce",
+   "projects_operations"
+  ],
+  "businessTypes": [
+   "home_field_services",
+   "retail_ecommerce"
+  ],
+  "aliases": [],
+  "capabilities": [
+   {
+    "text": "Follows garments through the workflow and keeps customers informed by email, SMS, push and WhatsApp, including late-pickup reminders.",
+    "url": "https://cleancloudapp.com/features"
+   },
+   {
+    "text": "Branded customer apps let customers book pickup and delivery orders.",
+    "url": "https://cleancloudapp.com/features"
+   }
+  ],
+  "pricing": {
+   "tier": "Applicable plan not verified",
+   "monthlyUsd": null,
+   "billingBasis": null,
+   "url": "https://cleancloudapp.com/features",
+   "notes": "Full applicable plan, seat and usage cost has not been verified. The checked page links to pricing without listing it; some messaging customization may carry fees. Consult the vendor; this entry is not a price quotation."
+  },
+  "limitations": [
+   "Automatic reminders are configured by the business; confirm message timing and content.",
+   "Official-source review only; no independent task test or SABKA AI integration is claimed."
+  ],
+  "unknowns": [
+   "Business-specific compatibility and setup effort have not been tested.",
+   "Applicable price, usage limits and regional availability require confirmation.",
+   "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+   "No licensed customer-review data or measured adoption outcomes are included."
+  ],
+  "sources": [
+   {
+    "url": "https://cleancloudapp.com/features",
+    "title": "CleanCloud features",
+    "type": "official",
+    "checkedAt": "2026-11-07T22:55:00Z",
+    "permissionBasis": "Public official page consulted via web research on the checked date. Store only an original short factual summary with attribution and a link; no bulk copying, vendor endorsement or third-party review license is claimed.",
+    "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+   }
+  ]
+ },
+ {
+  "slug": "bakesy",
+  "name": "Bakesy",
+  "vendor": "Bakesy",
+  "website": "https://www.bakesy.app/",
+  "jobs": [],
+  "summary": "Order management for home bakers: a shop for order inquiries, custom order forms, order-status updates and real-time notifications.",
+  "libraryWorkflows": [
+   "websites_commerce",
+   "projects_operations"
+  ],
+  "businessTypes": [
+   "food_hospitality"
+  ],
+  "aliases": [],
+  "capabilities": [
+   {
+    "text": "Captures orders placed through a Bakesy Shop, sends real-time notifications and lets the baker update order statuses.",
+    "url": "https://www.bakesy.app/receive-orders"
+   }
+  ],
+  "pricing": {
+   "tier": "Applicable plan not verified",
+   "monthlyUsd": null,
+   "billingBasis": null,
+   "url": "https://www.bakesy.app/receive-orders",
+   "notes": "Full applicable plan, seat and usage cost has not been verified. The checked page links to pricing without listing it. Consult the vendor; this entry is not a price quotation."
+  },
+  "limitations": [
+   "Orders arriving by phone or WhatsApp still need to be entered by the baker.",
+   "Official-source review only; no independent task test or SABKA AI integration is claimed."
+  ],
+  "unknowns": [
+   "Business-specific compatibility and setup effort have not been tested.",
+   "Applicable price, usage limits and regional availability require confirmation.",
+   "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+   "No licensed customer-review data or measured adoption outcomes are included."
+  ],
+  "sources": [
+   {
+    "url": "https://www.bakesy.app/receive-orders",
+    "title": "Bakesy receive orders",
+    "type": "official",
+    "checkedAt": "2026-11-07T22:55:00Z",
+    "permissionBasis": "Public official page consulted via web research on the checked date. Store only an original short factual summary with attribution and a link; no bulk copying, vendor endorsement or third-party review license is claimed.",
+    "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+   }
+  ]
+ },
+ {
+  "slug": "jotform-ai-agents",
+  "name": "Jotform AI Agents",
+  "vendor": "Jotform",
+  "website": "https://www.jotform.com/",
+  "jobs": [],
+  "summary": "Conversational assistants that chat with customers, help them complete forms and answer questions across channels such as WhatsApp, Messenger and phone.",
+  "libraryWorkflows": [
+   "communications",
+   "documents_data",
+   "automation"
+  ],
+  "businessTypes": [
+   "all_small_businesses"
+  ],
+  "aliases": [],
+  "capabilities": [
+   {
+    "text": "Chat with users, help them complete forms and answer questions across channels including WhatsApp, Messenger, phone and voice.",
+    "url": "https://www.jotform.com/ai/agents/"
+   }
+  ],
+  "pricing": {
+   "tier": "Applicable plan not verified",
+   "monthlyUsd": null,
+   "billingBasis": null,
+   "url": "https://www.jotform.com/ai/agents/",
+   "notes": "Full applicable plan, seat and usage cost has not been verified. The checked page says creating an agent is free and refers to a pricing page for plan limits. Consult the vendor; this entry is not a price quotation."
+  },
+  "limitations": [
+   "The agent answers customers directly; train it only on business facts you approve and review submissions yourself.",
+   "Official-source review only; no independent task test or SABKA AI integration is claimed."
+  ],
+  "unknowns": [
+   "Business-specific compatibility and setup effort have not been tested.",
+   "Applicable price, usage limits and regional availability require confirmation.",
+   "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+   "No licensed customer-review data or measured adoption outcomes are included."
+  ],
+  "sources": [
+   {
+    "url": "https://www.jotform.com/ai/agents/",
+    "title": "Jotform AI Agents",
+    "type": "official",
+    "checkedAt": "2026-11-07T22:55:00Z",
+    "permissionBasis": "Public official page consulted via web research on the checked date. Store only an original short factual summary with attribution and a link; no bulk copying, vendor endorsement or third-party review license is claimed.",
+    "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+   }
+  ]
+ },
+ {
+  "slug": "plantix",
+  "name": "Plantix",
+  "vendor": "PEAT GmbH",
+  "website": "https://plantix.net/",
+  "jobs": [],
+  "summary": "Crop-diagnosis app: photograph an affected plant to get a likely pest, disease or nutrient diagnosis with treatment suggestions.",
+  "libraryWorkflows": [
+   "research_knowledge"
+  ],
+  "businessTypes": [
+   "agriculture_manufacturing"
+  ],
+  "aliases": [],
+  "capabilities": [
+   {
+    "text": "Photograph a sick plant to receive a diagnosis, treatment suggestions and access to a crop-disease library.",
+    "url": "https://plantix.net/en"
+   }
+  ],
+  "pricing": {
+   "tier": "Free app",
+   "monthlyUsd": 0,
+   "billingBasis": "Free mobile app",
+   "url": "https://plantix.net/en",
+   "notes": "The official site describes Plantix as a free app for crop diagnosis and treatments. Treatments it suggests may themselves cost money."
+  },
+  "limitations": [
+   "Diagnoses are suggestions; confirm with a local agronomist or extension service before treating crops.",
+   "Official-source review only; no independent task test or SABKA AI integration is claimed."
+  ],
+  "unknowns": [
+   "Business-specific compatibility and setup effort have not been tested.",
+   "Applicable price, usage limits and regional availability require confirmation.",
+   "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+   "No licensed customer-review data or measured adoption outcomes are included."
+  ],
+  "sources": [
+   {
+    "url": "https://plantix.net/en",
+    "title": "Plantix home page",
+    "type": "official",
+    "checkedAt": "2026-11-07T22:55:00Z",
+    "permissionBasis": "Public official page consulted via web research on the checked date. Store only an original short factual summary with attribution and a link; no bulk copying, vendor endorsement or third-party review license is claimed.",
+    "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+   }
+  ]
+ },
+ {
+  "slug": "cropx",
+  "name": "CropX",
+  "vendor": "CropX",
+  "website": "https://cropx.com/",
+  "jobs": [],
+  "summary": "Soil-sensor platform that tracks soil moisture and temperature and turns field data into irrigation recommendations.",
+  "libraryWorkflows": [
+   "research_knowledge",
+   "documents_data"
+  ],
+  "businessTypes": [
+   "agriculture_manufacturing"
+  ],
+  "aliases": [],
+  "capabilities": [
+   {
+    "text": "In-field soil sensors track moisture and temperature in real time, and irrigation planning tools turn the data into watering recommendations.",
+    "url": "https://cropx.com/"
+   }
+  ],
+  "pricing": {
+   "tier": "Applicable plan not verified",
+   "monthlyUsd": null,
+   "billingBasis": null,
+   "url": "https://cropx.com/",
+   "notes": "Full applicable plan, seat and usage cost has not been verified. Pricing is quoted after a demo and depends on hardware, software and services. Consult the vendor; this entry is not a price quotation."
+  },
+  "limitations": [
+   "Requires installing and maintaining field sensors.",
+   "Irrigation decisions remain the farmer's.",
+   "Official-source review only; no independent task test or SABKA AI integration is claimed."
+  ],
+  "unknowns": [
+   "Business-specific compatibility and setup effort have not been tested.",
+   "Applicable price, usage limits and regional availability require confirmation.",
+   "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+   "No licensed customer-review data or measured adoption outcomes are included."
+  ],
+  "sources": [
+   {
+    "url": "https://cropx.com/",
+    "title": "CropX platform",
+    "type": "official",
+    "checkedAt": "2026-11-07T22:55:00Z",
+    "permissionBasis": "Public official page consulted via web research on the checked date. Store only an original short factual summary with attribution and a link; no bulk copying, vendor endorsement or third-party review license is claimed.",
+    "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+   }
+  ]
+ },
+ {
+  "slug": "onesoil",
+  "name": "OneSoil",
+  "vendor": "OneSoil AG",
+  "website": "https://onesoil.ai/",
+  "jobs": [],
+  "summary": "Satellite field monitoring that tracks crop health with NDVI imagery, with free web and mobile scouting tools and paid PRO features.",
+  "libraryWorkflows": [
+   "research_knowledge"
+  ],
+  "businessTypes": [
+   "agriculture_manufacturing"
+  ],
+  "aliases": [],
+  "capabilities": [
+   {
+    "text": "Uses satellite imagery to track crop health through NDVI, with a free mobile scouting app and web app.",
+    "url": "https://intercom.help/onesoil/en/articles/5237693-what-is-onesoil"
+   }
+  ],
+  "pricing": {
+   "tier": "Free web and mobile tools",
+   "monthlyUsd": 0,
+   "billingBasis": "Free core tools; PRO priced by hectares and features",
+   "url": "https://intercom.help/onesoil/en/articles/5237693-what-is-onesoil",
+   "notes": "Core web and mobile tools are described as free. PRO features require a subscription priced by area and features, with a 14-day trial."
+  },
+  "limitations": [
+   "Satellite views can be delayed or obscured by clouds; walk the field before acting.",
+   "Official-source review only; no independent task test or SABKA AI integration is claimed."
+  ],
+  "unknowns": [
+   "Business-specific compatibility and setup effort have not been tested.",
+   "Applicable price, usage limits and regional availability require confirmation.",
+   "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+   "No licensed customer-review data or measured adoption outcomes are included."
+  ],
+  "sources": [
+   {
+    "url": "https://intercom.help/onesoil/en/articles/5237693-what-is-onesoil",
+    "title": "OneSoil help center: What is OneSoil",
+    "type": "official",
+    "checkedAt": "2026-11-07T22:55:00Z",
+    "permissionBasis": "Public official page consulted via web research on the checked date. Store only an original short factual summary with attribution and a link; no bulk copying, vendor endorsement or third-party review license is claimed.",
+    "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+   }
+  ]
+ }
+]

@@ -1,0 +1,670 @@
+[
+  {
+    "slug": "grammarly",
+    "name": "Grammarly",
+    "vendor": "Grammarly",
+    "website": "https://www.grammarly.com/",
+    "jobs": [
+      "customer_reply_drafting"
+    ],
+    "summary": "Writing assistance for drafting and revising customer emails.",
+    "capabilities": [
+      {
+        "text": "Generate email text and revise wording in Gmail using Grammarly's writing interface.",
+        "url": "https://www.grammarly.com/gmail"
+      },
+      {
+        "text": "The Free plan lists 100 generative AI prompts per month.",
+        "url": "https://www.grammarly.com/plans"
+      }
+    ],
+    "pricing": {
+      "tier": "Free",
+      "monthlyUsd": 0,
+      "billingBasis": "USD per month; Free plan",
+      "url": "https://www.grammarly.com/plans",
+      "notes": "Limited to 100 AI prompts monthly. Advanced full-sentence rewrites and tone adjustments are listed under Pro; this is not a claim that every advertised feature is free."
+    },
+    "limitations": [
+      "Keep outgoing messages under human review; no SABKA AI sending integration exists.",
+      "Do not infer that all Pro writing controls are included in Free."
+    ],
+    "unknowns": [
+      "Accessibility conformance has not been independently verified.",
+      "Setup effort and compatibility with this business have not been tested.",
+      "No licensed independent customer-review dataset or independent task test is included.",
+      "Retention suitability for the user's specific customer data requires policy review."
+    ],
+    "sources": [
+      {
+        "url": "https://www.grammarly.com/gmail",
+        "title": "Grammarly for Gmail",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      },
+      {
+        "url": "https://www.grammarly.com/plans",
+        "title": "Grammarly Prices and Plans",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      },
+      {
+        "url": "https://www.grammarly.com/privacy-policy",
+        "title": "Grammarly privacy policy",
+        "type": "policy",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Policy link inspected; retention and security suitability are not certified."
+      }
+    ]
+  },
+  {
+    "slug": "front-copilot",
+    "name": "Front Copilot",
+    "vendor": "Front",
+    "website": "https://front.com/",
+    "jobs": [
+      "customer_reply_drafting"
+    ],
+    "summary": "An assistant inside Front for preparing customer-service replies.",
+    "capabilities": [
+      {
+        "text": "Draft and refine replies using conversation context, knowledge sources and custom instructions.",
+        "url": "https://help.front.com/en/articles/4848832"
+      }
+    ],
+    "pricing": {
+      "tier": "Front plan plus Copilot, or Enterprise with Copilot",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://front.com/pricing",
+      "notes": "Pricing lists a $20 per-seat monthly Copilot add-on for Starter/Professional; base-plan fees are additional. Total applicable contract cost is unverified."
+    },
+    "limitations": [
+      "Copilot requires an included plan or add-on and appropriately configured knowledge sources.",
+      "Do not confuse draft assistance with Front Autopilot, which can automate customer replies."
+    ],
+    "unknowns": [
+      "Accessibility conformance has not been independently verified.",
+      "Setup effort and compatibility with this business have not been tested.",
+      "No licensed independent customer-review dataset or independent task test is included.",
+      "Final seat count, base plan, billing commitment and channel fees need verification."
+    ],
+    "sources": [
+      {
+        "url": "https://help.front.com/en/articles/4848832",
+        "title": "Get real-time conversational assistance in your inbox with Copilot",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      },
+      {
+        "url": "https://front.com/pricing",
+        "title": "Front Pricing and Plans",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      }
+    ]
+  },
+  {
+    "slug": "intercom-copilot",
+    "name": "Intercom Copilot",
+    "vendor": "Intercom",
+    "website": "https://www.intercom.com/",
+    "jobs": [
+      "customer_reply_drafting"
+    ],
+    "summary": "Inbox assistance that uses enabled knowledge sources to help agents answer customers.",
+    "capabilities": [
+      {
+        "text": "Generate answers from configured knowledge sources and inspect supporting references before sending.",
+        "url": "https://www.intercom.com/help/en/articles/8587194-how-to-use-copilot"
+      }
+    ],
+    "pricing": {
+      "tier": "Intercom helpdesk plus Copilot",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.intercom.com/pricing",
+      "notes": "Copilot is listed as an add-on at $35 per agent per month on monthly billing, or $29 with annual billing. Base helpdesk costs remain additional and total cost is unverified."
+    },
+    "limitations": [
+      "Knowledge sources must be configured and answers checked before use.",
+      "Copilot assistance is distinct from the autonomous Fin AI Agent."
+    ],
+    "unknowns": [
+      "Accessibility conformance has not been independently verified.",
+      "Setup effort and compatibility with this business have not been tested.",
+      "No licensed independent customer-review dataset or independent task test is included.",
+      "Applicable base plan, total cost and data-policy fit need verification."
+    ],
+    "sources": [
+      {
+        "url": "https://www.intercom.com/help/en/articles/8587194-how-to-use-copilot",
+        "title": "How to use Copilot",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      },
+      {
+        "url": "https://www.intercom.com/pricing",
+        "title": "Intercom Pricing",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      }
+    ]
+  },
+  {
+    "slug": "zendesk-copilot",
+    "name": "Zendesk Copilot",
+    "vendor": "Zendesk",
+    "website": "https://www.zendesk.com/",
+    "jobs": [
+      "customer_reply_drafting"
+    ],
+    "summary": "Agent assistance for support tickets, including suggested next actions.",
+    "capabilities": [
+      {
+        "text": "Auto Assist uses configured procedures to suggest ticket responses and actions for agent review.",
+        "url": "https://support.zendesk.com/hc/en-us/articles/5608652527386-Getting-started-with-AI-features-in-the-Zendesk-Copilot-add-on"
+      }
+    ],
+    "pricing": {
+      "tier": "Eligible Zendesk plan with Copilot",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.zendesk.com/pricing/",
+      "notes": "The pricing page lists Suite Enterprise + Copilot through sales. No complete plan-specific total is asserted."
+    },
+    "limitations": [
+      "Auto Assist depends on procedures and optional actions configured by an administrator.",
+      "Zendesk announced retirement of suggested first replies on January 19, 2027; do not build a new workflow around that older feature."
+    ],
+    "unknowns": [
+      "Accessibility conformance has not been independently verified.",
+      "Setup effort and compatibility with this business have not been tested.",
+      "No licensed independent customer-review dataset or independent task test is included.",
+      "Exact Copilot availability, total quote and required configuration must be confirmed."
+    ],
+    "sources": [
+      {
+        "url": "https://support.zendesk.com/hc/en-us/articles/5608652527386-Getting-started-with-AI-features-in-the-Zendesk-Copilot-add-on",
+        "title": "Getting started with AI features in the Zendesk Copilot add-on",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      },
+      {
+        "url": "https://support.zendesk.com/hc/en-us/articles/11371256838170-Announcing-the-removal-of-suggested-first-replies",
+        "title": "Announcing the removal of suggested first replies",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      },
+      {
+        "url": "https://www.zendesk.com/pricing/",
+        "title": "Zendesk Pricing Plans",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      }
+    ]
+  },
+  {
+    "slug": "canva-magic-write",
+    "name": "Canva Magic Write",
+    "vendor": "Canva",
+    "website": "https://www.canva.com/",
+    "jobs": [
+      "marketing_content"
+    ],
+    "summary": "AI-assisted first drafts and content ideas within Canva.",
+    "capabilities": [
+      {
+        "text": "Create or revise marketing text, social posts and outlines from a supplied prompt.",
+        "url": "https://www.canva.com/help/about-magic-write/"
+      }
+    ],
+    "pricing": {
+      "tier": "Plan and AI allowance require confirmation",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.canva.com/pricing/",
+      "notes": "Current help documentation says AI usage limits have changed. This snapshot does not reuse older marketing-page query allowances or infer a region-specific price."
+    },
+    "limitations": [
+      "Canva warns generated content can be inaccurate, outdated or non-unique.",
+      "The owner must supply business facts and verify all output before publishing."
+    ],
+    "unknowns": [
+      "Accessibility conformance has not been independently verified.",
+      "Setup effort and compatibility with this business have not been tested.",
+      "No licensed independent customer-review dataset or independent task test is included.",
+      "Current tier-specific AI allowance, region price and commercial-use details require confirmation."
+    ],
+    "sources": [
+      {
+        "url": "https://www.canva.com/help/about-magic-write/",
+        "title": "Learn about Magic Write",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      },
+      {
+        "url": "https://www.canva.com/pricing/",
+        "title": "Canva Pricing",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      }
+    ]
+  },
+  {
+    "slug": "buffer-ai-assistant",
+    "name": "Buffer AI Assistant",
+    "vendor": "Buffer",
+    "website": "https://buffer.com/",
+    "jobs": [
+      "marketing_content"
+    ],
+    "summary": "Ideas and editable draft captions for social content planning.",
+    "capabilities": [
+      {
+        "text": "Generate caption drafts, adjust tone and repurpose content in Buffer's Create space and composer.",
+        "url": "https://support.buffer.com/articles/using-buffers-ai-assistant-qbBulfw9sn"
+      }
+    ],
+    "pricing": {
+      "tier": "Free",
+      "monthlyUsd": 0,
+      "billingBasis": "Free plan; one user",
+      "url": "https://buffer.com/pricing",
+      "notes": "The Free plan lists AI Assistant, up to three channels and ten queued posts per channel. Paid-plan requirements for team controls must be checked separately."
+    },
+    "limitations": [
+      "Buffer advises checking AI suggestions.",
+      "Use draft creation and owner review; scheduling/publication remains a separate deliberate action."
+    ],
+    "unknowns": [
+      "Accessibility conformance has not been independently verified.",
+      "Setup effort and compatibility with this business have not been tested.",
+      "No licensed independent customer-review dataset or independent task test is included.",
+      "Formal team approval controls and business-specific social-channel requirements remain unverified."
+    ],
+    "sources": [
+      {
+        "url": "https://support.buffer.com/articles/using-buffers-ai-assistant-qbBulfw9sn",
+        "title": "Using Buffer's AI Assistant",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      },
+      {
+        "url": "https://buffer.com/pricing",
+        "title": "Buffer Pricing",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      }
+    ]
+  },
+  {
+    "slug": "jasper",
+    "name": "Jasper",
+    "vendor": "Jasper",
+    "website": "https://www.jasper.ai/",
+    "jobs": [
+      "marketing_content"
+    ],
+    "summary": "Marketing content creation using brand information and voice guidance.",
+    "capabilities": [
+      {
+        "text": "Use supplied company information and tone guidance to shape marketing drafts.",
+        "url": "https://www.jasper.ai/blog/introducing-brand-voice"
+      },
+      {
+        "text": "Pro lists one seat, two Brand Voices and five Knowledge assets.",
+        "url": "https://www.jasper.ai/pricing"
+      }
+    ],
+    "pricing": {
+      "tier": "Pro",
+      "monthlyUsd": 69,
+      "billingBasis": "USD per seat per month, monthly billing",
+      "url": "https://www.jasper.ai/pricing",
+      "notes": "Published monthly Pro price is $69 for one seat; the annual option shows $59 monthly equivalent with an annual commitment. Taxes and other product scope are not included."
+    },
+    "limitations": [
+      "Supplying business material does not guarantee every generated statement is correct.",
+      "Review facts and claims before publishing; no SABKA AI connection is implemented."
+    ],
+    "unknowns": [
+      "Accessibility conformance has not been independently verified.",
+      "Setup effort and compatibility with this business have not been tested.",
+      "No licensed independent customer-review dataset or independent task test is included.",
+      "Business-specific privacy requirements, approval enforcement and export behavior are untested."
+    ],
+    "sources": [
+      {
+        "url": "https://www.jasper.ai/blog/introducing-brand-voice",
+        "title": "Introducing Jasper Brand Voice",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      },
+      {
+        "url": "https://www.jasper.ai/pricing",
+        "title": "Jasper Plans & Pricing",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      }
+    ]
+  },
+  {
+    "slug": "hubspot-breeze",
+    "name": "HubSpot Breeze Assistant",
+    "vendor": "HubSpot",
+    "website": "https://www.hubspot.com/",
+    "jobs": [
+      "marketing_content"
+    ],
+    "summary": "Social content drafting and refinement within HubSpot Marketing Hub.",
+    "capabilities": [
+      {
+        "text": "Create or refine social posts and summarize blog content into social drafts.",
+        "url": "https://knowledge.hubspot.com/social/use-hubspots-ai-assistant-to-create-social-posts"
+      },
+      {
+        "text": "Users with Draft only social permissions can save drafts but cannot publish.",
+        "url": "https://knowledge.hubspot.com/social/use-hubspots-ai-assistant-to-create-social-posts"
+      }
+    ],
+    "pricing": {
+      "tier": "Marketing Hub Professional or Enterprise for this social workflow",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.hubspot.com/pricing/marketing",
+      "notes": "The cited social feature requires Professional or Enterprise. Do not represent the Starter bundle or generic free Breeze access as including this workflow; total cost is unverified."
+    },
+    "limitations": [
+      "Breeze access must be enabled and social permissions configured.",
+      "Owner review of facts remains required even when draft-only permissions are used."
+    ],
+    "unknowns": [
+      "Accessibility conformance has not been independently verified.",
+      "Setup effort and compatibility with this business have not been tested.",
+      "No licensed independent customer-review dataset or independent task test is included.",
+      "Applicable seats, marketing contacts, onboarding and AI usage costs need a complete quote."
+    ],
+    "sources": [
+      {
+        "url": "https://knowledge.hubspot.com/social/use-hubspots-ai-assistant-to-create-social-posts",
+        "title": "Create and refine social posts with Breeze Assistant",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      },
+      {
+        "url": "https://www.hubspot.com/pricing/marketing",
+        "title": "Marketing Software Pricing",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      }
+    ]
+  },
+  {
+    "slug": "reclaim-ai",
+    "name": "Reclaim AI",
+    "vendor": "Reclaim",
+    "website": "https://reclaim.ai/",
+    "jobs": [
+      "appointment_organization"
+    ],
+    "summary": "Calendar planning and scheduling assistance with a documented review step.",
+    "capabilities": [
+      {
+        "text": "The AI Assistant works with Google and Outlook calendars and lets users review proposed changes.",
+        "url": "https://reclaim.ai/features/ai-assistant"
+      },
+      {
+        "text": "Reclaim 2.0 Preview Mode stages changes without sending calendar notifications until the user applies them.",
+        "url": "https://help.reclaim.ai/en/articles/15280604-reclaim-2-0-faq"
+      }
+    ],
+    "pricing": {
+      "tier": "AI Assistant / Reclaim 2.0 plan scope requires confirmation",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://reclaim.ai/pricing",
+      "notes": "A Lite free plan exists, but this snapshot does not assert that every Assistant or Preview Mode capability is included in that tier."
+    },
+    "limitations": [
+      "Preview Mode applies all remaining staged changes together; inspect the batch carefully.",
+      "Legacy Reclaim 1.0 automatic scheduling documentation should not be treated as the 2.0 workflow."
+    ],
+    "unknowns": [
+      "Accessibility conformance has not been independently verified.",
+      "Setup effort and compatibility with this business have not been tested.",
+      "No licensed independent customer-review dataset or independent task test is included.",
+      "Exact Assistant plan allowance and privacy/retention suitability are not verified."
+    ],
+    "sources": [
+      {
+        "url": "https://reclaim.ai/features/ai-assistant",
+        "title": "AI Assistant for Google Calendar and Outlook Calendar",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      },
+      {
+        "url": "https://help.reclaim.ai/en/articles/15280604-reclaim-2-0-faq",
+        "title": "Reclaim 2.0 FAQ",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      },
+      {
+        "url": "https://reclaim.ai/pricing",
+        "title": "Reclaim Pricing",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      }
+    ]
+  },
+  {
+    "slug": "motion",
+    "name": "Motion",
+    "vendor": "Motion",
+    "website": "https://www.usemotion.com/",
+    "jobs": [
+      "appointment_organization"
+    ],
+    "summary": "AI-assisted task organization and automatic calendar planning.",
+    "capabilities": [
+      {
+        "text": "Schedule tasks using deadlines, priorities and available time; use AI Chat to create or update tasks.",
+        "url": "https://www.usemotion.com/help"
+      }
+    ],
+    "pricing": {
+      "tier": "Pro AI; billing scope requires confirmation",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.usemotion.com/pricing",
+      "notes": "The retrieved page displays $19 per seat per month with individual/team and monthly/annual selectors. The applicable selection and total contract cost were not verified."
+    },
+    "limitations": [
+      "Motion documents automatic scheduling; mandatory approval before every calendar change is not established here.",
+      "Catalog presence does not establish eligibility for owner-confirmed customer bookings."
+    ],
+    "unknowns": [
+      "Accessibility conformance has not been independently verified.",
+      "Setup effort and compatibility with this business have not been tested.",
+      "No licensed independent customer-review dataset or independent task test is included.",
+      "Human-confirmation controls for the required workflow, calendar access and full billing terms need verification."
+    ],
+    "sources": [
+      {
+        "url": "https://www.usemotion.com/help",
+        "title": "Welcome to Motion",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      },
+      {
+        "url": "https://www.usemotion.com/pricing",
+        "title": "Motion Pricing",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      }
+    ]
+  },
+  {
+    "slug": "trevor-ai",
+    "name": "Trevor AI",
+    "vendor": "Trevor AI",
+    "website": "https://www.trevorai.com/",
+    "jobs": [
+      "appointment_organization"
+    ],
+    "summary": "Task organization and time-block planning with an AI assistant.",
+    "capabilities": [
+      {
+        "text": "Manage tasks and calendar events through a conversational assistant.",
+        "url": "https://www.trevorai.com/docs"
+      },
+      {
+        "text": "The assistant's documentation describes previews and confirmation before proposed changes are applied.",
+        "url": "https://www.trevorai.com/docs"
+      }
+    ],
+    "pricing": {
+      "tier": "Free / Pro; assistant availability requires confirmation",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.trevorai.com/docs",
+      "notes": "Documentation describes a Free tier with one calendar and limited automation, plus Pro. Full current pricing and plan-specific AI chat access remain unverified."
+    },
+    "limitations": [
+      "Task time-blocking is not proof of customer appointment-intake support.",
+      "Documentation contains mixed calendar-compatibility wording; confirm the exact provider and direction of synchronization before adoption."
+    ],
+    "unknowns": [
+      "Accessibility conformance has not been independently verified.",
+      "Setup effort and compatibility with this business have not been tested.",
+      "No licensed independent customer-review dataset or independent task test is included.",
+      "AI assistant tier limits, tested calendar transfer and current paid total are unknown."
+    ],
+    "sources": [
+      {
+        "url": "https://www.trevorai.com/docs",
+        "title": "Trevor AI Documentation",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      }
+    ]
+  },
+  {
+    "slug": "calendly-callie",
+    "name": "Calendly Callie",
+    "vendor": "Calendly",
+    "website": "https://calendly.com/",
+    "jobs": [
+      "appointment_organization"
+    ],
+    "summary": "Calendly's AI assistant for email scheduling and meeting preparation.",
+    "capabilities": [
+      {
+        "text": "Suggest meeting times and coordinate scheduling using Calendly availability.",
+        "url": "https://calendly.com/help/callie-ai-assistant-overview"
+      },
+      {
+        "text": "Documentation says users review and approve changes before bookings or modifications.",
+        "url": "https://calendly.com/help/callie-faq"
+      }
+    ],
+    "pricing": {
+      "tier": "Standard Plus or Teams Plus",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://calendly.com/pricing",
+      "notes": "Callie is listed for Plus plans. The base Standard $10 annual-equivalent price must not be presented as the total price of Standard Plus."
+    },
+    "limitations": [
+      "Callie is beta and currently limited to English-language users; trial access may vary.",
+      "Calendly's AI documentation prohibits regulated data such as PHI, FERPA data and financial records."
+    ],
+    "unknowns": [
+      "Accessibility conformance has not been independently verified.",
+      "Setup effort and compatibility with this business have not been tested.",
+      "No licensed independent customer-review dataset or independent task test is included.",
+      "Complete Plus pricing and exact workflow compatibility require verification."
+    ],
+    "sources": [
+      {
+        "url": "https://calendly.com/help/callie-ai-assistant-overview",
+        "title": "Callie Overview",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      },
+      {
+        "url": "https://calendly.com/help/callie-faq",
+        "title": "Callie FAQs",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      },
+      {
+        "url": "https://calendly.com/pricing",
+        "title": "Calendly Pricing",
+        "type": "official",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Automated source review; not independently tested."
+      },
+      {
+        "url": "https://calendly.com/help/ai-at-calendly",
+        "title": "AI at Calendly",
+        "type": "policy",
+        "checkedAt": "2026-11-06T19:40:14Z",
+        "permissionBasis": "Public vendor page consulted through web research; store an original factual summary and citation only. No bulk-copying or third-party review license is claimed.",
+        "notes": "Vendor policy statements only; no independent privacy or legal certification."
+      }
+    ]
+  }
+]

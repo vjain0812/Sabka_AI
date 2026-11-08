@@ -1,0 +1,6766 @@
+{
+ "activecampaign": {
+  "checkedAt": "2026-11-08T01:08:28.767Z",
+  "homepageUrl": "https://www.activecampaign.com/",
+  "pricingUrl": "https://www.activecampaign.com/pricing",
+  "pricingTitle": "Platform Pricing &amp; Features | ActiveCampaign",
+  "plans": [],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://www.activecampaign.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "acuity": {
+  "checkedAt": "2026-11-08T01:04:19.960Z",
+  "homepageUrl": "https://acuityscheduling.com/",
+  "pricingUrl": "https://acuityscheduling.com/pricing",
+  "pricingTitle": "Acuity Scheduling Pricing Plans &amp; Features",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 16,
+    "billing": "per month",
+    "quote": "$16 / month"
+   },
+   {
+    "name": "Standard",
+    "monthlyUsd": 27,
+    "billing": "per month",
+    "quote": "$27 / month"
+   },
+   {
+    "name": "Premium",
+    "monthlyUsd": 55,
+    "billing": "per month",
+    "quote": "$55 / month"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan to Acuity Scheduling",
+   "url": "https://acuityscheduling.com/pricing"
+  },
+  "trial": {
+   "days": 7,
+   "quote": "7-day trial",
+   "url": "https://acuityscheduling.com/pricing"
+  },
+  "customers": {
+   "quote": "over 250,000 customers",
+   "url": "https://acuityscheduling.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "adcreative-ai": {
+  "checkedAt": "2026-11-08T01:08:29.865Z",
+  "homepageUrl": "https://www.adcreative.ai/",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "adobe-firefly": {
+  "checkedAt": "2026-11-08T01:00:03.049Z",
+  "homepageUrl": "https://www.adobe.com/products/firefly.html",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "over 3,300 members",
+   "url": "https://www.adobe.com/products/firefly.html"
+  },
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "agrivi": {
+  "checkedAt": "2026-11-08T01:18:59.182Z",
+  "homepageUrl": "https://www.agrivi.com/",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "agriwebb": {
+  "checkedAt": "2026-11-08T01:18:59.524Z",
+  "homepageUrl": "https://www.agriwebb.com/",
+  "pricingUrl": "https://www.agriwebb.com/pricing",
+  "pricingTitle": "Pricing",
+  "plans": [
+   {
+    "name": "Essentials",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Essentials $0"
+   },
+   {
+    "name": "Compliance",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Compliance $0"
+   },
+   {
+    "name": "Performance",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Performance $0"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": {
+   "quote": "set up your farm in two",
+   "url": "https://www.agriwebb.com/pricing"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "aircall": {
+  "checkedAt": "2026-11-08T01:04:17.006Z",
+  "homepageUrl": "https://aircall.io/",
+  "pricingUrl": "https://aircall.io/pricing/",
+  "pricingTitle": "Aircall Pricing &amp; Plans: AI-Powered Calling, Voice Agents &amp; 250+ Integrations | Aircall",
+  "plans": [
+   {
+    "name": "WhatsApp in Aircall",
+    "monthlyUsd": 10,
+    "billing": "per seat/month",
+    "quote": "$10 per seat/month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 24,000+ businesses",
+   "url": "https://aircall.io/pricing/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "airtable-ai": {
+  "checkedAt": "2026-11-08T00:59:00.197Z",
+  "homepageUrl": "https://www.airtable.com/platform/ai",
+  "pricingUrl": "https://airtable.com/pricing",
+  "pricingTitle": "Airtable Pricing | Compare Plans, Features &amp; Costs",
+  "plans": [
+   {
+    "name": "Team",
+    "monthlyUsd": 20,
+    "billing": "per user per month, billed annually",
+    "quote": "Team plan is available for $20/user/month when billed annually"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 45,
+    "billing": "per user per month, billed annually",
+    "quote": "Business is available at $45/user/month when billed annually"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free plan, all users are free",
+   "url": "https://airtable.com/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "akiflow": {
+  "checkedAt": "2026-11-08T01:12:42.438Z",
+  "homepageUrl": "https://akiflow.com/",
+  "pricingUrl": "https://akiflow.com/pricing",
+  "pricingTitle": "Akiflow Pricing | Plans, Free Trial &amp; Teams",
+  "plans": [
+   {
+    "name": "Pro",
+    "monthlyUsd": 34,
+    "billing": "per month",
+    "quote": "Pro Monthly $34 Per month, Billed monthly"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan",
+   "url": "https://akiflow.com/pricing"
+  },
+  "trial": {
+   "days": 7,
+   "quote": "7-day free trial",
+   "url": "https://akiflow.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "apollo": {
+  "checkedAt": "2026-11-08T01:10:34.968Z",
+  "homepageUrl": "https://www.apollo.io/",
+  "pricingUrl": "https://www.apollo.io/pricing",
+  "pricingTitle": "Apollo.io Pricing Plans | Sales Intelligence Platform Pricing",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Join over 600,000 companies",
+   "url": "https://www.apollo.io/"
+  },
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "appfolio": {
+  "checkedAt": "2026-11-08T01:02:10.467Z",
+  "homepageUrl": "https://www.appfolio.com/",
+  "pricingUrl": "https://www.appfolio.com/pricing",
+  "pricingTitle": "Property Management Software Pricing | AppFolio",
+  "plans": [
+   {
+    "name": "X Assistant & Messages Purchase Orders & Inventory Tracking ",
+    "monthlyUsd": 1.49,
+    "billing": "per month",
+    "quote": "Starting at $1.49* Per Unit/Per Month"
+   },
+   {
+    "name": "Automated Billing Accounting Performer (Bill Entry & Financi",
+    "monthlyUsd": 3.2,
+    "billing": "per month",
+    "quote": "Starting at $3.20* Per Unit/Per Month"
+   },
+   {
+    "name": "Dedicated Customer Success Management Accounting Performer (",
+    "monthlyUsd": 5,
+    "billing": "per month",
+    "quote": "Starting at $5.00* Per Unit/Per Month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "asana-ai": {
+  "checkedAt": "2026-11-08T00:59:00.273Z",
+  "homepageUrl": "https://asana.com/product/ai",
+  "pricingUrl": "https://asana.com/pricing",
+  "pricingTitle": "Asana Pricing | Personal, Starter, Advanced, &amp; Enterprise plans • Asana",
+  "plans": [
+   {
+    "name": "Personal",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "$0 Free forever"
+   },
+   {
+    "name": "Team",
+    "monthlyUsd": 10.99,
+    "billing": "per user per month, billed annually",
+    "quote": "$10.99 Per user, per month billed annually"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 24.99,
+    "billing": "per user per month, billed annually",
+    "quote": "$24.99 Per user, per month billed annually"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free forever Sign up Manage tasks and personal to-dos: 2 users Unlimited",
+   "url": "https://asana.com/pricing"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "Loved by 100,000+ organizations",
+   "url": "https://asana.com/pricing"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "attio": {
+  "checkedAt": "2026-11-08T01:10:34.449Z",
+  "homepageUrl": "https://attio.com/",
+  "pricingUrl": "https://attio.com/pricing",
+  "pricingTitle": "Plans &amp; Pricing | Attio",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per user/month, billed monthly annually",
+    "quote": "Free $ 0 0 per user/month, billed monthly annually"
+   },
+   {
+    "name": "Plus",
+    "monthlyUsd": 44.35,
+    "billing": "per user/month, billed monthly annually",
+    "quote": "Plus $ 44 35 per user/month, billed monthly annually"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://attio.com/pricing"
+  },
+  "customers": {
+   "quote": "Trusted by 30,000+ customers",
+   "url": "https://attio.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "avoma": {
+  "checkedAt": "2026-11-08T01:17:55.391Z",
+  "homepageUrl": "https://www.avoma.com/",
+  "pricingUrl": "https://www.avoma.com/pricing",
+  "pricingTitle": "Avoma Pricing — Flexible &amp; Affordable Plans",
+  "plans": [
+   {
+    "name": "Startup",
+    "monthlyUsd": 19,
+    "billing": "per month, billed annually",
+    "quote": "Startup $19 Per recorder seat per month. Billed annually."
+   },
+   {
+    "name": "Organization",
+    "monthlyUsd": 29,
+    "billing": "per month, billed annually",
+    "quote": "Organization $29 Per recorder seat per month. Billed annually."
+   }
+  ],
+  "freePlan": {
+   "quote": "always free Monthly Annual Save up to 33% Startup $19 Per recorder seat",
+   "url": "https://www.avoma.com/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://www.avoma.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "bakesy": {
+  "checkedAt": "2026-11-08T01:02:11.038Z",
+  "homepageUrl": "https://www.bakesy.app/",
+  "pricingUrl": "https://www.bakesy.app/pricing",
+  "pricingTitle": "Bakesy Pricing - Plans that scale with your business.",
+  "plans": [
+   {
+    "name": "Standard",
+    "monthlyUsd": 9.99,
+    "billing": "per month",
+    "quote": "$9.99/month"
+   },
+   {
+    "name": "Premium",
+    "monthlyUsd": 17.99,
+    "billing": "per month",
+    "quote": "$17.99/month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "bamboohr": {
+  "checkedAt": "2026-11-08T01:20:00.286Z",
+  "homepageUrl": "https://www.bamboohr.com/",
+  "pricingUrl": "https://www.bamboohr.com/pricing/",
+  "pricingTitle": "BambooHR Plans and Pricing",
+  "plans": [
+   {
+    "name": "Core",
+    "monthlyUsd": 10,
+    "billing": "per employee per month",
+    "quote": "Core $10 USD* per employee/month"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 17,
+    "billing": "per employee per month",
+    "quote": "Pro $17 USD* per employee/month"
+   },
+   {
+    "name": "Elite",
+    "monthlyUsd": 25,
+    "billing": "per employee per month",
+    "quote": "Elite $25 USD* per employee/month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 30,000+ companies",
+   "url": "https://www.bamboohr.com/pricing/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "bardeen": {
+  "checkedAt": "2026-11-08T01:14:47.316Z",
+  "homepageUrl": "https://www.bardeen.ai/",
+  "pricingUrl": "https://www.bardeen.ai/pricing",
+  "pricingTitle": "Pricing &amp; Plans | Bardeen AI",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "beautiful-ai": {
+  "checkedAt": "2026-11-08T01:08:30.334Z",
+  "homepageUrl": "https://www.beautiful.ai/",
+  "pricingUrl": "https://www.beautiful.ai/pricing",
+  "pricingTitle": "Beautiful.ai Pricing and Plans",
+  "plans": [
+   {
+    "name": "Pro",
+    "monthlyUsd": 14.5,
+    "billing": "per month, billed annually",
+    "quote": "Pro is $14.50 per month for individuals, billed annually."
+   },
+   {
+    "name": "Team",
+    "monthlyUsd": 40,
+    "billing": "per user per month, billed annually",
+    "quote": "Teams of 2 to 20 pay $40 per user per month billed annually"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://www.beautiful.ai/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "beehiiv": {
+  "checkedAt": "2026-11-08T01:08:28.764Z",
+  "homepageUrl": "https://www.beehiiv.com/",
+  "pricingUrl": "https://www.beehiiv.com/pricing",
+  "pricingTitle": "Pricing - beehiiv — The newsletter platform built for growth",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "$0 Free forever"
+   },
+   {
+    "name": "Lite",
+    "monthlyUsd": 49,
+    "billing": "per month, billed annually",
+    "quote": "$49 /mo Yearly billing"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 95,
+    "billing": "per month, billed annually",
+    "quote": "$95 /mo Yearly billing"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free forever Start for free Upgrade anytime What’s included",
+   "url": "https://www.beehiiv.com/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "bigcommerce": {
+  "checkedAt": "2026-11-08T01:15:48.923Z",
+  "homepageUrl": "https://www.bigcommerce.com/",
+  "pricingUrl": "https://www.bigcommerce.com/pricing/",
+  "pricingTitle": "BigCommerce Pricing and Plan Information | BigCommerce",
+  "plans": [
+   {
+    "name": "Core",
+    "monthlyUsd": 29,
+    "billing": "per month, billed annually",
+    "quote": "$29 Save 25% per month, billed annually"
+   },
+   {
+    "name": "Growth",
+    "monthlyUsd": 79,
+    "billing": "per month, billed annually",
+    "quote": "$79 Save 25% per month, billed annually"
+   },
+   {
+    "name": "Scale",
+    "monthlyUsd": 299,
+    "billing": "per month, billed annually",
+    "quote": "$299 Save 25% per month, billed annually"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 15,
+   "quote": "15-day free trial",
+   "url": "https://www.bigcommerce.com/pricing/"
+  },
+  "customers": null,
+  "setup": {
+   "quote": "go live within 30 days",
+   "url": "https://www.bigcommerce.com/"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "bill": {
+  "checkedAt": "2026-11-08T01:11:38.523Z",
+  "homepageUrl": "https://www.bill.com/",
+  "pricingUrl": "https://www.bill.com/product/pricing",
+  "pricingTitle": "Pricing &amp; Plans | BILL",
+  "plans": [
+   {
+    "name": "Essentials",
+    "monthlyUsd": 49,
+    "billing": "per user per month",
+    "quote": "Essentials $ 49 user/ month"
+   },
+   {
+    "name": "Team",
+    "monthlyUsd": 65,
+    "billing": "per user per month",
+    "quote": "Team $ 65 user/ month"
+   },
+   {
+    "name": "Corporate",
+    "monthlyUsd": 89,
+    "billing": "per user per month",
+    "quote": "Corporate $ 89 user/ month"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan available with BILL",
+   "url": "https://www.bill.com/product/pricing"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "over 2000 BILL customers",
+   "url": "https://www.bill.com/product/pricing"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "birdeye": {
+  "checkedAt": "2026-11-08T01:03:14.393Z",
+  "homepageUrl": "https://birdeye.com/",
+  "pricingUrl": "https://birdeye.com/pricing/",
+  "pricingTitle": "Birdeye Pricing &amp; Plans | Review Management Software Pricing | Birdeye",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "bonsai": {
+  "checkedAt": "2026-11-08T01:10:35.655Z",
+  "homepageUrl": "https://www.hellobonsai.com/",
+  "pricingUrl": "https://www.hellobonsai.com/pricing",
+  "pricingTitle": "Bonsai - Pricing",
+  "plans": [
+   {
+    "name": "Basic",
+    "monthlyUsd": 9,
+    "billing": "per user per month, billed annually",
+    "quote": "$9 /user/month"
+   },
+   {
+    "name": "Essentials",
+    "monthlyUsd": 19,
+    "billing": "per user per month, billed annually",
+    "quote": "$19 /user/month"
+   },
+   {
+    "name": "Premium",
+    "monthlyUsd": 29,
+    "billing": "per user per month, billed annually",
+    "quote": "$29 /user/month"
+   },
+   {
+    "name": "Elite",
+    "monthlyUsd": 49,
+    "billing": "per user per month, billed annually",
+    "quote": "$49 /user/month"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 7,
+   "quote": "7-day trial",
+   "url": "https://www.hellobonsai.com/pricing"
+  },
+  "customers": null,
+  "setup": {
+   "quote": "Get started in 30 seconds",
+   "url": "https://www.hellobonsai.com/"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "booke-ai": {
+  "checkedAt": "2026-11-08T01:11:38.733Z",
+  "homepageUrl": "https://booke.ai/",
+  "pricingUrl": "https://booke.ai/pricing",
+  "pricingTitle": "AI Bookkeeper Automation Pricing | Booke AI",
+  "plans": [
+   {
+    "name": "AI Bookkeeper (Business)",
+    "monthlyUsd": 129,
+    "billing": "per month",
+    "quote": "Annual Monthly AI Bookkeeper (Business) $129 per business/month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 10,000+ businesses",
+   "url": "https://booke.ai/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "booksy": {
+  "checkedAt": "2026-11-08T01:05:20.148Z",
+  "homepageUrl": "https://booksy.com/en-us/",
+  "pricingUrl": "https://booksy.com/en-us/",
+  "pricingTitle": "Booksy - hair stylists, barbers, beauticians... book appointments online!",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "boulevard": {
+  "checkedAt": "2026-11-08T01:06:22.961Z",
+  "homepageUrl": "https://www.joinblvd.com/",
+  "pricingUrl": "https://www.joinblvd.com/pricing",
+  "pricingTitle": "Pricing Tiers &amp; Feature Comparison | Boulevard Inc.",
+  "plans": [
+   {
+    "name": "Essentials",
+    "monthlyUsd": 143,
+    "billing": "per month",
+    "quote": "$ 143 /mo"
+   },
+   {
+    "name": "Premier",
+    "monthlyUsd": 234,
+    "billing": "per month",
+    "quote": "$ 234 * /mo per location"
+   },
+   {
+    "name": "Prestige",
+    "monthlyUsd": 328,
+    "billing": "per month",
+    "quote": "$ 328 * /mo per location"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "brevo": {
+  "checkedAt": "2026-11-08T01:08:28.461Z",
+  "homepageUrl": "https://www.brevo.com/",
+  "pricingUrl": "https://www.brevo.com/pricing/",
+  "pricingTitle": "Pricing Plans | Brevo",
+  "plans": [],
+  "freePlan": {
+   "quote": "Free forever, no credit card needed Best for individuals and solopreneur",
+   "url": "https://www.brevo.com/pricing/"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "Join 600,000+ customers",
+   "url": "https://www.brevo.com/"
+  },
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "buffer-ai-assistant": {
+  "checkedAt": "2026-11-08T00:57:57.033Z",
+  "homepageUrl": "https://buffer.com/",
+  "pricingUrl": "https://buffer.com/pricing",
+  "pricingTitle": "Pricing | Buffer",
+  "plans": [],
+  "freePlan": {
+   "quote": "Free forever Connect up to 3 channels Let&#x27;s go What&#x27;s included",
+   "url": "https://buffer.com/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://buffer.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Existing documented price kept."
+ },
+ "buildium": {
+  "checkedAt": "2026-11-08T01:18:58.242Z",
+  "homepageUrl": "https://www.buildium.com/",
+  "pricingUrl": "https://www.buildium.com/pricing/",
+  "pricingTitle": "Pricing - Buildium",
+  "plans": [
+   {
+    "name": "Essential",
+    "monthlyUsd": 65,
+    "billing": "per month",
+    "quote": "Essential starting at $65/month"
+   },
+   {
+    "name": "Growth",
+    "monthlyUsd": 202,
+    "billing": "per month",
+    "quote": "Growth starting at $202/month"
+   },
+   {
+    "name": "Premium",
+    "monthlyUsd": 420,
+    "billing": "per month",
+    "quote": "Premium starting at $420/month"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://www.buildium.com/pricing/"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "cal-com": {
+  "checkedAt": "2026-11-08T01:05:21.655Z",
+  "homepageUrl": "https://cal.com/",
+  "pricingUrl": "https://cal.com/pricing",
+  "pricingTitle": "Pricing | Cal.com",
+  "plans": [
+   {
+    "name": "Teams",
+    "monthlyUsd": 12,
+    "billing": "per user per month",
+    "quote": "Teams $12 per month/user"
+   },
+   {
+    "name": "Organizations",
+    "monthlyUsd": 28,
+    "billing": "per user per month",
+    "quote": "Organizations $28 per month/user"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free forever Free features: 1 user Unlimited links & calendars Email & S",
+   "url": "https://cal.com/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14 day free trial",
+   "url": "https://cal.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "calendly-callie": {
+  "checkedAt": "2026-11-08T00:57:58.385Z",
+  "homepageUrl": "https://calendly.com/",
+  "pricingUrl": "https://calendly.com/pricing",
+  "pricingTitle": "Pricing | Calendly",
+  "plans": [
+   {
+    "name": "Standard",
+    "monthlyUsd": 10,
+    "billing": "per user per month",
+    "quote": "Standard Add Notetaker & Callie $10 /seat/mo"
+   },
+   {
+    "name": "Teams",
+    "monthlyUsd": 16,
+    "billing": "per user per month",
+    "quote": "Teams Add Notetaker & Callie $16 /seat/mo"
+   }
+  ],
+  "freePlan": {
+   "quote": "Always free Get started Includes: Scheduling One event type One calenda",
+   "url": "https://calendly.com/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "canva-magic-write": {
+  "checkedAt": "2026-11-08T00:57:56.888Z",
+  "homepageUrl": null,
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Official site could not be fetched."
+ },
+ "capcut": {
+  "checkedAt": "2026-11-08T01:08:31.011Z",
+  "homepageUrl": "https://www.capcut.com/",
+  "pricingUrl": "https://www.capcut.com/pricing",
+  "pricingTitle": "CapCut Pricing | Choose the Right Plan",
+  "plans": [],
+  "freePlan": null,
+  "trial": {
+   "days": 7,
+   "quote": "7-day free trial",
+   "url": "https://www.capcut.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "cents": {
+  "checkedAt": "2026-11-08T01:02:10.683Z",
+  "homepageUrl": "https://www.trycents.com/",
+  "pricingUrl": "https://www.trycents.com/pricing",
+  "pricingTitle": "Cents Plans &amp; Pricing | Grow Your Laundry Business",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 89,
+    "billing": "per month",
+    "quote": "Starter $ 89 /month"
+   },
+   {
+    "name": "Cents Assist",
+    "monthlyUsd": 99,
+    "billing": "per month",
+    "quote": "Cents Assist $99 /mo"
+   },
+   {
+    "name": "Starter (multi-service operators)",
+    "monthlyUsd": 149,
+    "billing": "per month",
+    "quote": "Starter $ 149 /month"
+   },
+   {
+    "name": "Growth",
+    "monthlyUsd": 249,
+    "billing": "per month",
+    "quote": "Growth $ 249 /month"
+   },
+   {
+    "name": "Ultimate",
+    "monthlyUsd": 399,
+    "billing": "per month",
+    "quote": "Ultimate $ 399 /month"
+   },
+   {
+    "name": "Growth (multi-service operators)",
+    "monthlyUsd": 399,
+    "billing": "per month",
+    "quote": "Growth $ 399 /month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "chatbot-com": {
+  "checkedAt": "2026-11-08T01:03:13.526Z",
+  "homepageUrl": "https://www.chatbot.com/",
+  "pricingUrl": "https://www.chatbot.com/pricing/",
+  "pricingTitle": "AI Chatbot Pricing: Plans from $19/mo | ChatBot.com",
+  "plans": [
+   {
+    "name": "Essential",
+    "monthlyUsd": 19,
+    "billing": "per user per month, billed annually",
+    "quote": "ChatBot.com starts at $19 per user/month (billed annually) for the Essential plan"
+   },
+   {
+    "name": "Growth",
+    "monthlyUsd": 79,
+    "billing": "per user per month",
+    "quote": "$79 per user / mo"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan",
+   "url": "https://www.chatbot.com/pricing/"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://www.chatbot.com/pricing/"
+  },
+  "customers": {
+   "quote": "Over 35,000 brands",
+   "url": "https://www.chatbot.com/"
+  },
+  "setup": {
+   "quote": "Setup in minutes",
+   "url": "https://www.chatbot.com/"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "chatgpt": {
+  "checkedAt": "2026-11-08T00:57:58.476Z",
+  "homepageUrl": "https://chatgpt.com/",
+  "pricingUrl": "https://chatgpt.com/pricing/",
+  "pricingTitle": "Plans and Pricing | ChatGPT",
+  "plans": [],
+  "freePlan": {
+   "quote": "free version of ChatGPT is available to everyone",
+   "url": "https://chatgpt.com/pricing/"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "chatpdf": {
+  "checkedAt": "2026-11-08T01:11:39.780Z",
+  "homepageUrl": "https://www.chatpdf.com/",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Loved by 10M+ users",
+   "url": "https://www.chatpdf.com/"
+  },
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "circle": {
+  "checkedAt": "2026-11-08T01:17:56.946Z",
+  "homepageUrl": "https://circle.so/",
+  "pricingUrl": "https://circle.so/pricing",
+  "pricingTitle": "Pricing | Circle",
+  "plans": [
+   {
+    "name": "Professional",
+    "monthlyUsd": 89,
+    "billing": "per month",
+    "quote": "Professional $89 /mo"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 199,
+    "billing": "per month",
+    "quote": "Business $199 /mo"
+   },
+   {
+    "name": "Scale",
+    "monthlyUsd": 419,
+    "billing": "per month",
+    "quote": "Scale $419 /mo"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://circle.so/pricing"
+  },
+  "customers": {
+   "quote": "over 27K members",
+   "url": "https://circle.so/pricing"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "claude": {
+  "checkedAt": "2026-11-08T00:57:58.612Z",
+  "homepageUrl": "https://claude.com/",
+  "pricingUrl": "https://claude.com/pricing",
+  "pricingTitle": "Plans &amp; pricing | Claude by Anthropic",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "$0 Free for everyone"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 17,
+    "billing": "per month, billed annually",
+    "quote": "$17 Per month with annual subscription discount ( $200 billed up front)"
+   },
+   {
+    "name": "Team Standard",
+    "monthlyUsd": 20,
+    "billing": "per seat per month, billed annually",
+    "quote": "$20 Per seat / month if billed annually"
+   },
+   {
+    "name": "Enterprise",
+    "monthlyUsd": 20,
+    "billing": "per seat per month, billed annually",
+    "quote": "US$20/seat/month, billed annually, 20 seat minimum"
+   },
+   {
+    "name": "Max",
+    "monthlyUsd": 100,
+    "billing": "per month",
+    "quote": "$100 Per month"
+   },
+   {
+    "name": "Team Premium",
+    "monthlyUsd": 100,
+    "billing": "per seat per month, billed annually",
+    "quote": "$100 Per seat / month if billed annually"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free plan with more usage and more of Claude&#x27;s capabilities",
+   "url": "https://claude.com/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "cleancloud": {
+  "checkedAt": "2026-11-08T01:02:10.961Z",
+  "homepageUrl": "https://cleancloudapp.com/",
+  "pricingUrl": "https://cleancloudapp.com/pricing",
+  "pricingTitle": "Pricing | The All-in-One Laundromat and Dry Cleaning POS Software - CleanCloud",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "clickup-brain": {
+  "checkedAt": "2026-11-08T00:59:00.211Z",
+  "homepageUrl": "https://clickup.com/brain",
+  "pricingUrl": "https://clickup.com/pricing",
+  "pricingTitle": "ClickUp Pricing and Plans",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per user per month",
+    "quote": "Free $0 user / mo"
+   },
+   {
+    "name": "Core",
+    "monthlyUsd": 9,
+    "billing": "per user per month",
+    "quote": "Core $9 user / mo"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 17,
+    "billing": "per user per month",
+    "quote": "Business $17 user / mo"
+   },
+   {
+    "name": "Max",
+    "monthlyUsd": 100,
+    "billing": "per user per month",
+    "quote": "$100 user / mo"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free Forever $ 0 No credit card required Get Started ClickUp Brain² Tria",
+   "url": "https://clickup.com/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": {
+   "quote": "Get started Presentation-ready in one",
+   "url": "https://clickup.com/brain"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "climate-fieldview": {
+  "checkedAt": "2026-11-08T01:18:59.090Z",
+  "homepageUrl": "https://climate.com/en-us.html",
+  "pricingUrl": "https://climate.com/en-us/pricing.html",
+  "pricingTitle": "Fieldview Pricing for Your Operation | FieldView",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "clover": {
+  "checkedAt": "2026-11-08T01:13:44.538Z",
+  "homepageUrl": "https://www.clover.com/",
+  "pricingUrl": "https://www.clover.com/pricing",
+  "pricingTitle": "POS System & Credit Card Readers | Clover",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "coda-ai": {
+  "checkedAt": "2026-11-08T01:01:08.611Z",
+  "homepageUrl": "https://coda.io/",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "connecteam": {
+  "checkedAt": "2026-11-08T01:12:43.150Z",
+  "homepageUrl": "https://connecteam.com/",
+  "pricingUrl": "https://connecteam.com/pricing/",
+  "pricingTitle": "Pricing | Connecteam",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "$0 Free for life"
+   },
+   {
+    "name": "Basic",
+    "monthlyUsd": 29,
+    "billing": "per month",
+    "quote": "$ 29 /mo For the first 30 users"
+   },
+   {
+    "name": "Advanced",
+    "monthlyUsd": 49,
+    "billing": "per month",
+    "quote": "$ 49 /mo For the first 30 users"
+   },
+   {
+    "name": "Expert",
+    "monthlyUsd": 99,
+    "billing": "per month",
+    "quote": "$ 99 /mo For the first 30 users"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://connecteam.com/pricing/"
+  },
+  "customers": {
+   "quote": "Trusted by 80,000+ businesses",
+   "url": "https://connecteam.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "consensus": {
+  "checkedAt": "2026-11-08T01:15:49.569Z",
+  "homepageUrl": "https://consensus.app/",
+  "pricingUrl": "https://consensus.app/pricing/",
+  "pricingTitle": "Pricing",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "copper": {
+  "checkedAt": "2026-11-08T01:09:33.707Z",
+  "homepageUrl": "https://www.copper.com/",
+  "pricingUrl": "https://www.copper.com/pricing",
+  "pricingTitle": "Pricing | Copper CRM",
+  "plans": [
+   {
+    "name": "Basic",
+    "monthlyUsd": 23,
+    "billing": "per month, billed annually",
+    "quote": "Basic $ 23 $ 29 per seat, per month paid annually"
+   },
+   {
+    "name": "Professional",
+    "monthlyUsd": 59,
+    "billing": "per month, billed annually",
+    "quote": "Professional $ 59 $ 69 per seat, per month paid annually"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 99,
+    "billing": "per month, billed annually",
+    "quote": "Business $ 99 $ 134 per seat, per month paid annually"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "trusted by 30,000+ companies",
+   "url": "https://www.copper.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "copy-ai": {
+  "checkedAt": "2026-11-08T01:07:26.485Z",
+  "homepageUrl": "https://www.copy.ai/",
+  "pricingUrl": "https://www.copy.ai/prices",
+  "pricingTitle": "Plans &amp; Pricing | Copy.ai",
+  "plans": [
+   {
+    "name": "Annually",
+    "monthlyUsd": 24,
+    "billing": "per month, billed annually",
+    "quote": "$24/mo Billed $288/yr"
+   },
+   {
+    "name": "Monthly",
+    "monthlyUsd": 29,
+    "billing": "per month",
+    "quote": "$29/mo Billed monthly"
+   },
+   {
+    "name": "Growth",
+    "monthlyUsd": 1000,
+    "billing": "per month",
+    "quote": "$1,000/mo Billed $12,000/yr"
+   },
+   {
+    "name": "Expansion",
+    "monthlyUsd": 2000,
+    "billing": "per month",
+    "quote": "$2,000/mo Billed $24,000/yr"
+   },
+   {
+    "name": "Scale",
+    "monthlyUsd": 3000,
+    "billing": "per month",
+    "quote": "$3,000/mo Billed $36,000/yr"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 17 million users",
+   "url": "https://www.copy.ai/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "crisp": {
+  "checkedAt": "2026-11-08T01:03:11.701Z",
+  "homepageUrl": "https://crisp.chat/en/",
+  "pricingUrl": "https://crisp.chat/en/pricing/",
+  "pricingTitle": "Pricing and plans - Crisp best deals - Crisp",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "$ 0"
+   },
+   {
+    "name": "Starter",
+    "monthlyUsd": 45,
+    "billing": "per month",
+    "quote": "$ 45 Per month, per workspace"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 95,
+    "billing": "per month",
+    "quote": "$ 95 Per month, per workspace"
+   },
+   {
+    "name": "Enterprise",
+    "monthlyUsd": 295,
+    "billing": "per month",
+    "quote": "$ 295 Per month, per workspace"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free Forever Use Crisp for free Key features included: Website chat widg",
+   "url": "https://crisp.chat/en/pricing/"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14 days free trial",
+   "url": "https://crisp.chat/en/pricing/"
+  },
+  "customers": {
+   "quote": "Trusted by 10,000 companies",
+   "url": "https://crisp.chat/en/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "croptracker": {
+  "checkedAt": "2026-11-08T01:20:00.113Z",
+  "homepageUrl": "https://www.croptracker.com/",
+  "pricingUrl": "https://www.croptracker.com/pricing.html",
+  "pricingTitle": "Pricing - Croptracker",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "cropx": {
+  "checkedAt": "2026-11-08T01:02:12.105Z",
+  "homepageUrl": "https://cropx.com/",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "deepl": {
+  "checkedAt": "2026-11-08T01:04:18.962Z",
+  "homepageUrl": "https://www.deepl.com/en",
+  "pricingUrl": "https://www.deepl.com/en/pro",
+  "pricingTitle": "DeepL Pro | Translate Text, Word Docs &amp; Other Docs Securely",
+  "plans": [],
+  "freePlan": {
+   "quote": "Free version Individual Try for free Free for 30 days",
+   "url": "https://www.deepl.com/en/pro"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by over 200,000 businesses",
+   "url": "https://www.deepl.com/en"
+  },
+  "setup": {
+   "quote": "get started in minutes",
+   "url": "https://www.deepl.com/en"
+  },
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "deputy": {
+  "checkedAt": "2026-11-08T01:13:43.579Z",
+  "homepageUrl": "https://www.deputy.com/",
+  "pricingUrl": "https://www.deputy.com/pricing",
+  "pricingTitle": "Deputy Pricing - Compare Our Plans &amp; Try For Free — Deputy",
+  "plans": [
+   {
+    "name": "Lite",
+    "monthlyUsd": 5,
+    "billing": "per user per month",
+    "quote": "$5 per user per month (USD excl. all applicable taxes)"
+   },
+   {
+    "name": "Core",
+    "monthlyUsd": 6.5,
+    "billing": "per user per month",
+    "quote": "$6.50 per user per month (USD excl. all applicable taxes)"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 9,
+    "billing": "per user per month",
+    "quote": "$9 per user per month (USD excl. all applicable taxes)"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "more than 390,000 happy customers",
+   "url": "https://www.deputy.com/pricing"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "descript": {
+  "checkedAt": "2026-11-08T01:00:03.184Z",
+  "homepageUrl": "https://www.descript.com/",
+  "pricingUrl": "https://www.descript.com/pricing",
+  "pricingTitle": "Descript Pricing | Plans for Every Creator, Free to Start",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free $0"
+   },
+   {
+    "name": "Hobbyist",
+    "monthlyUsd": 16,
+    "billing": "per month",
+    "quote": "Hobbyist $ 16"
+   },
+   {
+    "name": "Creator",
+    "monthlyUsd": 24,
+    "billing": "per month",
+    "quote": "Creator $ 24"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 50,
+    "billing": "per month",
+    "quote": "Business $ 50"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free plan includes everything you need to record, edit and mix audio",
+   "url": "https://www.descript.com/pricing"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "More than 6 million creators",
+   "url": "https://www.descript.com/pricing"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "dext": {
+  "checkedAt": "2026-11-08T01:01:06.234Z",
+  "homepageUrl": "https://dext.com/us",
+  "pricingUrl": "https://dext.com/us/partner/pricing",
+  "pricingTitle": "Dext Partner Pricing | Plans for Accounting Practices | Dext",
+  "plans": [],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://dext.com/us/partner/pricing"
+  },
+  "customers": {
+   "quote": "Over 700,000 businesses",
+   "url": "https://dext.com/us"
+  },
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "dialpad": {
+  "checkedAt": "2026-11-08T01:04:16.503Z",
+  "homepageUrl": "https://www.dialpad.com/",
+  "pricingUrl": "https://www.dialpad.com/pricing/",
+  "pricingTitle": "Dialpad Plans &amp; Pricing | Dialpad",
+  "plans": [
+   {
+    "name": "Standard",
+    "monthlyUsd": 15,
+    "billing": "per user per month",
+    "quote": "Standard $15 user/month Seamless customer and team communication with un …"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 25,
+    "billing": "per user per month",
+    "quote": "Pro $25 user/month Boost productivity with advanced integrations, 2"
+   },
+   {
+    "name": "Essentials",
+    "monthlyUsd": 39,
+    "billing": "per user per month",
+    "quote": "Essentials $39 user/month AI transcripts, call recording, and CRM integrat …"
+   },
+   {
+    "name": "Advanced",
+    "monthlyUsd": 59,
+    "billing": "per user per month",
+    "quote": "Advanced $59 user/month Local presence dialing and real-time AI guidance …"
+   },
+   {
+    "name": "Premium",
+    "monthlyUsd": 79,
+    "billing": "per user per month",
+    "quote": "Premium $79 user/month AI quality management and data-driven coaching f …"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "docsumo": {
+  "checkedAt": "2026-11-08T01:12:40.506Z",
+  "homepageUrl": "https://www.docsumo.com/",
+  "pricingUrl": "https://www.docsumo.com/pricing",
+  "pricingTitle": "Pricing and Plans | Docsumo",
+  "plans": [],
+  "freePlan": {
+   "quote": "free plan runs for 14 days and includes up to 1,000 pages, 10 user li",
+   "url": "https://www.docsumo.com/pricing"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 10,000+ mid-sized and enterprise teams",
+   "url": "https://www.docsumo.com/"
+  },
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "docusign": {
+  "checkedAt": "2026-11-08T01:11:39.401Z",
+  "homepageUrl": "https://www.docusign.com/",
+  "pricingUrl": "https://ecom.docusign.com/plans-and-pricing/iam",
+  "pricingTitle": "Docusign Pricing | Intelligent Agreement Management Plans",
+  "plans": [
+   {
+    "name": "IAM Starter",
+    "monthlyUsd": 45,
+    "billing": "per user per month",
+    "quote": "$ 45 /user/month"
+   },
+   {
+    "name": "IAM Standard",
+    "monthlyUsd": 50,
+    "billing": "per user per month",
+    "quote": "$ 50 /user/month"
+   },
+   {
+    "name": "IAM Professional",
+    "monthlyUsd": 80,
+    "billing": "per user per month",
+    "quote": "$ 80 /user/month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "trusted by 1.9 million customers",
+   "url": "https://www.docusign.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "docyt": {
+  "checkedAt": "2026-11-08T01:11:38.812Z",
+  "homepageUrl": "https://www.docyt.com/",
+  "pricingUrl": "https://www.docyt.com/pricing/",
+  "pricingTitle": "Docyt Pricing: Accounting, Payments and BI Priced per Property",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "doodle": {
+  "checkedAt": "2026-11-08T01:05:22.702Z",
+  "homepageUrl": "https://doodle.com/en/",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": {
+   "quote": "set up in under 1 hour",
+   "url": "https://doodle.com/en/"
+  },
+  "note": "No public pricing page found."
+ },
+ "doorloop": {
+  "checkedAt": "2026-11-08T01:18:58.527Z",
+  "homepageUrl": "https://www.doorloop.com/",
+  "pricingUrl": "https://www.doorloop.com/pricing",
+  "pricingTitle": "Pricing | Property Management Software",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": {
+   "quote": "Get Started Everything in One",
+   "url": "https://www.doorloop.com/pricing"
+  },
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "dubsado": {
+  "checkedAt": "2026-11-08T01:10:35.636Z",
+  "homepageUrl": "https://www.dubsado.com/",
+  "pricingUrl": "https://www.dubsado.com/pricing",
+  "pricingTitle": "Pricing &mdash; Dubsado",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by over 30,000 creative businesses",
+   "url": "https://www.dubsado.com/"
+  },
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "ecwid": {
+  "checkedAt": "2026-11-08T01:15:48.822Z",
+  "homepageUrl": "https://www.ecwid.com/",
+  "pricingUrl": "https://www.ecwid.com/pricing",
+  "pricingTitle": "Ecwid Pricing - Choose the right Ecwid plan for your business!",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "elevenlabs": {
+  "checkedAt": "2026-11-08T01:00:03.929Z",
+  "homepageUrl": "https://elevenlabs.io/",
+  "pricingUrl": "https://elevenlabs.io/pricing",
+  "pricingTitle": "ElevenLabs Pricing for Creators &amp; Businesses of All Sizes",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free $0 /mo"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 99,
+    "billing": "per month",
+    "quote": "Pro $99 /mo"
+   },
+   {
+    "name": "Scale",
+    "monthlyUsd": 299,
+    "billing": "per month",
+    "quote": "Scale $299 /mo"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 990,
+    "billing": "per month",
+    "quote": "Business $990 /mo"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free plan",
+   "url": "https://elevenlabs.io/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "elicit": {
+  "checkedAt": "2026-11-08T01:15:49.947Z",
+  "homepageUrl": "https://elicit.com/",
+  "pricingUrl": "https://elicit.com/pricing",
+  "pricingTitle": "Pricing |&nbsp;Elicit: The AI Research Assistant",
+  "plans": [
+   {
+    "name": "Plus",
+    "monthlyUsd": 11,
+    "billing": "per user per month, billed annually",
+    "quote": "Plus For deeper research $11 Save 42% Per user/month, billed as $132 annually"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 39,
+    "billing": "per user per month, billed annually",
+    "quote": "Pro For systematic reviews $39 Save 43% Per user/month, billed as $468 annually"
+   },
+   {
+    "name": "Scale",
+    "monthlyUsd": 89,
+    "billing": "per user per month, billed annually",
+    "quote": "Scale For collaboration $89 Save 40% Per user/month, billed as $1,068 annually"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "eliseai": {
+  "checkedAt": "2026-11-08T01:02:10.094Z",
+  "homepageUrl": "https://eliseai.com/",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "expensify": {
+  "checkedAt": "2026-11-08T01:11:38.318Z",
+  "homepageUrl": "https://www.expensify.com/",
+  "pricingUrl": "https://www.expensify.com/pricing",
+  "pricingTitle": "Expensify - Pricing",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Join 15 million+ members",
+   "url": "https://www.expensify.com/"
+  },
+  "setup": {
+   "quote": "Get Started Create a new account Log in 2008",
+   "url": "https://www.expensify.com/"
+  },
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "farmbrite": {
+  "checkedAt": "2026-11-08T01:18:59.405Z",
+  "homepageUrl": "https://www.farmbrite.com/",
+  "pricingUrl": "https://www.farmbrite.com/pricing",
+  "pricingTitle": "Farm &amp; Livestock Management Software - Plans &amp; Pricing | Farmbrite",
+  "plans": [
+   {
+    "name": "Essentials (livestock)",
+    "monthlyUsd": 29,
+    "billing": "per month",
+    "quote": "$29 /month"
+   },
+   {
+    "name": "Grower Plans (livestock)",
+    "monthlyUsd": 29,
+    "billing": "per month",
+    "quote": "Starting at $29 /month"
+   },
+   {
+    "name": "Essentials (crop)",
+    "monthlyUsd": 29,
+    "billing": "per month",
+    "quote": "$29 /month"
+   },
+   {
+    "name": "Expanded crop",
+    "monthlyUsd": 39,
+    "billing": "per month",
+    "quote": "$39 /month"
+   },
+   {
+    "name": "Core (livestock)",
+    "monthlyUsd": 49,
+    "billing": "per month",
+    "quote": "$49 /month"
+   },
+   {
+    "name": "Complete Plans (livestock)",
+    "monthlyUsd": 59,
+    "billing": "per month",
+    "quote": "Starting at $59 /month"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14 day trial",
+   "url": "https://www.farmbrite.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "fathom": {
+  "checkedAt": "2026-11-08T01:00:04.612Z",
+  "homepageUrl": "https://www.fathom.ai/",
+  "pricingUrl": "https://www.fathom.ai/pricing",
+  "pricingTitle": "Fathom Pricing 2026: Free Plan or Plans from $15/mo",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free $ 0 Free forever."
+   },
+   {
+    "name": "Team",
+    "monthlyUsd": 15,
+    "billing": "per user per month",
+    "quote": "$15 $19 /month / per user"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 25,
+    "billing": "per user per month",
+    "quote": "$25 $34 /month / per user"
+   },
+   {
+    "name": "Enterprise",
+    "monthlyUsd": 35,
+    "billing": "per user per month",
+    "quote": "$35* /month / per user *Annual only"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free Plan or Plans from $15/mo Overview Solutions For customer succes",
+   "url": "https://www.fathom.ai/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "fergus": {
+  "checkedAt": "2026-11-08T01:06:25.302Z",
+  "homepageUrl": "https://fergus.com/",
+  "pricingUrl": "https://fergus.com/pricing/",
+  "pricingTitle": "Pricing Plans That Suit All Sizes of Businesses | Fergus",
+  "plans": [
+   {
+    "name": "Basic",
+    "monthlyUsd": 53,
+    "billing": "per month",
+    "quote": "Basic From $53 per month"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 75,
+    "billing": "per month",
+    "quote": "Pro From $75 per month"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14 days free trial",
+   "url": "https://fergus.com/pricing/"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "fieldpulse": {
+  "checkedAt": "2026-11-08T01:07:26.480Z",
+  "homepageUrl": "https://www.fieldpulse.com/",
+  "pricingUrl": "https://www.fieldpulse.com/pricing",
+  "pricingTitle": "Field Service Software Cost | FieldPulse Pricing",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "fireflies-ai": {
+  "checkedAt": "2026-11-08T01:00:05.182Z",
+  "homepageUrl": "https://fireflies.ai/",
+  "pricingUrl": "https://fireflies.ai/pricing",
+  "pricingTitle": "Pricing &amp; Plans | Fireflies.ai AI App for Smarter Meeting Notes",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free For individuals starting out $0 $0 Free forever"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 10,
+    "billing": "per seat per month, billed annually",
+    "quote": "Pro $10 per seat / month, billed annually"
+   },
+   {
+    "name": "Enterprise",
+    "monthlyUsd": 39,
+    "billing": "per seat per month, billed annually",
+    "quote": "Enterprise ANNUAL ONLY $39 per seat / month, billed annually"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free forever Get Started Unlimited transcription* Limited AI summaries 4",
+   "url": "https://fireflies.ai/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "fitune": {
+  "checkedAt": "2026-11-08T01:01:09.015Z",
+  "homepageUrl": null,
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Official site could not be fetched."
+ },
+ "folk": {
+  "checkedAt": "2026-11-08T01:09:34.143Z",
+  "homepageUrl": "https://www.folk.app/",
+  "pricingUrl": "https://www.folk.app/pricing",
+  "pricingTitle": "folk CRM Pricing — Free, Standard &amp; Premium Plans",
+  "plans": [
+   {
+    "name": "Standard",
+    "monthlyUsd": 24,
+    "billing": "per month, billed annually",
+    "quote": "$24 22€ /member/month"
+   },
+   {
+    "name": "Premium",
+    "monthlyUsd": 48,
+    "billing": "per month, billed annually",
+    "quote": "$48 43€ /member/month"
+   },
+   {
+    "name": "Enterprise",
+    "monthlyUsd": 80,
+    "billing": "per month, billed annually",
+    "quote": "From $80 67€ /member/month"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan to cancel your subscription",
+   "url": "https://www.folk.app/pricing"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 5,000+ companies",
+   "url": "https://www.folk.app/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "follow-up-boss": {
+  "checkedAt": "2026-11-08T01:10:36.046Z",
+  "homepageUrl": "https://www.followupboss.com/",
+  "pricingUrl": "https://www.followupboss.com/pricing",
+  "pricingTitle": "Plans and Pricing | Follow Up Boss",
+  "plans": [
+   {
+    "name": "Platform",
+    "monthlyUsd": 17,
+    "billing": "per month, billed annually",
+    "quote": "$17/month"
+   },
+   {
+    "name": "Most Popular Pro",
+    "monthlyUsd": 41,
+    "billing": "per month, billed annually",
+    "quote": "$41/month"
+   },
+   {
+    "name": "Grow",
+    "monthlyUsd": 58,
+    "billing": "per month",
+    "quote": "$58 month/per user"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://www.followupboss.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "framer": {
+  "checkedAt": "2026-11-08T01:14:47.486Z",
+  "homepageUrl": "https://www.framer.com/",
+  "pricingUrl": "https://www.framer.com/pricing",
+  "pricingTitle": "Framer: Pricing",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free Try for free $0"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan, when your workspace has no active subscriptions, you recei",
+   "url": "https://www.framer.com/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "fresha": {
+  "checkedAt": "2026-11-08T01:05:19.533Z",
+  "homepageUrl": "https://www.fresha.com/",
+  "pricingUrl": "https://www.fresha.com/pricing",
+  "pricingTitle": "Fresha | Salon Software and Booking System | Pricing",
+  "plans": [
+   {
+    "name": "Team",
+    "monthlyUsd": 14.95,
+    "billing": "per month",
+    "quote": "$14.95 per month"
+   },
+   {
+    "name": "Independent",
+    "monthlyUsd": 19.95,
+    "billing": "per month",
+    "quote": "$19.95 per month"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 7,
+   "quote": "7 day trial",
+   "url": "https://www.fresha.com/pricing"
+  },
+  "customers": {
+   "quote": "over 20 team members",
+   "url": "https://www.fresha.com/pricing"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "freshbooks": {
+  "checkedAt": "2026-11-08T01:11:37.691Z",
+  "homepageUrl": "https://www.freshbooks.com/",
+  "pricingUrl": "https://www.freshbooks.com/pricing",
+  "pricingTitle": "FreshBooks Pricing, Lite, Plus and Premium Packages - FreshBooks",
+  "plans": [
+   {
+    "name": "Lite",
+    "monthlyUsd": 4.6,
+    "billing": "per month",
+    "quote": "Lite $ 4 .60 USD/mo"
+   },
+   {
+    "name": "Premium",
+    "monthlyUsd": 14,
+    "billing": "per month",
+    "quote": "Premium $ 14 .00 USD/mo"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 30,
+   "quote": "30-day free trial",
+   "url": "https://www.freshbooks.com/pricing"
+  },
+  "customers": {
+   "quote": "used by over 30 million business owners",
+   "url": "https://www.freshbooks.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "freshworks-freddy": {
+  "checkedAt": "2026-11-08T00:59:01.595Z",
+  "homepageUrl": null,
+  "pricingUrl": "https://www.freshworks.com/pricing/",
+  "pricingTitle": "Freshworks Pricing: Software for ITSM, Customer Service, CRM and more",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "front-copilot": {
+  "checkedAt": "2026-11-08T00:57:56.531Z",
+  "homepageUrl": "https://front.com/",
+  "pricingUrl": "https://front.com/pricing",
+  "pricingTitle": "Front Pricing and Plans | Front",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 25,
+    "billing": "per seat per month",
+    "quote": "Starter $25 /seat/mo"
+   },
+   {
+    "name": "Professional",
+    "monthlyUsd": 65,
+    "billing": "per seat per month",
+    "quote": "Professional $65 /seat/mo"
+   },
+   {
+    "name": "Enterprise",
+    "monthlyUsd": 105,
+    "billing": "per seat per month",
+    "quote": "Enterprise most popular $105 /seat/mo"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://front.com/pricing"
+  },
+  "customers": {
+   "quote": "Over 9,300 businesses",
+   "url": "https://front.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "gemini": {
+  "checkedAt": "2026-11-08T00:57:58.962Z",
+  "homepageUrl": null,
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Official site could not be fetched."
+ },
+ "gemini-notebook": {
+  "checkedAt": "2026-11-08T00:57:59.917Z",
+  "homepageUrl": "https://notebook.google/",
+  "pricingUrl": "https://notebook.google/pricing",
+  "pricingTitle": "Gemini Notebook | AI Research Tool & Thinking Partner",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "glofox": {
+  "checkedAt": "2026-11-08T01:06:22.731Z",
+  "homepageUrl": "https://www.glofox.com/",
+  "pricingUrl": "https://www.glofox.com/pricing/",
+  "pricingTitle": "Get a price quote | Glofox",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 30k+ studios",
+   "url": "https://www.glofox.com/"
+  },
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "glossgenius": {
+  "checkedAt": "2026-11-08T01:05:20.621Z",
+  "homepageUrl": "https://glossgenius.com/",
+  "pricingUrl": "https://glossgenius.com/pricing",
+  "pricingTitle": "GlossGenius Pricing &amp; Subscription Plans | GlossGenius",
+  "plans": [
+   {
+    "name": "Standard",
+    "monthlyUsd": 24,
+    "billing": "per month, billed annually",
+    "quote": "$ 24 / monthly"
+   },
+   {
+    "name": "Gold",
+    "monthlyUsd": 48,
+    "billing": "per month, billed annually",
+    "quote": "$ 48 / monthly"
+   },
+   {
+    "name": "Platinum",
+    "monthlyUsd": 148,
+    "billing": "per month, billed annually",
+    "quote": "$ 148 / monthly"
+   },
+   {
+    "name": "Practice Essentials",
+    "monthlyUsd": 148,
+    "billing": "per month, billed annually",
+    "quote": "$ 148 / monthly"
+   },
+   {
+    "name": "Practice Advanced",
+    "monthlyUsd": 248,
+    "billing": "per month, billed annually",
+    "quote": "$ 248 / monthly"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan",
+   "url": "https://glossgenius.com/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://glossgenius.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "goodcall": {
+  "checkedAt": "2026-11-08T01:04:15.198Z",
+  "homepageUrl": "https://www.goodcall.com/",
+  "pricingUrl": "https://www.goodcall.com/pricing",
+  "pricingTitle": "Goodcall Pricing | AI Answering Service from $79 a Month",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 79,
+    "billing": "per month",
+    "quote": "Starter $79 a month"
+   },
+   {
+    "name": "Growth",
+    "monthlyUsd": 129,
+    "billing": "per month",
+    "quote": "Growth Most popular $129 a month"
+   },
+   {
+    "name": "Scale",
+    "monthlyUsd": 299,
+    "billing": "per month",
+    "quote": "Scale $299 a month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "More than 2,000 customers",
+   "url": "https://www.goodcall.com/pricing"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "google-document-ai": {
+  "checkedAt": "2026-11-08T01:01:07.340Z",
+  "homepageUrl": "https://cloud.google.com/document-ai",
+  "pricingUrl": "https://cloud.google.com/pricing",
+  "pricingTitle": "Pricing Overview | Google Cloud",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "gorgias": {
+  "checkedAt": "2026-11-08T01:02:13.954Z",
+  "homepageUrl": "https://www.gorgias.com/",
+  "pricingUrl": "https://www.gorgias.com/pricing",
+  "pricingTitle": "Gorgias Pricing - AI-Powered Ecommerce CX Platform Plans",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 10,
+    "billing": "per month",
+    "quote": "$10 /mo Billed monthly"
+   },
+   {
+    "name": "Basic",
+    "monthlyUsd": 60,
+    "billing": "per month",
+    "quote": "$60 /mo Billed monthly"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 360,
+    "billing": "per month",
+    "quote": "$360 /mo Billed monthly"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "gorilladesk": {
+  "checkedAt": "2026-11-08T01:07:26.325Z",
+  "homepageUrl": "https://gorilladesk.com/",
+  "pricingUrl": "https://gorilladesk.com/pricing/",
+  "pricingTitle": "GorillaDesk pricing: $49–$149 per route",
+  "plans": [
+   {
+    "name": "Basic",
+    "monthlyUsd": 49,
+    "billing": "per month",
+    "quote": "Basic $ 49 / mo Paid Monthly (USD)"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 99,
+    "billing": "per month",
+    "quote": "Pro $ 99 / mo Paid Monthly (USD)"
+   },
+   {
+    "name": "Growth",
+    "monthlyUsd": 149,
+    "billing": "per month",
+    "quote": "Growth $ 149 / mo Paid Monthly (USD)"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://gorilladesk.com/pricing/"
+  },
+  "customers": null,
+  "setup": {
+   "quote": "set up online payments in just one click",
+   "url": "https://gorilladesk.com/pricing/"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "grain": {
+  "checkedAt": "2026-11-08T01:17:55.969Z",
+  "homepageUrl": "https://grain.com/",
+  "pricingUrl": "https://grain.com/pricing",
+  "pricingTitle": "Pricing | Grain",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per seat/month billed annually",
+    "quote": "$0 per seat/month billed annually"
+   },
+   {
+    "name": "Paid",
+    "monthlyUsd": 19,
+    "billing": "per seat/month",
+    "quote": "$19 per seat/month"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free forever for individuals",
+   "url": "https://grain.com/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://grain.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "grammarly": {
+  "checkedAt": "2026-11-08T00:57:56.519Z",
+  "homepageUrl": "https://www.grammarly.com/",
+  "pricingUrl": "https://www.grammarly.com/plans",
+  "pricingTitle": "Grammarly Prices and Plans | Grammarly",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 50,000 organizations",
+   "url": "https://www.grammarly.com/"
+  },
+  "setup": null,
+  "note": "Existing documented price kept."
+ },
+ "gumloop": {
+  "checkedAt": "2026-11-08T01:14:46.730Z",
+  "homepageUrl": "https://www.gumloop.com/",
+  "pricingUrl": "https://www.gumloop.com/pricing",
+  "pricingTitle": "Pricing | Gumloop",
+  "plans": [
+   {
+    "name": "Pro",
+    "monthlyUsd": 37,
+    "billing": "per month",
+    "quote": "Pro Starts at $37 / month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "guru": {
+  "checkedAt": "2026-11-08T01:15:50.323Z",
+  "homepageUrl": "https://www.getguru.com/",
+  "pricingUrl": "https://www.getguru.com/pricing",
+  "pricingTitle": "Pricing for our AI-Powered Knowledge Management Platform",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "help-scout-ai": {
+  "checkedAt": "2026-11-08T01:02:12.845Z",
+  "homepageUrl": "https://www.helpscout.com/",
+  "pricingUrl": "https://www.helpscout.com/pricing/",
+  "pricingTitle": "Help Scout Pricing: Affordable Customer Support Software",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free"
+   },
+   {
+    "name": "Standard",
+    "monthlyUsd": 25,
+    "billing": "per user per month",
+    "quote": "$ 25 per user/mo"
+   },
+   {
+    "name": "Plus",
+    "monthlyUsd": 45,
+    "billing": "per user per month",
+    "quote": "$ 45 per user/mo"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 75,
+    "billing": "per user per month",
+    "quote": "$ 75 per user/mo"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free plan includes 5 users, 1 Inbox, and 1 Docs site",
+   "url": "https://www.helpscout.com/pricing/"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "heygen": {
+  "checkedAt": "2026-11-08T01:00:03.504Z",
+  "homepageUrl": "https://www.heygen.com/",
+  "pricingUrl": "https://www.heygen.com/pricing",
+  "pricingTitle": "Pricing Plans for Creators and Marketers | HeyGen",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free $0/mo"
+   },
+   {
+    "name": "Creator",
+    "monthlyUsd": 24,
+    "billing": "per month, billed annually",
+    "quote": "Creator plan costs $29/month (or $24/month if you pay annually)"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 49,
+    "billing": "per month",
+    "quote": "Pro Most Popular $49 / mo"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 149,
+    "billing": "per month",
+    "quote": "Business $149 / mo"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free plan includes up to 3 videos per month, and limited trial access",
+   "url": "https://www.heygen.com/pricing"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by over 1,000,000 developers and leading companies",
+   "url": "https://www.heygen.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "homebase": {
+  "checkedAt": "2026-11-08T01:13:43.451Z",
+  "homepageUrl": "https://www.joinhomebase.com/",
+  "pricingUrl": "https://www.joinhomebase.com/pricing",
+  "pricingTitle": "Official Homebase Pricing | Try Homebase Free Today",
+  "plans": [
+   {
+    "name": "Basic",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Basic $0 /mo"
+   },
+   {
+    "name": "Essentials",
+    "monthlyUsd": 30,
+    "billing": "per month",
+    "quote": "Essentials $30 /mo"
+   },
+   {
+    "name": "Plus",
+    "monthlyUsd": 70,
+    "billing": "per month",
+    "quote": "Plus $70 /mo"
+   },
+   {
+    "name": "All-in-One",
+    "monthlyUsd": 120,
+    "billing": "per month",
+    "quote": "All-in-One $120 /mo"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://www.joinhomebase.com/pricing"
+  },
+  "customers": {
+   "quote": "Trusted by 150,000+ small businesses",
+   "url": "https://www.joinhomebase.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "honeybook": {
+  "checkedAt": "2026-11-08T01:10:35.367Z",
+  "homepageUrl": "https://www.honeybook.com/",
+  "pricingUrl": "https://www.honeybook.com/pricing",
+  "pricingTitle": "HoneyBook pricing | Flexible plans for small businesses",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 29,
+    "billing": "per month, billed annually",
+    "quote": "$ 29 /month (billed annually)"
+   },
+   {
+    "name": "Essentials",
+    "monthlyUsd": 49,
+    "billing": "per month, billed annually",
+    "quote": "$ 49 /month (billed annually)"
+   },
+   {
+    "name": "Premium",
+    "monthlyUsd": 109,
+    "billing": "per month, billed annually",
+    "quote": "$ 109 /month (billed annually)"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by over 100K small businesses",
+   "url": "https://www.honeybook.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "hootsuite": {
+  "checkedAt": "2026-11-08T01:07:27.119Z",
+  "homepageUrl": "https://www.hootsuite.com/",
+  "pricingUrl": "https://www.hootsuite.com/plans",
+  "pricingTitle": "Hootsuite Plans, Prices, and Features",
+  "plans": [
+   {
+    "name": "Standard",
+    "monthlyUsd": 99,
+    "billing": "per month",
+    "quote": "$99 for a Standard plan"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://www.hootsuite.com/plans"
+  },
+  "customers": {
+   "quote": "Over 25 million users",
+   "url": "https://www.hootsuite.com/"
+  },
+  "setup": {
+   "quote": "Get started in minutes",
+   "url": "https://www.hootsuite.com/"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "hostinger-website-builder": {
+  "checkedAt": "2026-11-08T01:14:47.825Z",
+  "homepageUrl": "https://www.hostinger.com/website-builder",
+  "pricingUrl": "https://www.hostinger.com/pricing",
+  "pricingTitle": "Hostinger pricing | Explore web hosting and all Hostinger plans",
+  "plans": [
+   {
+    "name": "Premium",
+    "monthlyUsd": 1.99,
+    "billing": "per month",
+    "quote": "$ 1.99 /mo"
+   },
+   {
+    "name": "Unlimited",
+    "monthlyUsd": 2.79,
+    "billing": "per month",
+    "quote": "$ 2.79 /mo"
+   },
+   {
+    "name": "Cloud Startup",
+    "monthlyUsd": 7.99,
+    "billing": "per month",
+    "quote": "$ 7.99 /mo"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "housecall-pro": {
+  "checkedAt": "2026-11-08T01:02:09.887Z",
+  "homepageUrl": "https://www.housecallpro.com/",
+  "pricingUrl": "https://www.housecallpro.com/pricing/",
+  "pricingTitle": "Housecall Pro Pricing &amp; Plans | From $59/mo — 14-Day Free Trial",
+  "plans": [],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-Day Free Trial",
+   "url": "https://www.housecallpro.com/pricing/"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "hubspot-breeze": {
+  "checkedAt": "2026-11-08T00:57:57.409Z",
+  "homepageUrl": "https://www.hubspot.com/",
+  "pricingUrl": "https://www.hubspot.com/pricing",
+  "pricingTitle": "Marketing Software Pricing | HubSpot",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "TRUSTED BY 306,000+ CUSTOMERS",
+   "url": "https://www.hubspot.com/"
+  },
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "ideogram": {
+  "checkedAt": "2026-11-08T01:09:32.542Z",
+  "homepageUrl": "https://ideogram.ai/",
+  "pricingUrl": "https://ideogram.ai/pricing/",
+  "pricingTitle": "Pricing — Ideogram",
+  "plans": [
+   {
+    "name": "Plus",
+    "monthlyUsd": 20,
+    "billing": "per month",
+    "quote": "Recommended $20"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "intercom-copilot": {
+  "checkedAt": "2026-11-08T00:57:56.531Z",
+  "homepageUrl": "https://www.intercom.com/",
+  "pricingUrl": "https://www.intercom.com/pricing",
+  "pricingTitle": "Intercom Pricing | Plans for every team size",
+  "plans": [],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://www.intercom.com/pricing"
+  },
+  "customers": {
+   "quote": "Trusted by 30,000+ leading brands",
+   "url": "https://www.intercom.com/"
+  },
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "invideo": {
+  "checkedAt": "2026-11-08T01:09:32.099Z",
+  "homepageUrl": "https://invideo.io/",
+  "pricingUrl": "https://invideo.io/pricing/",
+  "pricingTitle": "Pricing | invideo AI",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 10,
+    "billing": "per seat/mo, billed annually",
+    "quote": "Annual Starter $10 per seat/mo, billed annually"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "jane-app": {
+  "checkedAt": "2026-11-08T01:06:23.722Z",
+  "homepageUrl": "https://jane.app/",
+  "pricingUrl": "https://jane.app/pricing",
+  "pricingTitle": "Pricing - Jane App - Jane App",
+  "plans": [
+   {
+    "name": "Balance",
+    "monthlyUsd": 59,
+    "billing": "per month",
+    "quote": "Balance / USD $59 per month"
+   },
+   {
+    "name": "Practice",
+    "monthlyUsd": 79,
+    "billing": "per month",
+    "quote": "Practice / USD $79 per month"
+   },
+   {
+    "name": "Thrive",
+    "monthlyUsd": 99,
+    "billing": "per month",
+    "quote": "Thrive / USD $99 per month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "over 10,000 allied health professionals",
+   "url": "https://jane.app/pricing"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "jasper": {
+  "checkedAt": "2026-11-08T00:57:57.252Z",
+  "homepageUrl": "https://www.jasper.ai/",
+  "pricingUrl": "https://www.jasper.ai/pricing",
+  "pricingTitle": "Plans &amp; Pricing | Jasper",
+  "plans": [],
+  "freePlan": null,
+  "trial": {
+   "days": 7,
+   "quote": "7-Day Trial",
+   "url": "https://www.jasper.ai/pricing"
+  },
+  "customers": {
+   "quote": "Over 100,000 businesses",
+   "url": "https://www.jasper.ai/pricing"
+  },
+  "setup": null,
+  "note": "Existing documented price kept."
+ },
+ "jetpack-ai": {
+  "checkedAt": "2026-11-08T01:14:48.253Z",
+  "homepageUrl": "https://jetpack.com/ai/",
+  "pricingUrl": "https://jetpack.com/pricing/",
+  "pricingTitle": "Jetpack Pricing: Plans for Security, Speed &amp; Growth",
+  "plans": [
+   {
+    "name": "Pro",
+    "monthlyUsd": 29,
+    "billing": "per month",
+    "quote": "Pro $ 29.00 /mo"
+   },
+   {
+    "name": "Complete",
+    "monthlyUsd": 49,
+    "billing": "per month",
+    "quote": "Complete $ 49.00 /mo"
+   }
+  ],
+  "freePlan": {
+   "quote": "Always free Get Jetpack free Pro $ 29",
+   "url": "https://jetpack.com/pricing/"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "jobber": {
+  "checkedAt": "2026-11-08T01:01:09.251Z",
+  "homepageUrl": null,
+  "pricingUrl": "https://www.getjobber.com/pricing/",
+  "pricingTitle": "Jobber Pricing: Plans Starting at $29/Month | Free Trial",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "joist": {
+  "checkedAt": "2026-11-08T01:07:25.104Z",
+  "homepageUrl": "https://www.joist.com/",
+  "pricingUrl": "https://www.joist.com/pricing/",
+  "pricingTitle": "Explore Joist Pricing Plans for Your Contracting Business",
+  "plans": [
+   {
+    "name": "Solo starters",
+    "monthlyUsd": 8.34,
+    "billing": "per month",
+    "quote": "$8.34 /mo"
+   },
+   {
+    "name": "Working contractors",
+    "monthlyUsd": 14.17,
+    "billing": "per month",
+    "quote": "$14.17 /mo"
+   },
+   {
+    "name": "Established pros Elite",
+    "monthlyUsd": 26.67,
+    "billing": "per month",
+    "quote": "$26.67 /mo"
+   },
+   {
+    "name": "Unnamed $49 plan",
+    "monthlyUsd": 49,
+    "billing": "per month",
+    "quote": "$49 /mo"
+   },
+   {
+    "name": "Owner-operators",
+    "monthlyUsd": 58.33,
+    "billing": "per month",
+    "quote": "$58.33 /mo"
+   }
+  ],
+  "freePlan": {
+   "quote": "free version of Joist available",
+   "url": "https://www.joist.com/pricing/"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14 day free trial",
+   "url": "https://www.joist.com/pricing/"
+  },
+  "customers": {
+   "quote": "Join over 1.3M contractors",
+   "url": "https://www.joist.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "jotform-ai-agents": {
+  "checkedAt": "2026-11-08T01:02:11.227Z",
+  "homepageUrl": "https://www.jotform.com/",
+  "pricingUrl": "https://www.jotform.com/pricing/",
+  "pricingTitle": "Jotform Features and Pricing | Jotform",
+  "plans": [],
+  "freePlan": {
+   "quote": "free plan available for Jotform",
+   "url": "https://www.jotform.com/pricing/"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "trusted by 40+ million users",
+   "url": "https://www.jotform.com/"
+  },
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "kajabi": {
+  "checkedAt": "2026-11-08T01:17:56.641Z",
+  "homepageUrl": "https://www.kajabi.com/",
+  "pricingUrl": "https://www.kajabi.com/pricing",
+  "pricingTitle": "Transparent Pricing for Expert Businesses | Kajabi",
+  "plans": [
+   {
+    "name": "Basic",
+    "monthlyUsd": 143,
+    "billing": "per month, billed annually",
+    "quote": "$143 /mo Billed annually at $1,716"
+   },
+   {
+    "name": "Growth",
+    "monthlyUsd": 199,
+    "billing": "per month, billed annually",
+    "quote": "$199 /mo Billed annually at $2,388"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 399,
+    "billing": "per month, billed annually",
+    "quote": "$399 /mo Billed annually at $4,788"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "kapwing": {
+  "checkedAt": "2026-11-08T01:09:31.543Z",
+  "homepageUrl": "https://www.kapwing.com/",
+  "pricingUrl": "https://www.kapwing.com/pricing",
+  "pricingTitle": "Pricing — Kapwing",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "10 credits $ 0"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 16,
+    "billing": "per month",
+    "quote": "1,000 credits / month $ 16"
+   },
+   {
+    "name": "Team",
+    "monthlyUsd": 50,
+    "billing": "per month",
+    "quote": "4,000 credits / month $ 50"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "over 30 million creators",
+   "url": "https://www.kapwing.com/"
+  },
+  "setup": {
+   "quote": "Get started in minutes",
+   "url": "https://www.kapwing.com/"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "karbon": {
+  "checkedAt": "2026-11-08T01:17:58.184Z",
+  "homepageUrl": "https://karbonhq.com/",
+  "pricingUrl": "https://karbonhq.com/pricing/",
+  "pricingTitle": "Practice Management Plans to Suit Every Accounting Firm | Karbon",
+  "plans": [
+   {
+    "name": "Team",
+    "monthlyUsd": 59,
+    "billing": "per user, paid annually",
+    "quote": "Team $59/month, per user, paid annually"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 89,
+    "billing": "per user, paid annually",
+    "quote": "Business $89/month, per user, paid annually"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 40,000+ accounting professionals",
+   "url": "https://karbonhq.com/pricing/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "kickserv": {
+  "checkedAt": "2026-11-08T01:06:24.422Z",
+  "homepageUrl": "https://www.kickserv.com/",
+  "pricingUrl": "https://www.kickserv.com/pricing",
+  "pricingTitle": "Kickserv Field Service Management Software Pricing",
+  "plans": [
+   {
+    "name": "Small Teams",
+    "monthlyUsd": 60,
+    "billing": "per month",
+    "quote": "$ 60 /mo"
+   },
+   {
+    "name": "Growing Teams",
+    "monthlyUsd": 119,
+    "billing": "per month",
+    "quote": "$ 119 /mo"
+   },
+   {
+    "name": "Established Businesses",
+    "monthlyUsd": 199,
+    "billing": "per month",
+    "quote": "$ 199 /mo"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "kit": {
+  "checkedAt": "2026-11-08T01:08:28.699Z",
+  "homepageUrl": "https://kit.com/",
+  "pricingUrl": "https://kit.com/pricing",
+  "pricingTitle": "Flexible Pricing Plans for Every Stage of Your Creator Business",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "$0 /mo"
+   },
+   {
+    "name": "Creator",
+    "monthlyUsd": 33,
+    "billing": "per month",
+    "quote": "$ 33 /mo"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 50,
+    "billing": "per month",
+    "quote": "$ 50 /mo"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free Plan is perfect if you’re focused on building your audience",
+   "url": "https://kit.com/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://kit.com/pricing"
+  },
+  "customers": {
+   "quote": "trusted by 550,000+ creator business owners",
+   "url": "https://kit.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "klaviyo-ai": {
+  "checkedAt": "2026-11-08T00:59:01.785Z",
+  "homepageUrl": "https://www.klaviyo.com/",
+  "pricingUrl": "https://www.klaviyo.com/pricing",
+  "pricingTitle": "Klaviyo Pricing | Start Free with Email &amp; SMS",
+  "plans": [
+   {
+    "name": "Free plan",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Klaviyo free plan $0"
+   },
+   {
+    "name": "Marketing",
+    "monthlyUsd": 1,
+    "billing": "per month",
+    "quote": "$1 /month"
+   },
+   {
+    "name": "Email",
+    "monthlyUsd": 20,
+    "billing": "per month",
+    "quote": "$20 /month"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan Up to 250 active profiles and 500 emails per month Start fo",
+   "url": "https://www.klaviyo.com/pricing"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "Powering 200,000+ relationship-driven brands",
+   "url": "https://www.klaviyo.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "krisp": {
+  "checkedAt": "2026-11-08T01:15:51.341Z",
+  "homepageUrl": "https://krisp.ai/",
+  "pricingUrl": "https://krisp.ai/pricing/",
+  "pricingTitle": "Krisp Pricing Plans",
+  "plans": [
+   {
+    "name": "Core",
+    "monthlyUsd": 8,
+    "billing": "per user per month",
+    "quote": "$8 /mo/user"
+   },
+   {
+    "name": "Advanced",
+    "monthlyUsd": 15,
+    "billing": "per user per month",
+    "quote": "$15 /mo/user"
+   },
+   {
+    "name": "Enterprise",
+    "monthlyUsd": 15,
+    "billing": "per month, billed annually",
+    "quote": "$15 per agent/mo, billed annually"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "more than 50 members",
+   "url": "https://krisp.ai/pricing/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "kustomer": {
+  "checkedAt": "2026-11-08T01:04:18.130Z",
+  "homepageUrl": "https://www.kustomer.com/",
+  "pricingUrl": "https://www.kustomer.com/pricing/",
+  "pricingTitle": "Pricing &amp; ROI Calculator | Kustomer",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "later": {
+  "checkedAt": "2026-11-08T01:07:27.499Z",
+  "homepageUrl": "https://later.com/",
+  "pricingUrl": "https://later.com/pricing/",
+  "pricingTitle": "Later Pricing Plans for Brands, Agencies &amp; Social Media Managers",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 18.75,
+    "billing": "per month, billed annually",
+    "quote": "$ 18.75 USD/month* Billed yearly"
+   },
+   {
+    "name": "Growth",
+    "monthlyUsd": 37.5,
+    "billing": "per month, billed annually",
+    "quote": "$ 37.50 USD/month* Billed yearly"
+   },
+   {
+    "name": "Scale",
+    "monthlyUsd": 82.5,
+    "billing": "per month, billed annually",
+    "quote": "$ 82.50 USD/month* Billed yearly"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free Plan overview Social Platforms Later supports Instagram, Faceboo",
+   "url": "https://later.com/pricing/"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://later.com/pricing/"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "le-chat": {
+  "checkedAt": "2026-11-08T01:15:49.494Z",
+  "homepageUrl": "https://mistral.ai/",
+  "pricingUrl": "https://mistral.ai/pricing/",
+  "pricingTitle": "Pricing | Mistral",
+  "plans": [
+   {
+    "name": "Mistral Pro (student discount)",
+    "monthlyUsd": 5.99,
+    "billing": "per month",
+    "quote": "$5.99 / month"
+   },
+   {
+    "name": "Popular Pro Education plan",
+    "monthlyUsd": 14.99,
+    "billing": "per month",
+    "quote": "$14.99 /mo"
+   },
+   {
+    "name": "Team Secure",
+    "monthlyUsd": 24.99,
+    "billing": "per user per month",
+    "quote": "$24.99 /user/mo"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan",
+   "url": "https://mistral.ai/pricing/"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "lemlist": {
+  "checkedAt": "2026-11-08T01:10:35.098Z",
+  "homepageUrl": "https://www.lemlist.com/",
+  "pricingUrl": "https://www.lemlist.com/pricing",
+  "pricingTitle": "lemlist pricing︱The all-in-one platform for precise outbound at any scale",
+  "plans": [
+   {
+    "name": "Data add-ons",
+    "monthlyUsd": 16,
+    "billing": "per month",
+    "quote": "$16 / month"
+   },
+   {
+    "name": "Signals",
+    "monthlyUsd": 21,
+    "billing": "per month",
+    "quote": "$21 / month"
+   },
+   {
+    "name": "Email",
+    "monthlyUsd": 55,
+    "billing": "per month",
+    "quote": "$55 / month"
+   },
+   {
+    "name": "Multichannel",
+    "monthlyUsd": 87,
+    "billing": "per month",
+    "quote": "$87 / month"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 30,
+   "quote": "30 day free trial",
+   "url": "https://www.lemlist.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "less-annoying-crm": {
+  "checkedAt": "2026-11-08T01:09:33.968Z",
+  "homepageUrl": "https://lessannoyingcrm.com/",
+  "pricingUrl": "https://lessannoyingcrm.com/pricing",
+  "pricingTitle": "Pricing | Less Annoying CRM",
+  "plans": [
+   {
+    "name": "Less Annoying CRM",
+    "monthlyUsd": 15,
+    "billing": "per user per month",
+    "quote": "Everything included $15 per user per month + applicable tax"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Join 10,000+ small businesses",
+   "url": "https://lessannoyingcrm.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "lightspeed": {
+  "checkedAt": "2026-11-08T01:13:44.854Z",
+  "homepageUrl": "https://www.lightspeedhq.com/",
+  "pricingUrl": "https://www.lightspeedhq.com/golf/pricing/",
+  "pricingTitle": "Lightspeed Golf Pricing l Chronogolf is now Lightspeed",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "lindy": {
+  "checkedAt": "2026-11-08T01:14:46.503Z",
+  "homepageUrl": "https://www.lindy.ai/",
+  "pricingUrl": "https://www.lindy.ai/pricing",
+  "pricingTitle": "Pricing - Lindy",
+  "plans": [],
+  "freePlan": null,
+  "trial": {
+   "days": 7,
+   "quote": "7-day free trial",
+   "url": "https://www.lindy.ai/pricing"
+  },
+  "customers": null,
+  "setup": {
+   "quote": "Set up in 2 minutes",
+   "url": "https://www.lindy.ai/"
+  },
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "livechat": {
+  "checkedAt": "2026-11-08T01:03:12.847Z",
+  "homepageUrl": "https://www.livechat.com/",
+  "pricingUrl": "https://www.livechat.com/pricing/",
+  "pricingTitle": "Text Live Chat Pricing: Plans from $19/User | LiveChat.com",
+  "plans": [
+   {
+    "name": "Essential",
+    "monthlyUsd": 19,
+    "billing": "per user per month, billed annually",
+    "quote": "$19 per user / month Billed annually"
+   },
+   {
+    "name": "Growth",
+    "monthlyUsd": 79,
+    "billing": "per user per month, billed annually",
+    "quote": "$79 per user / month Billed annually"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Join 30,000 companies",
+   "url": "https://www.livechat.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "lofty": {
+  "checkedAt": "2026-11-08T01:10:36.565Z",
+  "homepageUrl": "https://lofty.com/",
+  "pricingUrl": "https://lofty.com/price-packages",
+  "pricingTitle": "Real Estate CRM Pricing &amp; Plans | Lofty",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "over 70,000 tech-savvy real estate professionals",
+   "url": "https://lofty.com/"
+  },
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "loom": {
+  "checkedAt": "2026-11-08T01:09:33.248Z",
+  "homepageUrl": "https://www.loom.com/",
+  "pricingUrl": "https://www.loom.com/pricing",
+  "pricingTitle": "Loom Pricing | Start Recording For Free | Loom",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Starter Get started with video communication $0"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://www.loom.com/pricing"
+  },
+  "customers": {
+   "quote": "More than 25 million people",
+   "url": "https://www.loom.com/pricing"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "magicschool": {
+  "checkedAt": "2026-11-08T01:17:57.477Z",
+  "homepageUrl": "https://www.magicschool.ai/",
+  "pricingUrl": "https://www.magicschool.ai/pricing",
+  "pricingTitle": "MagicSchool Pricing &amp; Plans | MagicSchool",
+  "plans": [
+   {
+    "name": "FREE",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "$0 Forever Free"
+   },
+   {
+    "name": "PLUS",
+    "monthlyUsd": 8.33,
+    "billing": "per user per month, billed annually",
+    "quote": "$8.33 USD/user/mo (billed annually)"
+   }
+  ],
+  "freePlan": {
+   "quote": "Forever Free For individual teachers exploring AI $8",
+   "url": "https://www.magicschool.ai/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "mailchimp-ai": {
+  "checkedAt": "2026-11-08T00:59:01.779Z",
+  "homepageUrl": "https://mailchimp.com/",
+  "pricingUrl": "https://mailchimp.com/pricing/marketing/",
+  "pricingTitle": "Mailchimp Pricing Plans | Get Started Today | Mailchimp",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "starts at 0 /month† per month†"
+   },
+   {
+    "name": "Essentials",
+    "monthlyUsd": 13,
+    "billing": "per month, billed annually",
+    "quote": "$ 13 00 /mo for 12 months per month for 12 months"
+   },
+   {
+    "name": "Standard",
+    "monthlyUsd": 20,
+    "billing": "per month, billed annually",
+    "quote": "$ 20 00 /mo for 12 months per month for 12 months"
+   },
+   {
+    "name": "Premium",
+    "monthlyUsd": 350,
+    "billing": "per month, billed annually",
+    "quote": "$ 350 00 /mo for 12 months per month for 12 months"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free plan at any time",
+   "url": "https://mailchimp.com/pricing/marketing/"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://mailchimp.com/pricing/marketing/"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "mailerlite": {
+  "checkedAt": "2026-11-08T01:08:28.610Z",
+  "homepageUrl": "https://www.mailerlite.com/",
+  "pricingUrl": "https://www.mailerlite.com/pricing",
+  "pricingTitle": "Simple, Transparent Pricing - MailerLite",
+  "plans": [
+   {
+    "name": "Comfort",
+    "monthlyUsd": 12,
+    "billing": "per month",
+    "quote": "Comfort plan (starting $12/month)"
+   },
+   {
+    "name": "Power",
+    "monthlyUsd": 25,
+    "billing": "per month",
+    "quote": "Power plan (starting $25/month)"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free plan is a generous way to get started, with a real taste of the",
+   "url": "https://www.mailerlite.com/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://www.mailerlite.com/pricing"
+  },
+  "customers": {
+   "quote": "Join 1M+ creators",
+   "url": "https://www.mailerlite.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "make-ai": {
+  "checkedAt": "2026-11-08T00:58:01.667Z",
+  "homepageUrl": "https://www.make.com/",
+  "pricingUrl": "https://www.make.com/pricing",
+  "pricingTitle": "Pricing &amp; Subscription Packages | Make",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free $0 /mo"
+   },
+   {
+    "name": "Core",
+    "monthlyUsd": 9,
+    "billing": "per month",
+    "quote": "Core Save 15 % $9 /mo"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 16,
+    "billing": "per month",
+    "quote": "Popular $16 /mo"
+   },
+   {
+    "name": "Teams",
+    "monthlyUsd": 29,
+    "billing": "per month",
+    "quote": "Teams Save 15 % $29 /mo"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free plan, you have 1000 credits per month, which equals 1 MB of data",
+   "url": "https://www.make.com/pricing"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "Join 4,000+ companies",
+   "url": "https://www.make.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "mangomint": {
+  "checkedAt": "2026-11-08T01:06:23.307Z",
+  "homepageUrl": "https://www.mangomint.com/",
+  "pricingUrl": "https://www.mangomint.com/pricing/",
+  "pricingTitle": "Pricing | Mangomint Salon and Spa Software",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "marginedge": {
+  "checkedAt": "2026-11-08T01:14:46.174Z",
+  "homepageUrl": "https://www.marginedge.com/",
+  "pricingUrl": "https://www.marginedge.com/pricing/",
+  "pricingTitle": "Restaurant Invoicing Software Pricing",
+  "plans": [
+   {
+    "name": "MarginEdge full platform",
+    "monthlyUsd": 350,
+    "billing": "per month",
+    "quote": "$350 per location/month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 12,000+ restaurants",
+   "url": "https://www.marginedge.com/"
+  },
+  "setup": {
+   "quote": "up and running within a few",
+   "url": "https://www.marginedge.com/"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "marketman": {
+  "checkedAt": "2026-11-08T01:13:45.050Z",
+  "homepageUrl": "https://www.marketman.com/",
+  "pricingUrl": "https://www.marketman.com/pricing-for-restaurant-inventory-management-system",
+  "pricingTitle": "MarketMan Pricing: Plans for Every Restaurant Size",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 249,
+    "billing": "per month",
+    "quote": "Starter $249 /monthly"
+   },
+   {
+    "name": "Growth",
+    "monthlyUsd": 299,
+    "billing": "per month",
+    "quote": "Growth $299 /monthly"
+   },
+   {
+    "name": "Enterprise",
+    "monthlyUsd": 449,
+    "billing": "per month",
+    "quote": "Enterprise From $449"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 15,000+ Restaurants",
+   "url": "https://www.marketman.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "meetgeek": {
+  "checkedAt": "2026-11-08T01:17:55.635Z",
+  "homepageUrl": "https://meetgeek.ai/",
+  "pricingUrl": "https://meetgeek.ai/pricing",
+  "pricingTitle": "Plans &amp; Pricing | MeetGeek Meeting Assistant",
+  "plans": [
+   {
+    "name": "Pro",
+    "monthlyUsd": 15.99,
+    "billing": "per month",
+    "quote": "Pro: $15.99/mo"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 27,
+    "billing": "per month",
+    "quote": "Business: $27/mo"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free forever",
+   "url": "https://meetgeek.ai/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-days trial",
+   "url": "https://meetgeek.ai/pricing"
+  },
+  "customers": {
+   "quote": "Trusted by 50,000+ teams",
+   "url": "https://meetgeek.ai/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "mentimeter": {
+  "checkedAt": "2026-11-08T01:17:57.992Z",
+  "homepageUrl": "https://www.mentimeter.com/",
+  "pricingUrl": "https://www.mentimeter.com/plans",
+  "pricingTitle": "Pricing – Free, Pro &amp; Enterprise Plans - Mentimeter",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 500+ million users",
+   "url": "https://www.mentimeter.com/"
+  },
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "metricool": {
+  "checkedAt": "2026-11-08T01:07:27.703Z",
+  "homepageUrl": "https://metricool.com/",
+  "pricingUrl": "https://metricool.com/pricing/",
+  "pricingTitle": "Metricool Pricing ▷ Find The Best Plan",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free $0/month"
+   },
+   {
+    "name": "Starter",
+    "monthlyUsd": 20,
+    "billing": "per month",
+    "quote": "From $20/month"
+   },
+   {
+    "name": "Advanced",
+    "monthlyUsd": 53,
+    "billing": "per month",
+    "quote": "From $53/month"
+   }
+  ],
+  "freePlan": {
+   "quote": "FREE plan, plus: Manage up to 10 brands Unlimited content publishing*",
+   "url": "https://metricool.com/pricing/"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "Join over 4 million professionals",
+   "url": "https://metricool.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "microsoft-365-copilot": {
+  "checkedAt": "2026-11-08T00:57:59.207Z",
+  "homepageUrl": "https://www.microsoft.com/en-us/copilot/solutions/business",
+  "pricingUrl": "https://www.microsoft.com/en-us/copilot/pricing/business",
+  "pricingTitle": "Microsoft Copilot Plans and Pricing—AI for Business | Microsoft 365",
+  "plans": [
+   {
+    "name": "Microsoft 365 Business Standard with Copilot",
+    "monthlyUsd": 23.5,
+    "billing": "per user per month, paid yearly",
+    "quote": "$23.50 user/month, paid yearly"
+   },
+   {
+    "name": "Microsoft 365 Business Premium with Copilot",
+    "monthlyUsd": 32,
+    "billing": "per user per month, paid yearly",
+    "quote": "$32.00 user/month, paid yearly"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free version See all features See all features Learn more Previous Slide",
+   "url": "https://www.microsoft.com/en-us/copilot/pricing/business"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "microsoft-designer": {
+  "checkedAt": "2026-11-08T01:08:30.755Z",
+  "homepageUrl": "https://designer.microsoft.com/",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "mindbody": {
+  "checkedAt": "2026-11-08T01:01:08.823Z",
+  "homepageUrl": "https://www.mindbodyonline.com/",
+  "pricingUrl": "https://www.mindbodyonline.com/business/pricing",
+  "pricingTitle": "Business Pricing | Mindbody",
+  "plans": [
+   {
+    "name": "entry-level",
+    "monthlyUsd": 79,
+    "billing": "per month",
+    "quote": "Starting at $79 USD/month per location"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "over 3 million active users",
+   "url": "https://www.mindbodyonline.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "monday-ai": {
+  "checkedAt": "2026-11-08T00:59:00.353Z",
+  "homepageUrl": "https://monday.com/",
+  "pricingUrl": "https://monday.com/pricing",
+  "pricingTitle": "monday.com pricing and plans",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free $ 0 free forever"
+   },
+   {
+    "name": "Basic",
+    "monthlyUsd": 9,
+    "billing": "per month, billed annually",
+    "quote": "Basic $ 9 seat / month"
+   },
+   {
+    "name": "Standard",
+    "monthlyUsd": 12,
+    "billing": "per month, billed annually",
+    "quote": "Standard $ 12 seat / month"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 19,
+    "billing": "per month, billed annually",
+    "quote": "Pro $ 19 seat / month"
+   }
+  ],
+  "freePlan": {
+   "quote": "free forever Up to 2 seats Special offer: $10 off / month Try for free A",
+   "url": "https://monday.com/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://monday.com/pricing"
+  },
+  "customers": {
+   "quote": "more than 40 users",
+   "url": "https://monday.com/pricing"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "motion": {
+  "checkedAt": "2026-11-08T00:57:57.630Z",
+  "homepageUrl": "https://www.usemotion.com/",
+  "pricingUrl": "https://www.usemotion.com/pricing",
+  "pricingTitle": "Pricing | Motion",
+  "plans": [
+   {
+    "name": "Pro AI",
+    "monthlyUsd": 19,
+    "billing": "per user per month",
+    "quote": "$ 19 /seat /mo"
+   },
+   {
+    "name": "Business AI",
+    "monthlyUsd": 29,
+    "billing": "per user per month",
+    "quote": "$ 29 /seat /mo"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Over 1 million top performers and teams",
+   "url": "https://www.usemotion.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "murf-ai": {
+  "checkedAt": "2026-11-08T01:09:32.991Z",
+  "homepageUrl": "https://murf.ai/",
+  "pricingUrl": "https://murf.ai/pricing",
+  "pricingTitle": "Murf",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 10M+ users",
+   "url": "https://murf.ai/"
+  },
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "my-ai-front-desk": {
+  "checkedAt": "2026-11-08T01:04:16.501Z",
+  "homepageUrl": "https://www.myaifrontdesk.com/",
+  "pricingUrl": "https://www.myaifrontdesk.com/pricing",
+  "pricingTitle": "AI Receptionist Pricing and Cost: Call Answering $99/mo",
+  "plans": [
+   {
+    "name": "Business-in-a-Box",
+    "monthlyUsd": 79,
+    "billing": "per month, billed annually",
+    "quote": "$99 /mo or $79/mo billed annually"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan",
+   "url": "https://www.myaifrontdesk.com/pricing"
+  },
+  "trial": {
+   "days": 7,
+   "quote": "7-day free trial",
+   "url": "https://www.myaifrontdesk.com/pricing"
+  },
+  "customers": {
+   "quote": "Trusted by 10,000+ businesses",
+   "url": "https://www.myaifrontdesk.com/"
+  },
+  "setup": {
+   "quote": "Setup in 5 minutes",
+   "url": "https://www.myaifrontdesk.com/pricing"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "n8n-ai": {
+  "checkedAt": "2026-11-08T00:59:00.149Z",
+  "homepageUrl": "https://n8n.io/ai-agents/",
+  "pricingUrl": "https://n8n.io/pricing/",
+  "pricingTitle": "n8n Plans and Pricing - n8n.io",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "nanonets": {
+  "checkedAt": "2026-11-08T01:01:06.596Z",
+  "homepageUrl": "https://nanonets.com/",
+  "pricingUrl": "https://nanonets.com/pricing",
+  "pricingTitle": "Pricing | Nanonets",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 100,
+    "billing": "per month",
+    "quote": "$100/month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "nicejob": {
+  "checkedAt": "2026-11-08T01:03:15.448Z",
+  "homepageUrl": "https://get.nicejob.com/",
+  "pricingUrl": "https://get.nicejob.com/pricing",
+  "pricingTitle": "NiceJob Pricing — Simple Plans, No Contracts",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 95,
+    "billing": "per month",
+    "quote": "Starter $ 95 per month · USD"
+   },
+   {
+    "name": "Sites",
+    "monthlyUsd": 99,
+    "billing": "per month",
+    "quote": "Sites $ 99 per month · USD"
+   },
+   {
+    "name": "AI Leads EARLY ACCESS",
+    "monthlyUsd": 99,
+    "billing": "per month",
+    "quote": "AI Leads EARLY ACCESS $ 99 per month · USD"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 135,
+    "billing": "per month",
+    "quote": "Pro $ 135 per month · USD"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://get.nicejob.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "notion-ai": {
+  "checkedAt": "2026-11-08T00:57:59.437Z",
+  "homepageUrl": "https://www.notion.com/product/ai",
+  "pricingUrl": "https://www.notion.com/pricing",
+  "pricingTitle": "Notion Pricing Plans: Free, Plus, Business, &amp; Enterprise.",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per user per month",
+    "quote": "Free $0 per member / month"
+   },
+   {
+    "name": "Plus",
+    "monthlyUsd": 10,
+    "billing": "per user per month",
+    "quote": "Plus $10 per member / month"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free Plan with up to certain number of blocks before upgrading",
+   "url": "https://www.notion.com/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "ocoya": {
+  "checkedAt": "2026-11-08T01:08:29.974Z",
+  "homepageUrl": "https://www.ocoya.com/",
+  "pricingUrl": "https://www.ocoya.com/pricing",
+  "pricingTitle": "Pricing | Ocoya",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 29,
+    "billing": "per month",
+    "quote": "$ 29 / month"
+   },
+   {
+    "name": "Team",
+    "monthlyUsd": 79,
+    "billing": "per month",
+    "quote": "$ 79 / month"
+   },
+   {
+    "name": "Agency",
+    "monthlyUsd": 199,
+    "billing": "per month",
+    "quote": "$ 199 / month"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 7,
+   "quote": "7-day free trial",
+   "url": "https://www.ocoya.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "octane-ai": {
+  "checkedAt": "2026-11-08T01:20:01.296Z",
+  "homepageUrl": "https://www.octaneai.com/",
+  "pricingUrl": "https://www.octaneai.com/pricing",
+  "pricingTitle": "Pricing - Octane AI | Octane AI",
+  "plans": [
+   {
+    "name": "Octane AI Basic",
+    "monthlyUsd": 43,
+    "billing": "per month, billed annually",
+    "quote": "$43/mo billed yearly"
+   },
+   {
+    "name": "Octane AI Plus",
+    "monthlyUsd": 170,
+    "billing": "per month, billed annually",
+    "quote": "$170/mo billed yearly"
+   },
+   {
+    "name": "Octane AI Enterprise & Unlimited",
+    "monthlyUsd": 425,
+    "billing": "per month, billed annually",
+    "quote": "$425+/mo billed yearly"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://www.octaneai.com/pricing"
+  },
+  "customers": {
+   "quote": "Trusted by 5,000+ Shopify brands",
+   "url": "https://www.octaneai.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "onesoil": {
+  "checkedAt": "2026-11-08T01:02:12.733Z",
+  "homepageUrl": "https://onesoil.ai/en",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Used by 140,000+ farmers",
+   "url": "https://onesoil.ai/en"
+  },
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "opus-clip": {
+  "checkedAt": "2026-11-08T01:08:31.739Z",
+  "homepageUrl": "https://www.opus.pro/",
+  "pricingUrl": "https://www.opus.pro/pricing",
+  "pricingTitle": "Pricing - OpusClip",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free Free forever $0 USD /mo"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 14.5,
+    "billing": "per month",
+    "quote": "Pro For professional creators, marketers, & teams $ 29 USD $ 14.5 USD /mo"
+   },
+   {
+    "name": "Starter",
+    "monthlyUsd": 15,
+    "billing": "per month",
+    "quote": "Starter For individual creators $ 15 USD $ 15 USD /mo"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free forever $0 USD /mo Create an account 60 credits per month Up to 108",
+   "url": "https://www.opus.pro/pricing"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "Used by 20M+ creators",
+   "url": "https://www.opus.pro/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "otter-ai": {
+  "checkedAt": "2026-11-08T01:00:04.538Z",
+  "homepageUrl": "https://otter.ai/",
+  "pricingUrl": "https://otter.ai/pricing",
+  "pricingTitle": "Pricing | Otter.ai",
+  "plans": [
+   {
+    "name": "Basic",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free forever"
+   },
+   {
+    "name": "Pro Annual",
+    "monthlyUsd": 6.67,
+    "billing": "per month, billed annually",
+    "quote": "$6.67 USD per month (billed $79.99 annually)"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 8.33,
+    "billing": "per user per month",
+    "quote": "$8.33 user/month"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 19.99,
+    "billing": "per user per month",
+    "quote": "$19.99 user/month"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free forever Get started Download Download Pro $8",
+   "url": "https://otter.ai/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "owner-com": {
+  "checkedAt": "2026-11-08T01:13:45.277Z",
+  "homepageUrl": "https://www.owner.com/",
+  "pricingUrl": "https://www.owner.com/pricing",
+  "pricingTitle": "Owner.com - Pricing",
+  "plans": [
+   {
+    "name": "Flexible",
+    "monthlyUsd": 249,
+    "billing": "per month",
+    "quote": "$249 /month + 5% restaurant fee per order"
+   },
+   {
+    "name": "Flat Rate",
+    "monthlyUsd": 499,
+    "billing": "per month",
+    "quote": "$499 /month with no additional restaurant fees"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "pabbly-connect": {
+  "checkedAt": "2026-11-08T01:14:46.234Z",
+  "homepageUrl": "https://www.pabbly.com/connect/",
+  "pricingUrl": "https://www.pabbly.com/",
+  "pricingTitle": "Pabbly - Online Marketing &amp; sales software",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 14,099+ Businesses",
+   "url": "https://www.pabbly.com/connect/"
+  },
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "parseur": {
+  "checkedAt": "2026-11-08T01:12:39.904Z",
+  "homepageUrl": "https://parseur.com/",
+  "pricingUrl": "https://parseur.com/pricing",
+  "pricingTitle": "Simple volume-based pricing | Parseur®",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "$0 / page"
+   },
+   {
+    "name": "Micro",
+    "monthlyUsd": 49,
+    "billing": "per month",
+    "quote": "Micro 100 $49"
+   },
+   {
+    "name": "Mini",
+    "monthlyUsd": 89,
+    "billing": "per month",
+    "quote": "Mini 300 $89"
+   },
+   {
+    "name": "Starter",
+    "monthlyUsd": 129,
+    "billing": "per month",
+    "quote": "Starter 1,000 $129"
+   },
+   {
+    "name": "Premium",
+    "monthlyUsd": 269,
+    "billing": "per month",
+    "quote": "Premium 3,000 $269"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 499,
+    "billing": "per month",
+    "quote": "Pro 10,000 $499"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free plan { if (val",
+   "url": "https://parseur.com/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "perplexity": {
+  "checkedAt": "2026-11-08T00:58:00.222Z",
+  "homepageUrl": "https://www.perplexity.ai/",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "photoroom": {
+  "checkedAt": "2026-11-08T01:08:30.870Z",
+  "homepageUrl": "https://www.photoroom.com/",
+  "pricingUrl": "https://www.photoroom.com/pricing",
+  "pricingTitle": "Photoroom Pricing: Pro, Max, Ultra &amp; Enterprise Plans | Photoroom",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Join 1M+ businesses",
+   "url": "https://www.photoroom.com/"
+  },
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "pictory": {
+  "checkedAt": "2026-11-08T01:09:32.497Z",
+  "homepageUrl": "https://pictory.ai/",
+  "pricingUrl": "https://pictory.ai/pricing/",
+  "pricingTitle": "Pictory Pricing | From $25 per Month",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 25,
+    "billing": "per month, billed annually",
+    "quote": "Starter $25 /month per month, billed annually"
+   },
+   {
+    "name": "Professional",
+    "monthlyUsd": 35,
+    "billing": "per month, billed annually",
+    "quote": "Professional $35 /month per month, billed annually"
+   },
+   {
+    "name": "Teams",
+    "monthlyUsd": 119,
+    "billing": "per month, billed annually",
+    "quote": "Teams $119 /month per month, billed annually"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://pictory.ai/pricing/"
+  },
+  "customers": {
+   "quote": "Trusted by over 20,000 teams",
+   "url": "https://pictory.ai/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "pipedrive-ai": {
+  "checkedAt": "2026-11-08T00:59:01.326Z",
+  "homepageUrl": "https://www.pipedrive.com/",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by over 100,000 companies",
+   "url": "https://www.pipedrive.com/"
+  },
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "planoly": {
+  "checkedAt": "2026-11-08T01:07:27.866Z",
+  "homepageUrl": "https://www.planoly.com/",
+  "pricingUrl": "https://www.planoly.com/pricing",
+  "pricingTitle": "Pricing &amp; Plans | Planoly",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 14,
+    "billing": "per month",
+    "quote": "$ 14 /month"
+   },
+   {
+    "name": "Growth",
+    "monthlyUsd": 24,
+    "billing": "per month",
+    "quote": "$ 24 /month"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 47,
+    "billing": "per month",
+    "quote": "$ 47 /month"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan",
+   "url": "https://www.planoly.com/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://www.planoly.com/pricing"
+  },
+  "customers": {
+   "quote": "Trusted by 8M+ small business owners",
+   "url": "https://www.planoly.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "plantix": {
+  "checkedAt": "2026-11-08T01:02:12.018Z",
+  "homepageUrl": "https://plantix.net/en/",
+  "pricingUrl": "https://plantix.net/en/",
+  "pricingTitle": "Plantix | #1 FREE app for crop diagnosis and treatments",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "more than 150 million crop-related questions from farmers",
+   "url": "https://plantix.net/en/"
+  },
+  "setup": null,
+  "note": "Existing documented price kept."
+ },
+ "podia": {
+  "checkedAt": "2026-11-08T01:17:56.676Z",
+  "homepageUrl": "https://www.podia.com/",
+  "pricingUrl": "https://www.podia.com/pricing",
+  "pricingTitle": "Podia Pricing: Plans, Transaction Fees &amp; Free Trial — Podia",
+  "plans": [
+   {
+    "name": "Mover",
+    "monthlyUsd": 42,
+    "billing": "per month, billed annually",
+    "quote": "$42 /mo $504 billed annually"
+   },
+   {
+    "name": "Agent",
+    "monthlyUsd": 84,
+    "billing": "per month, billed annually",
+    "quote": "$84 /mo $1,008 billed annually"
+   },
+   {
+    "name": "Earthquaker",
+    "monthlyUsd": 150,
+    "billing": "per month, billed annually",
+    "quote": "$150 /mo $1,800 billed annually"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14 day trial",
+   "url": "https://www.podia.com/pricing"
+  },
+  "customers": {
+   "quote": "Join 15,000+ creators",
+   "url": "https://www.podia.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "podium": {
+  "checkedAt": "2026-11-08T01:03:14.390Z",
+  "homepageUrl": "https://www.podium.com/",
+  "pricingUrl": "https://www.podium.com/pricing",
+  "pricingTitle": "Pricing",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Over 60,000 businesses",
+   "url": "https://www.podium.com/"
+  },
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "power-automate": {
+  "checkedAt": "2026-11-08T01:14:46.912Z",
+  "homepageUrl": "https://www.microsoft.com/en-us/power-platform/products/power-automate",
+  "pricingUrl": "https://www.microsoft.com/en-us/power-platform/products/power-automate/pricing",
+  "pricingTitle": "Power Automate Pricing | Microsoft Power Platform",
+  "plans": [
+   {
+    "name": "Power Automate Premium",
+    "monthlyUsd": 15,
+    "billing": "per user per month",
+    "quote": "Power Automate Premium $15.00 user/month, paid yearly"
+   },
+   {
+    "name": "Power Automate Process",
+    "monthlyUsd": 150,
+    "billing": "per month",
+    "quote": "Power Automate Process $150.00 bot/month, paid yearly"
+   },
+   {
+    "name": "Power Automate Hosted Process",
+    "monthlyUsd": 215,
+    "billing": "per month",
+    "quote": "Power Automate Hosted Process $215.00 bot/month, paid yearly"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 30,
+   "quote": "30-day trial",
+   "url": "https://www.microsoft.com/en-us/power-platform/products/power-automate/pricing"
+  },
+  "customers": {
+   "quote": "over 100 people",
+   "url": "https://www.microsoft.com/en-us/power-platform/products/power-automate"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "predis-ai": {
+  "checkedAt": "2026-11-08T01:08:29.506Z",
+  "homepageUrl": "https://predis.ai/",
+  "pricingUrl": "https://predis.ai/pricing/",
+  "pricingTitle": "Predis Pricing | How much does Predis cost?",
+  "plans": [
+   {
+    "name": "Core",
+    "monthlyUsd": 19,
+    "billing": "per month",
+    "quote": "$ 19 /month"
+   },
+   {
+    "name": "Rise",
+    "monthlyUsd": 40,
+    "billing": "per month",
+    "quote": "$ 40 /month"
+   },
+   {
+    "name": "Enterprise+",
+    "monthlyUsd": 212,
+    "billing": "per month",
+    "quote": "$ 212 /month"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 3,
+   "quote": "3-day free trial",
+   "url": "https://predis.ai/pricing/"
+  },
+  "customers": {
+   "quote": "Loved by 300k+ users",
+   "url": "https://predis.ai/"
+  },
+  "setup": {
+   "quote": "Setup in 2 minutes",
+   "url": "https://predis.ai/"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "quickbooks-accounting-ai": {
+  "checkedAt": "2026-11-08T01:01:07.412Z",
+  "homepageUrl": "https://quickbooks.intuit.com/accounting-agent/",
+  "pricingUrl": "https://quickbooks.intuit.com/pricing/",
+  "pricingTitle": "QuickBooks® Online Pricing &amp; Free Trial | Official Site",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "$0/mo"
+   },
+   {
+    "name": "Simple Start",
+    "monthlyUsd": 19,
+    "billing": "per month",
+    "quote": "$19 / mo"
+   },
+   {
+    "name": "Essentials",
+    "monthlyUsd": 42.5,
+    "billing": "per month",
+    "quote": "$42.50 / mo"
+   },
+   {
+    "name": "Scale",
+    "monthlyUsd": 70,
+    "billing": "per month",
+    "quote": "$70 / mo"
+   },
+   {
+    "name": "Advanced",
+    "monthlyUsd": 170,
+    "billing": "per month",
+    "quote": "$170 / mo"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 30,
+   "quote": "30-day trial",
+   "url": "https://quickbooks.intuit.com/pricing/"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "ramp": {
+  "checkedAt": "2026-11-08T01:11:38.427Z",
+  "homepageUrl": "https://ramp.com/",
+  "pricingUrl": "https://ramp.com/pricing",
+  "pricingTitle": "Ramp Pricing and Plans",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per user per month",
+    "quote": "Free $0/mo/user"
+   },
+   {
+    "name": "Plus",
+    "monthlyUsd": 15,
+    "billing": "per user per month",
+    "quote": "Plus $15/mo/user + Platform fee based on team size"
+   }
+  ],
+  "freePlan": {
+   "quote": "free version of Ramp",
+   "url": "https://ramp.com/pricing"
+  },
+  "trial": {
+   "days": 30,
+   "quote": "30-day trial",
+   "url": "https://ramp.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "read-ai": {
+  "checkedAt": "2026-11-08T01:15:51.184Z",
+  "homepageUrl": "https://www.read.ai/",
+  "pricingUrl": "https://www.read.ai/plans-pricing",
+  "pricingTitle": "Plans &amp; Pricing",
+  "plans": [],
+  "freePlan": {
+   "quote": "Free plan includes: 5 meeting transcripts per month Unlimited enterpr",
+   "url": "https://www.read.ai/plans-pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "reamaze": {
+  "checkedAt": "2026-11-08T01:04:17.994Z",
+  "homepageUrl": "https://www.reamaze.com/",
+  "pricingUrl": "https://www.reamaze.com/pricing",
+  "pricingTitle": "Re:amaze Pricing",
+  "plans": [
+   {
+    "name": "Basic",
+    "monthlyUsd": 26,
+    "billing": "per user per month, billed annually",
+    "quote": "$26 .10 per Team Member per Month billed Annually"
+   },
+   {
+    "name": "Re:amaze AI Agent Pro",
+    "monthlyUsd": 44,
+    "billing": "per user per month, billed annually",
+    "quote": "$44 .10 per Team Member per Month billed Annually"
+   },
+   {
+    "name": "Plus",
+    "monthlyUsd": 62,
+    "billing": "per user per month, billed annually",
+    "quote": "$62 .10 per Team Member per Month billed Annually"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://www.reamaze.com/pricing"
+  },
+  "customers": null,
+  "setup": {
+   "quote": "up and running in under 5 minutes",
+   "url": "https://www.reamaze.com/pricing"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "rebuy": {
+  "checkedAt": "2026-11-08T01:20:01.429Z",
+  "homepageUrl": "https://www.rebuyengine.com/",
+  "pricingUrl": "https://www.rebuyengine.com/pricing",
+  "pricingTitle": "Rebuy Pricing - Ecommerce Personalization Platform for Shopify",
+  "plans": [],
+  "freePlan": {
+   "quote": "always free",
+   "url": "https://www.rebuyengine.com/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://www.rebuyengine.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "reclaim-ai": {
+  "checkedAt": "2026-11-08T00:57:57.450Z",
+  "homepageUrl": "https://reclaim.ai/",
+  "pricingUrl": "https://reclaim.ai/pricing",
+  "pricingTitle": "Pricing - Pick the right plan for you",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 10,
+    "billing": "per user per month",
+    "quote": "Starter For small teams. $10 per seat/month"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 15,
+    "billing": "per user per month",
+    "quote": "Most Popular Business For large teams. $15 per seat/month"
+   },
+   {
+    "name": "Enterprise",
+    "monthlyUsd": 22,
+    "billing": "per user per month",
+    "quote": "Enterprise For enterprise-grade support. $22 per seat/month"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free forever Get Started Free features 5 AI Agents i Create specialized",
+   "url": "https://reclaim.ai/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://reclaim.ai/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "relay-app": {
+  "checkedAt": "2026-11-08T01:14:46.279Z",
+  "homepageUrl": "https://relay.app/",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "remove-bg": {
+  "checkedAt": "2026-11-08T01:08:30.924Z",
+  "homepageUrl": "https://www.remove.bg/",
+  "pricingUrl": "https://www.remove.bg/pricing",
+  "pricingTitle": "Pricing – remove.bg",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "rentredi": {
+  "checkedAt": "2026-11-08T01:18:59.064Z",
+  "homepageUrl": "https://rentredi.com/",
+  "pricingUrl": "https://rentredi.com/pricing",
+  "pricingTitle": "RentRedi Pricing — Simple, Flat-Rate Plan",
+  "plans": [
+   {
+    "name": "Annual Plan",
+    "monthlyUsd": 12,
+    "billing": "per month, billed annually",
+    "quote": "Annual Plan $12 /month total Save $215.40 / year Billed Annually"
+   },
+   {
+    "name": "6-Month Plan",
+    "monthlyUsd": 20,
+    "billing": "per month, billed semi-annually",
+    "quote": "6-Month Plan $20 /month total Save $119.40 / year Billed semi-annually"
+   },
+   {
+    "name": "Monthly Plan",
+    "monthlyUsd": 29.95,
+    "billing": "per month",
+    "quote": "Monthly Plan $29 . 95 /month total Billed monthly"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "respond-io": {
+  "checkedAt": "2026-11-08T01:03:13.881Z",
+  "homepageUrl": "https://respond.io/",
+  "pricingUrl": "https://respond.io/pricing",
+  "pricingTitle": "Pricing | Plans Built to Scale Your Business",
+  "plans": [
+   {
+    "name": "starter",
+    "monthlyUsd": 79,
+    "billing": "per month",
+    "quote": "starter $ 79 /month"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 7,
+   "quote": "7-day trial",
+   "url": "https://respond.io/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "retell-ai": {
+  "checkedAt": "2026-11-08T01:20:01.666Z",
+  "homepageUrl": "https://www.retellai.com/",
+  "pricingUrl": "https://www.retellai.com/pricing",
+  "pricingTitle": "AI Phone Agent Pricing | Retell AI",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": {
+   "quote": "Go live in minutes",
+   "url": "https://www.retellai.com/pricing"
+  },
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "ringcentral": {
+  "checkedAt": "2026-11-08T01:04:17.278Z",
+  "homepageUrl": "https://www.ringcentral.com/",
+  "pricingUrl": "https://www.ringcentral.com/pricing/business-phone",
+  "pricingTitle": "RingCentral AI Communications Platform Plans &amp; Pricing",
+  "plans": [
+   {
+    "name": "Push to Talk",
+    "monthlyUsd": 5,
+    "billing": "per month",
+    "quote": "$5 /user/month"
+   },
+   {
+    "name": "International numbers",
+    "monthlyUsd": 14.99,
+    "billing": "per month",
+    "quote": "$14.99 /user/month"
+   },
+   {
+    "name": "Core",
+    "monthlyUsd": 20,
+    "billing": "per month",
+    "quote": "$20"
+   },
+   {
+    "name": "Advanced Connect",
+    "monthlyUsd": 25,
+    "billing": "per month",
+    "quote": "$25"
+   },
+   {
+    "name": "Webinar",
+    "monthlyUsd": 30,
+    "billing": "per month",
+    "quote": "Starting at $30 /organizer/month"
+   },
+   {
+    "name": "Ultra Engage",
+    "monthlyUsd": 35,
+    "billing": "per month",
+    "quote": "$35"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Join more than 600,000 businesses",
+   "url": "https://www.ringcentral.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "rippling": {
+  "checkedAt": "2026-11-08T01:20:00.863Z",
+  "homepageUrl": "https://www.rippling.com/",
+  "pricingUrl": "https://www.rippling.com/pricing",
+  "pricingTitle": "The platform for companies that want to grow faster",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "rosie": {
+  "checkedAt": "2026-11-08T01:04:16.136Z",
+  "homepageUrl": "https://heyrosie.com/",
+  "pricingUrl": "https://heyrosie.com/pricing",
+  "pricingTitle": "Rosie AI Plans &amp; Pricing | AI Answering Service",
+  "plans": [
+   {
+    "name": "Professional",
+    "monthlyUsd": 49,
+    "billing": "per month",
+    "quote": "Professional $49 per month"
+   },
+   {
+    "name": "Scale",
+    "monthlyUsd": 149,
+    "billing": "per month",
+    "quote": "Scale $149 per month"
+   },
+   {
+    "name": "Growth",
+    "monthlyUsd": 299,
+    "billing": "per month",
+    "quote": "Growth $299 per month"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 7,
+   "quote": "7-day free trial",
+   "url": "https://heyrosie.com/pricing"
+  },
+  "customers": {
+   "quote": "Trusted by over 2,000 local businesses",
+   "url": "https://heyrosie.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "rossum": {
+  "checkedAt": "2026-11-08T01:01:06.544Z",
+  "homepageUrl": "https://rossum.ai/",
+  "pricingUrl": "https://rossum.ai/pricing/",
+  "pricingTitle": "Rossum Pricing | End-to-End Document Automation Plans",
+  "plans": [],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-Day Trial",
+   "url": "https://rossum.ai/pricing/"
+  },
+  "customers": {
+   "quote": "Trusted by 450+ global brands",
+   "url": "https://rossum.ai/pricing/"
+  },
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "rows": {
+  "checkedAt": "2026-11-08T01:11:40.983Z",
+  "homepageUrl": "https://rows.com/product",
+  "pricingUrl": "https://rows.com/pricing",
+  "pricingTitle": "Rows Pricing Plans: Free, Plus, Pro and Enterprise",
+  "plans": [
+   {
+    "name": "Plus",
+    "monthlyUsd": 8,
+    "billing": "per user per month",
+    "quote": "$8 /month per user"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 79,
+    "billing": "per month",
+    "quote": "$79 /month + $8 /month per user"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free plan that is free forever, with no trial period or need for a cr",
+   "url": "https://rows.com/pricing"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "over 500 million total users",
+   "url": "https://rows.com/product"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "ruby": {
+  "checkedAt": "2026-11-08T01:04:15.190Z",
+  "homepageUrl": "https://www.ruby.com/",
+  "pricingUrl": "https://www.ruby.com/plans-and-pricing/",
+  "pricingTitle": "Ruby Receptionist Pricing: Scalable Virtual Support",
+  "plans": [
+   {
+    "name": "Bundled 10 chats per month",
+    "monthlyUsd": 115,
+    "billing": "per month",
+    "quote": "Up to 10 chats for $115"
+   },
+   {
+    "name": "10 chats per month",
+    "monthlyUsd": 143,
+    "billing": "per month",
+    "quote": "10 chats per month Great for startups $143 /month"
+   },
+   {
+    "name": "50 minutes per month",
+    "monthlyUsd": 250,
+    "billing": "per month",
+    "quote": "50 minutes per month Great for startups $250 /month"
+   },
+   {
+    "name": "Bundled 30 chats per month",
+    "monthlyUsd": 268,
+    "billing": "per month",
+    "quote": "Up to 30 chats for $268"
+   },
+   {
+    "name": "30 chats per month",
+    "monthlyUsd": 335,
+    "billing": "per month",
+    "quote": "30 chats per month Great for solo practices and one-person businesses $335 /month"
+   },
+   {
+    "name": "100 minutes per month",
+    "monthlyUsd": 395,
+    "billing": "per month",
+    "quote": "100 minutes per month Great for one-person businesses $395 /month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "rytr": {
+  "checkedAt": "2026-11-08T01:07:26.662Z",
+  "homepageUrl": "https://rytr.me/",
+  "pricingUrl": "https://rytr.me/pricing",
+  "pricingTitle": "Simple pricing for the work you do — Rytr",
+  "plans": [
+   {
+    "name": "Lite",
+    "monthlyUsd": 9,
+    "billing": "per month",
+    "quote": "$9 /mo"
+   },
+   {
+    "name": "Personal",
+    "monthlyUsd": 19,
+    "billing": "per month",
+    "quote": "$19 /mo"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 49,
+    "billing": "per month",
+    "quote": "$49 /mo"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free forever Free 10,000 characters per month 1 connected source 25 acti",
+   "url": "https://rytr.me/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "semrush": {
+  "checkedAt": "2026-11-08T01:08:28.918Z",
+  "homepageUrl": "https://www.semrush.com/",
+  "pricingUrl": "https://www.semrush.com/pricing/seo-ai-search/",
+  "pricingTitle": "SEO &amp; AI Search Plans and Pricing | Semrush",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free. $0 /mo"
+   },
+   {
+    "name": "SEO",
+    "monthlyUsd": 117.33,
+    "billing": "per month, billed annually",
+    "quote": "$ 117 . 33 /mo billed annually"
+   },
+   {
+    "name": "Starter SEO + AI Search",
+    "monthlyUsd": 165.17,
+    "billing": "per month, billed annually",
+    "quote": "$ 165 . 17 /mo billed annually"
+   },
+   {
+    "name": "Agency scaling SEO and AI",
+    "monthlyUsd": 248.17,
+    "billing": "per month, billed annually",
+    "quote": "$ 248 . 17 /mo billed annually"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "servicem8": {
+  "checkedAt": "2026-11-08T01:06:24.848Z",
+  "homepageUrl": "https://www.servicem8.com/",
+  "pricingUrl": "https://www.servicem8.com/pricing",
+  "pricingTitle": "Pricing | ServiceM8™",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free $ 0 /mo"
+   },
+   {
+    "name": "Starter",
+    "monthlyUsd": 29,
+    "billing": "per month",
+    "quote": "Starter $ 29 /mo"
+   },
+   {
+    "name": "Growing",
+    "monthlyUsd": 79,
+    "billing": "per month",
+    "quote": "Growing $ 79 /mo"
+   },
+   {
+    "name": "Premium",
+    "monthlyUsd": 149,
+    "billing": "per month",
+    "quote": "Premium $ 149 /mo"
+   },
+   {
+    "name": "Premium Plus",
+    "monthlyUsd": 349,
+    "billing": "per month",
+    "quote": "Premium Plus $ 349 /mo"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free Plan is completely free for solo operators",
+   "url": "https://www.servicem8.com/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day Free Trial",
+   "url": "https://www.servicem8.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "servicetitan": {
+  "checkedAt": "2026-11-08T01:06:24.011Z",
+  "homepageUrl": "https://www.servicetitan.com/",
+  "pricingUrl": "https://www.servicetitan.com/pricing",
+  "pricingTitle": "ServiceTitan Pricing and Plans Cost Information",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by more than 100,000 service professionals",
+   "url": "https://www.servicetitan.com/"
+  },
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "setmore": {
+  "checkedAt": "2026-11-08T01:05:20.835Z",
+  "homepageUrl": "https://www.setmore.com/",
+  "pricingUrl": "https://www.setmore.com/pricing",
+  "pricingTitle": "Pricing For Appointment Scheduling Software | Setmore",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free Up to 4 users $0 user / mo"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 5,
+    "billing": "per month",
+    "quote": "Pro Unlimited users $5* user / mo"
+   },
+   {
+    "name": "Team",
+    "monthlyUsd": 5,
+    "billing": "per month",
+    "quote": "team $5 per month"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan $0 per month, pro plan $5 per month, team $5 per month",
+   "url": "https://www.setmore.com/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "seven-shifts": {
+  "checkedAt": "2026-11-08T01:13:43.732Z",
+  "homepageUrl": "https://www.7shifts.com/",
+  "pricingUrl": "https://www.7shifts.com/pricing/",
+  "pricingTitle": "Plans &amp; Pricing",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Over 55,000 restaurants",
+   "url": "https://www.7shifts.com/"
+  },
+  "setup": {
+   "quote": "set up their account in minutes",
+   "url": "https://www.7shifts.com/"
+  },
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "sevenrooms": {
+  "checkedAt": "2026-11-08T01:05:23.173Z",
+  "homepageUrl": "https://sevenrooms.com/",
+  "pricingUrl": "https://sevenrooms.com/pricing/",
+  "pricingTitle": "SevenRooms Pricing | Flexible Plans for Hospitality Operators",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Join over 15,000 restaurants",
+   "url": "https://sevenrooms.com/"
+  },
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "shopify-sidekick": {
+  "checkedAt": "2026-11-08T01:01:07.517Z",
+  "homepageUrl": "https://www.shopify.com/sidekick",
+  "pricingUrl": "https://www.shopify.com/pricing",
+  "pricingTitle": "Shopify Pricing: Find the Right Plan for Your Business - Shopify",
+  "plans": [
+   {
+    "name": "Basic",
+    "monthlyUsd": 29,
+    "billing": "per month",
+    "quote": "Basic $29 /mo"
+   },
+   {
+    "name": "Grow",
+    "monthlyUsd": 79,
+    "billing": "per month",
+    "quote": "Grow $79 /mo"
+   },
+   {
+    "name": "Advanced",
+    "monthlyUsd": 299,
+    "billing": "per month",
+    "quote": "Advanced $299 /mo"
+   },
+   {
+    "name": "Plus",
+    "monthlyUsd": 2300,
+    "billing": "per month",
+    "quote": "Plus from $2,300 /mo"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 3,
+   "quote": "3-day trial",
+   "url": "https://www.shopify.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "simplepractice": {
+  "checkedAt": "2026-11-08T01:06:23.850Z",
+  "homepageUrl": "https://www.simplepractice.com/",
+  "pricingUrl": "https://www.simplepractice.com/pricing/",
+  "pricingTitle": "SimplePractice EHR Pricing and Plans",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 24,
+    "billing": "per month",
+    "quote": "$24"
+   },
+   {
+    "name": "Essential",
+    "monthlyUsd": 39,
+    "billing": "per month",
+    "quote": "$39"
+   },
+   {
+    "name": "Plus",
+    "monthlyUsd": 49,
+    "billing": "per month",
+    "quote": "$49"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 30,
+   "quote": "30-Day Free Trial",
+   "url": "https://www.simplepractice.com/pricing/"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "simplified": {
+  "checkedAt": "2026-11-08T01:08:30.002Z",
+  "homepageUrl": "https://simplified.com/",
+  "pricingUrl": "https://simplified.com/pricing",
+  "pricingTitle": "has parsed so page_title is set. if (window.__smpPageViewSent) return; var KEEP = /^(utm_.+|gclid|gbraid|wbraid|fbclid|msclkid|ref)$/; function uuid() { if (window.crypto && typeof window.crypto.rando",
+  "plans": [
+   {
+    "name": "HubSpot Marketing Hub",
+    "monthlyUsd": 20,
+    "billing": "per month",
+    "quote": "$20/mo"
+   },
+   {
+    "name": "ChatGPT Plus",
+    "monthlyUsd": 59,
+    "billing": "per month",
+    "quote": "$59/mo"
+   },
+   {
+    "name": "Simplified Starter",
+    "monthlyUsd": 79,
+    "billing": "per month",
+    "quote": "Simplified Starter, 5 campaigns a month $79 per month"
+   },
+   {
+    "name": "Jasper",
+    "monthlyUsd": 79,
+    "billing": "per month",
+    "quote": "Starting price $79/mo"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 15 million+ users",
+   "url": "https://simplified.com/pricing"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "simplybook": {
+  "checkedAt": "2026-11-08T01:05:21.174Z",
+  "homepageUrl": "https://simplybook.me/en/",
+  "pricingUrl": "https://simplybook.me/en/pricing",
+  "pricingTitle": "Pricing &amp; Plans for Online Booking Software | SimplyBook.me",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month, billed annually",
+    "quote": "Free $0 per month, billed annually"
+   },
+   {
+    "name": "Basic",
+    "monthlyUsd": 11.9,
+    "billing": "per month, billed annually",
+    "quote": "Basic $11.9 per month, billed annually"
+   },
+   {
+    "name": "Standard",
+    "monthlyUsd": 24.9,
+    "billing": "per month, billed annually",
+    "quote": "Standard $24.9 per month, billed annually"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan and scale up to $59",
+   "url": "https://simplybook.me/en/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://simplybook.me/en/pricing"
+  },
+  "customers": null,
+  "setup": {
+   "quote": "Set up in minutes",
+   "url": "https://simplybook.me/en/"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "slang-ai": {
+  "checkedAt": "2026-11-08T01:04:17.469Z",
+  "homepageUrl": "https://www.slang.ai/",
+  "pricingUrl": "https://www.slang.ai/pricing",
+  "pricingTitle": "Slang AI Pricing | Voice AI Plans for Restaurants",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "sling": {
+  "checkedAt": "2026-11-08T01:13:44.252Z",
+  "homepageUrl": "https://getsling.com/",
+  "pricingUrl": "https://getsling.com/pricing/",
+  "pricingTitle": "Sling Scheduling Software Pricing - Free, Premium, And Business Plans",
+  "plans": [],
+  "freePlan": null,
+  "trial": {
+   "days": 15,
+   "quote": "15-day free trial",
+   "url": "https://getsling.com/pricing/"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "slite": {
+  "checkedAt": "2026-11-08T01:15:50.474Z",
+  "homepageUrl": "https://slite.com/",
+  "pricingUrl": "https://slite.com/pricing",
+  "pricingTitle": "Slite - Pricing",
+  "plans": [
+   {
+    "name": "Basic",
+    "monthlyUsd": 10,
+    "billing": "per user per month, billed annually",
+    "quote": "$10 per user/month Billed yearly"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 20,
+    "billing": "per user per month, billed annually",
+    "quote": "$20 per user/month Billed yearly"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14 days free trial",
+   "url": "https://slite.com/pricing"
+  },
+  "customers": {
+   "quote": "Trusted by 1,700+ companies",
+   "url": "https://slite.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "smallpdf": {
+  "checkedAt": "2026-11-08T01:11:40.142Z",
+  "homepageUrl": "https://smallpdf.com/",
+  "pricingUrl": "https://smallpdf.com/pricing",
+  "pricingTitle": "Smallpdf Pricing and Plans",
+  "plans": [],
+  "freePlan": {
+   "quote": "free plan when the 7-day period expires",
+   "url": "https://smallpdf.com/pricing"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 1.7 billion people",
+   "url": "https://smallpdf.com/pricing"
+  },
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "smartsheet": {
+  "checkedAt": "2026-11-08T01:12:40.879Z",
+  "homepageUrl": "https://www.smartsheet.com/",
+  "pricingUrl": "https://www.smartsheet.com/pricing",
+  "pricingTitle": "Smartsheet Pricing | Smartsheet",
+  "plans": [
+   {
+    "name": "Pro",
+    "monthlyUsd": 12.9,
+    "billing": "per user per month",
+    "quote": "$ 12 9 per Member/month"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 24.19,
+    "billing": "per user per month",
+    "quote": "$ 24 19 per Member/month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "smith-ai": {
+  "checkedAt": "2026-11-08T01:02:10.047Z",
+  "homepageUrl": "https://smith.ai/",
+  "pricingUrl": "https://smith.ai/pricing/ai-receptionist",
+  "pricingTitle": "Smith.ai Plans &amp; Pricing for AI Receptionist",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "$0/mo"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 150,
+    "billing": "per month",
+    "quote": "$150/mo"
+   },
+   {
+    "name": "Enterprise",
+    "monthlyUsd": 500,
+    "billing": "per month",
+    "quote": "$500/mo"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "trusted by 5,000+ businesses",
+   "url": "https://smith.ai/pricing/ai-receptionist"
+  },
+  "setup": {
+   "quote": "up and running in a few days",
+   "url": "https://smith.ai/"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "sortly": {
+  "checkedAt": "2026-11-08T01:13:45.016Z",
+  "homepageUrl": "https://www.sortly.com/",
+  "pricingUrl": "https://www.sortly.com/pricing/",
+  "pricingTitle": "Pricing Plans - Sortly | Free 14 Day Trials Available!",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free $0 USD/mo"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14-Day Free Trial",
+   "url": "https://www.sortly.com/pricing/"
+  },
+  "customers": {
+   "quote": "Over 15,000 businesses",
+   "url": "https://www.sortly.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "speechify": {
+  "checkedAt": "2026-11-08T01:09:33.161Z",
+  "homepageUrl": "https://speechify.com/",
+  "pricingUrl": "https://speechify.com/pricing/",
+  "pricingTitle": "Speechify Pricing for the Free &amp; Premium TTS Plans | Speechify",
+  "plans": [
+   {
+    "name": "Premium",
+    "monthlyUsd": 29,
+    "billing": "per month",
+    "quote": "$29 /Month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Over 1M people",
+   "url": "https://speechify.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "sprout-social": {
+  "checkedAt": "2026-11-08T01:07:27.529Z",
+  "homepageUrl": "https://sproutsocial.com/",
+  "pricingUrl": "https://sproutsocial.com/pricing/",
+  "pricingTitle": "Sprout Social Pricing - How Much Does Sprout Social Cost?",
+  "plans": [
+   {
+    "name": "Essentials",
+    "monthlyUsd": 79,
+    "billing": "per seat/month",
+    "quote": "$ 79 per seat/month"
+   },
+   {
+    "name": "Standard",
+    "monthlyUsd": 199,
+    "billing": "per seat/month",
+    "quote": "$ 199 per seat/month"
+   },
+   {
+    "name": "Professional",
+    "monthlyUsd": 299,
+    "billing": "per seat/month",
+    "quote": "$ 299 per seat/month"
+   },
+   {
+    "name": "Advanced",
+    "monthlyUsd": 399,
+    "billing": "per seat/month",
+    "quote": "$ 399 per seat/month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "square-appointments": {
+  "checkedAt": "2026-11-08T01:05:18.085Z",
+  "homepageUrl": "https://squareup.com/us/en/appointments",
+  "pricingUrl": "https://squareup.com/us/en/pricing",
+  "pricingTitle": "Square Processing Fees, Plans, and Software Pricing | Square",
+  "plans": [
+   {
+    "name": "Square KDS",
+    "monthlyUsd": 20,
+    "billing": "per month",
+    "quote": "$20/mo."
+   },
+   {
+    "name": "Square Kiosk Lite",
+    "monthlyUsd": 50,
+    "billing": "per month",
+    "quote": "$50/mo."
+   },
+   {
+    "name": "Square Kiosk",
+    "monthlyUsd": 99,
+    "billing": "per month",
+    "quote": "$99/mo."
+   },
+   {
+    "name": "MarketMan",
+    "monthlyUsd": 99,
+    "billing": "per month",
+    "quote": "$99/mo."
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "square-pos": {
+  "checkedAt": "2026-11-08T01:13:44.453Z",
+  "homepageUrl": "https://squareup.com/us/en/point-of-sale",
+  "pricingUrl": "https://squareup.com/us/en/pricing",
+  "pricingTitle": "Square Processing Fees, Plans, and Software Pricing | Square",
+  "plans": [
+   {
+    "name": "Square Kiosk Lite",
+    "monthlyUsd": 30,
+    "billing": "per month",
+    "quote": "$30/mo. for Square Kiosk Lite (iOS app) per device"
+   },
+   {
+    "name": "Square Kiosk",
+    "monthlyUsd": 99,
+    "billing": "per month",
+    "quote": "$99/mo. for Square Kiosk per device"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": {
+   "quote": "up and running on your own in just a few minutes",
+   "url": "https://squareup.com/us/en/point-of-sale"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "squarespace-blueprint-ai": {
+  "checkedAt": "2026-11-08T01:01:08.311Z",
+  "homepageUrl": "https://www.squarespace.com/websites/ai-website-builder",
+  "pricingUrl": "https://www.squarespace.com/pricing",
+  "pricingTitle": "Squarespace Pricing Plans &amp; Features — Squarespace",
+  "plans": [
+   {
+    "name": "Basic",
+    "monthlyUsd": 19,
+    "billing": "per month",
+    "quote": "$19 /mo"
+   },
+   {
+    "name": "Core Recommended",
+    "monthlyUsd": 29,
+    "billing": "per month",
+    "quote": "$29 /mo"
+   },
+   {
+    "name": "Plus",
+    "monthlyUsd": 49,
+    "billing": "per month",
+    "quote": "$49 /mo"
+   },
+   {
+    "name": "Advanced",
+    "monthlyUsd": 99,
+    "billing": "per month",
+    "quote": "$99 /mo"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan, but every site starts with a free trial—no credit card req",
+   "url": "https://www.squarespace.com/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://www.squarespace.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "structurely": {
+  "checkedAt": "2026-11-08T01:02:10.310Z",
+  "homepageUrl": "https://www.structurely.com/",
+  "pricingUrl": "https://www.structurely.com/pricing",
+  "pricingTitle": "Conversational AI Pricing | Platform + Usage-Based Plans | 21X",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "sunsama": {
+  "checkedAt": "2026-11-08T01:12:42.437Z",
+  "homepageUrl": "https://www.sunsama.com/",
+  "pricingUrl": "https://www.sunsama.com/pricing",
+  "pricingTitle": "Pricing - Sunsama",
+  "plans": [
+   {
+    "name": "Pro Plan",
+    "monthlyUsd": 17,
+    "billing": "per month, billed annually",
+    "quote": "Pro Plan $ 17 per month, billed yearly (USD)"
+   },
+   {
+    "name": "AI + MCP + Zapier",
+    "monthlyUsd": 22,
+    "billing": "per month",
+    "quote": "$22 per month, billed monthly"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free forever plans create bad incentives, and aren&#x27;t sustainable Su",
+   "url": "https://www.sunsama.com/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14 day free trial",
+   "url": "https://www.sunsama.com/pricing"
+  },
+  "customers": {
+   "quote": "Join 300k+ people",
+   "url": "https://www.sunsama.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "surfer-ai": {
+  "checkedAt": "2026-11-08T00:59:01.787Z",
+  "homepageUrl": "https://surfer.ai/",
+  "pricingUrl": "https://surfer.ai/pricing/",
+  "pricingTitle": "Surfer - Pricing for AI Search Visibility",
+  "plans": [
+   {
+    "name": "Discovery",
+    "monthlyUsd": 49,
+    "billing": "per month, billed annually",
+    "quote": "Discovery 49 USD per month Billed yearly Save $120"
+   },
+   {
+    "name": "Surfer Expert Track",
+    "monthlyUsd": 82,
+    "billing": "per month, billed annually",
+    "quote": "Surfer Expert Track AI Visibility AI Search Analytics 82 USD per month Billed yearly Save $156"
+   },
+   {
+    "name": "Standard",
+    "monthlyUsd": 99,
+    "billing": "per month, billed annually",
+    "quote": "Standard 99 USD per month Billed yearly Save $240"
+   },
+   {
+    "name": "Plagiarism Checker Rank Drop Detection Pro",
+    "monthlyUsd": 182,
+    "billing": "per month, billed annually",
+    "quote": "Plagiarism Checker Rank Drop Detection Pro 182 USD per month Billed yearly Save $444"
+   },
+   {
+    "name": "Peace of Mind",
+    "monthlyUsd": 299,
+    "billing": "per month, billed annually",
+    "quote": "Peace of Mind 299 USD per month Billed yearly Save $720"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 150,000+ Brands",
+   "url": "https://surfer.ai/pricing/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "synthesia": {
+  "checkedAt": "2026-11-08T01:00:03.391Z",
+  "homepageUrl": "https://www.synthesia.io/",
+  "pricingUrl": "https://www.synthesia.io/pricing",
+  "pricingTitle": "Synthesia Pricing - Compare Free and Paid Plans",
+  "plans": [
+   {
+    "name": "Basic",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Basic $0 per month"
+   },
+   {
+    "name": "Starter",
+    "monthlyUsd": 9,
+    "billing": "per month, billed monthly",
+    "quote": "First month for $9 $19 $9 first month per month then $19 per month"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 49,
+    "billing": "per month, billed monthly",
+    "quote": "First month for $49 $89 $49 first month per month then $89 per month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Over 2,000,000 users",
+   "url": "https://www.synthesia.io/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "synthflow": {
+  "checkedAt": "2026-11-08T01:20:01.535Z",
+  "homepageUrl": "https://synthflow.ai/",
+  "pricingUrl": "https://synthflow.ai/pricing",
+  "pricingTitle": "AI Voice Agent Pricing for Enterprise | Synthflow",
+  "plans": [],
+  "freePlan": {
+   "quote": "free plan or trial and no rate by the minute",
+   "url": "https://synthflow.ai/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "tally": {
+  "checkedAt": "2026-11-08T01:11:39.550Z",
+  "homepageUrl": "https://tally.so/",
+  "pricingUrl": "https://tally.so/pricing",
+  "pricingTitle": "Tally Pricing | Free Form Builder with Unlimited Responses",
+  "plans": [
+   {
+    "name": "Pro",
+    "monthlyUsd": 24,
+    "billing": "per month",
+    "quote": "Pro $ 24 per month"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 74,
+    "billing": "per month",
+    "quote": "Business $ 74 per month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Powering 2,500,000+ teams",
+   "url": "https://tally.so/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "taranis": {
+  "checkedAt": "2026-11-08T01:20:00.073Z",
+  "homepageUrl": "https://www.taranis.com/",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "taskade": {
+  "checkedAt": "2026-11-08T01:12:42.108Z",
+  "homepageUrl": "https://www.taskade.com/",
+  "pricingUrl": "https://www.taskade.com/pricing",
+  "pricingTitle": "Pricing &amp; Plans | Taskade AI",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free For your first apps $0 /mo billed monthly"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan runs the standard connectors",
+   "url": "https://www.taskade.com/pricing"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "Loved by 1M+ users",
+   "url": "https://www.taskade.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "tawk-to": {
+  "checkedAt": "2026-11-08T01:03:12.537Z",
+  "homepageUrl": "https://www.tawk.to/",
+  "pricingUrl": "https://www.tawk.to/why-free/",
+  "pricingTitle": "Why is tawk.to free? | tawk.to",
+  "plans": [
+   {
+    "name": "Remove Powered by tawk.to branding",
+    "monthlyUsd": 29,
+    "billing": "per month",
+    "quote": "$29/month"
+   },
+   {
+    "name": "AI Powered bot",
+    "monthlyUsd": 29,
+    "billing": "per month",
+    "quote": "$29/month"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan for sites with limited chat volume",
+   "url": "https://www.tawk.to/why-free/"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "Over 3 billion people",
+   "url": "https://www.tawk.to/"
+  },
+  "setup": {
+   "quote": "setup and live in minutes",
+   "url": "https://www.tawk.to/"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "teachable": {
+  "checkedAt": "2026-11-08T01:17:56.479Z",
+  "homepageUrl": "https://www.teachable.com/",
+  "pricingUrl": "https://www.teachable.com/pricing",
+  "pricingTitle": "Teachable Pricing: Compare Plans and Start Your Free Trial",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 29,
+    "billing": "per month, billed annually",
+    "quote": "$29 /mo Billed annually"
+   },
+   {
+    "name": "Builder",
+    "monthlyUsd": 69,
+    "billing": "per month, billed annually",
+    "quote": "$69 /mo Billed annually"
+   },
+   {
+    "name": "Growth",
+    "monthlyUsd": 139,
+    "billing": "per month, billed annually",
+    "quote": "$139 /mo Billed annually"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan",
+   "url": "https://www.teachable.com/pricing"
+  },
+  "trial": {
+   "days": 7,
+   "quote": "7-day free trial",
+   "url": "https://www.teachable.com/pricing"
+  },
+  "customers": {
+   "quote": "more than 200,000 creators",
+   "url": "https://www.teachable.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "tenweb": {
+  "checkedAt": "2026-11-08T01:14:48.241Z",
+  "homepageUrl": "https://10web.io/",
+  "pricingUrl": "https://10web.io/pricing-platform/",
+  "pricingTitle": "AI Builder Pricing | 10Web",
+  "plans": [
+   {
+    "name": "AI Starter",
+    "monthlyUsd": 10,
+    "billing": "per month",
+    "quote": "AI Starter $10 /mo"
+   },
+   {
+    "name": "AI Premium",
+    "monthlyUsd": 15,
+    "billing": "per month",
+    "quote": "AI Premium $15 /mo"
+   },
+   {
+    "name": "AI Ultimate",
+    "monthlyUsd": 22.5,
+    "billing": "per month",
+    "quote": "AI Ultimate $22.5 /mo"
+   },
+   {
+    "name": "Agency starter",
+    "monthlyUsd": 42.5,
+    "billing": "per month",
+    "quote": "Agency starter $42.5 /mo"
+   },
+   {
+    "name": "Agency core",
+    "monthlyUsd": 80,
+    "billing": "per month",
+    "quote": "Agency core $80 /mo"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 3,
+   "quote": "3-day free trial",
+   "url": "https://10web.io/pricing-platform/"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "tidio-lyro": {
+  "checkedAt": "2026-11-08T00:59:01.642Z",
+  "homepageUrl": "https://www.tidio.com/ai-agent/",
+  "pricingUrl": "https://www.tidio.com/pricing/",
+  "pricingTitle": "Tidio Pricing—Find the Best Plan for Your Business Needs",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "$ 0 / mo."
+   },
+   {
+    "name": "Starter",
+    "monthlyUsd": 24.17,
+    "billing": "per month",
+    "quote": "$ 24.17 /mo."
+   },
+   {
+    "name": "Growth Popular",
+    "monthlyUsd": 49.17,
+    "billing": "per month",
+    "quote": "$ 49.17 /mo."
+   },
+   {
+    "name": "Plus",
+    "monthlyUsd": 300,
+    "billing": "per month",
+    "quote": "$ 300 /mo."
+   }
+  ],
+  "freePlan": {
+   "quote": "Free plan unless you upgrade your subscription to a paid option",
+   "url": "https://www.tidio.com/pricing/"
+  },
+  "trial": {
+   "days": 7,
+   "quote": "7-day free trial",
+   "url": "https://www.tidio.com/pricing/"
+  },
+  "customers": {
+   "quote": "Join 300k+ businesses",
+   "url": "https://www.tidio.com/ai-agent/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "tidycal": {
+  "checkedAt": "2026-11-08T01:05:21.810Z",
+  "homepageUrl": "https://tidycal.com/",
+  "pricingUrl": "https://tidycal.com/pricing",
+  "pricingTitle": "TidyCal Pricing: Free Plan, $29 Lifetime Deal or Pro $12/mo",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free $0 Forever free"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 8.25,
+    "billing": "per month, billed annually",
+    "quote": "$8.25 per month billed annually"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free Plan, $29 Lifetime Deal or Pro $12/mo Pay once, use TidyCal fore",
+   "url": "https://tidycal.com/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": {
+   "quote": "Set up in 5 minutes",
+   "url": "https://tidycal.com/"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "tldv": {
+  "checkedAt": "2026-11-08T01:15:50.844Z",
+  "homepageUrl": "https://tldv.io/",
+  "pricingUrl": "https://tldv.io/app/pricing/",
+  "pricingTitle": "tldv Pricing: Start Free. Compare Plans & Features",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "todoist": {
+  "checkedAt": "2026-11-08T01:12:41.580Z",
+  "homepageUrl": "https://www.todoist.com/",
+  "pricingUrl": "https://www.todoist.com/pricing",
+  "pricingTitle": "Pricing | Todoist",
+  "plans": [
+   {
+    "name": "Beginner",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Beginner US $0"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 5,
+    "billing": "per month, billed annually",
+    "quote": "Pro US $5 per month $60 billed yearly"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 8,
+    "billing": "per user per month, billed annually",
+    "quote": "Business US $8 plus local tax per user/month, $96 billed yearly"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Join 50+ million professionals",
+   "url": "https://www.todoist.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "tradify": {
+  "checkedAt": "2026-11-08T01:06:25.148Z",
+  "homepageUrl": "https://www.tradifyhq.com/",
+  "pricingUrl": "https://www.tradifyhq.com/pricing",
+  "pricingTitle": "Pricing &amp; Plans | Try Free for 14 Days! | Tradify™",
+  "plans": [
+   {
+    "name": "Lite",
+    "monthlyUsd": 47,
+    "billing": "per user per month",
+    "quote": "$47 USD per user/month."
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 51,
+    "billing": "per user per month",
+    "quote": "$51 USD per user/month."
+   },
+   {
+    "name": "Plus",
+    "monthlyUsd": 61,
+    "billing": "per user per month",
+    "quote": "$61 USD per user/month."
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "trello": {
+  "checkedAt": "2026-11-08T01:12:40.859Z",
+  "homepageUrl": "https://trello.com/",
+  "pricingUrl": "https://trello.com/pricing",
+  "pricingTitle": "Which Trello Plan Is Best for You? Our Pricing Guide Can Help",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free $ 0 USD"
+   },
+   {
+    "name": "Standard",
+    "monthlyUsd": 5,
+    "billing": "per user per month, billed annually",
+    "quote": "Standard $ 5 USD Per user/month if billed annually ($6 billed monthly)"
+   },
+   {
+    "name": "Premium",
+    "monthlyUsd": 10,
+    "billing": "per user per month, billed annually",
+    "quote": "Premium $ 10 USD Per user/month if billed annually ($12.50 billed monthly)"
+   },
+   {
+    "name": "Enterprise",
+    "monthlyUsd": 17.5,
+    "billing": "per user per month, billed annually",
+    "quote": "Enterprise $ 17.50 USD Per user/month - billed annually ($210.00 annual price per user)"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free plan For individuals or small teams looking to keep work organiz",
+   "url": "https://trello.com/pricing"
+  },
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "trengo": {
+  "checkedAt": "2026-11-08T01:04:17.780Z",
+  "homepageUrl": "https://trengo.com/",
+  "pricingUrl": "https://trengo.com/prices",
+  "pricingTitle": "Trengo pricing and plans: Flexible options for that suits your business",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": {
+   "quote": "set up your AI Agents in minutes",
+   "url": "https://trengo.com/"
+  },
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "trevor-ai": {
+  "checkedAt": "2026-11-08T00:57:58.169Z",
+  "homepageUrl": "https://www.trevorai.com/",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "typeform": {
+  "checkedAt": "2026-11-08T01:11:39.505Z",
+  "homepageUrl": "https://www.typeform.com/",
+  "pricingUrl": "https://www.typeform.com/pricing",
+  "pricingTitle": "Plans &amp; Pricing | Typeform",
+  "plans": [],
+  "freePlan": {
+   "quote": "Free plan then upgrade when you’re ready",
+   "url": "https://www.typeform.com/pricing"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "Join 150,000+ businesses",
+   "url": "https://www.typeform.com/"
+  },
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "vagaro": {
+  "checkedAt": "2026-11-08T01:05:19.037Z",
+  "homepageUrl": "https://www.vagaro.com/",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "veed-ai": {
+  "checkedAt": "2026-11-08T01:00:03.273Z",
+  "homepageUrl": "https://www.veed.io/",
+  "pricingUrl": "https://www.veed.io/pricing",
+  "pricingTitle": "Pricing - VEED.IO",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "veryfi": {
+  "checkedAt": "2026-11-08T01:01:06.700Z",
+  "homepageUrl": "https://www.veryfi.com/",
+  "pricingUrl": "https://www.veryfi.com/pricing/",
+  "pricingTitle": "Pricing | Veryfi",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free Process up to 100 docs/mo $0"
+   },
+   {
+    "name": "Starter",
+    "monthlyUsd": 500,
+    "billing": "per month",
+    "quote": "$500/mo minimum commitment"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free Forever Features All Document Types SDKs for Development Platform L",
+   "url": "https://www.veryfi.com/pricing/"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://www.veryfi.com/pricing/"
+  },
+  "customers": {
+   "quote": "Join 1,000+ Leading Organizations",
+   "url": "https://www.veryfi.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "wati": {
+  "checkedAt": "2026-11-08T01:03:14.259Z",
+  "homepageUrl": "https://www.wati.io/",
+  "pricingUrl": "https://www.wati.io/pricing/",
+  "pricingTitle": "Wati Pricing | WhatsApp Business API",
+  "plans": [
+   {
+    "name": "Growth",
+    "monthlyUsd": 59,
+    "billing": "per month, billed annually",
+    "quote": "$59 month billed annually"
+   },
+   {
+    "name": "AI qualify leads",
+    "monthlyUsd": 119,
+    "billing": "per month, billed annually",
+    "quote": "$119 month billed annually"
+   },
+   {
+    "name": "Dedicated expert support",
+    "monthlyUsd": 279,
+    "billing": "per month, billed annually",
+    "quote": "$279 month billed annually"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 7,
+   "quote": "7 days free trial",
+   "url": "https://www.wati.io/pricing/"
+  },
+  "customers": {
+   "quote": "Trusted by 16,000+ businesses",
+   "url": "https://www.wati.io/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "wave": {
+  "checkedAt": "2026-11-08T01:11:37.738Z",
+  "homepageUrl": "https://www.waveapps.com/",
+  "pricingUrl": "https://www.waveapps.com/pricing",
+  "pricingTitle": "Wave Pricing - Wave Financial",
+  "plans": [
+   {
+    "name": "Pro",
+    "monthlyUsd": 19,
+    "billing": "per month",
+    "quote": "$19 USD/month Billed monthly"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Over 350,000 small businesses",
+   "url": "https://www.waveapps.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "webflow": {
+  "checkedAt": "2026-11-08T01:14:47.665Z",
+  "homepageUrl": "https://webflow.com/",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "wellnessliving": {
+  "checkedAt": "2026-11-08T01:06:21.871Z",
+  "homepageUrl": "https://www.wellnessliving.com/",
+  "pricingUrl": "https://www.wellnessliving.com/pricing/",
+  "pricingTitle": "Pricing - WellnessLiving",
+  "plans": [
+   {
+    "name": "Business",
+    "monthlyUsd": 35,
+    "billing": "per month",
+    "quote": "Business $35 /mo*"
+   },
+   {
+    "name": "Starter",
+    "monthlyUsd": 62,
+    "billing": "per month",
+    "quote": "Starter $62 /mo"
+   },
+   {
+    "name": "BusinessPro",
+    "monthlyUsd": 62,
+    "billing": "per month",
+    "quote": "BusinessPro $62 /mo*"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "when-i-work": {
+  "checkedAt": "2026-11-08T01:13:43.933Z",
+  "homepageUrl": "https://wheniwork.com/",
+  "pricingUrl": "https://wheniwork.com/pricing",
+  "pricingTitle": "When I Work Pricing &amp; Features | When I Work",
+  "plans": [
+   {
+    "name": "Essentials",
+    "monthlyUsd": 2.5,
+    "billing": "per user per month",
+    "quote": "Essentials $2 .50 /user/month"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 5,
+    "billing": "per user per month",
+    "quote": "Pro $5 /user/month"
+   },
+   {
+    "name": "Premium",
+    "monthlyUsd": 8,
+    "billing": "per user per month",
+    "quote": "Premium $8 /user/month"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": {
+   "quote": "Get started in minutes",
+   "url": "https://wheniwork.com/pricing"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "wix-ai": {
+  "checkedAt": "2026-11-08T01:01:08.260Z",
+  "homepageUrl": "https://www.wix.com/ai-website-builder",
+  "pricingUrl": "https://www.wix.com/pricing",
+  "pricingTitle": "Wix Pricing Information | Upgrade to a Premium Plan | Wix.com",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "workiz": {
+  "checkedAt": "2026-11-08T01:06:24.302Z",
+  "homepageUrl": "https://www.workiz.com/",
+  "pricingUrl": "https://www.workiz.com/pricing-plans/",
+  "pricingTitle": "Workiz Pricing and Plans for Field Service Teams",
+  "plans": [],
+  "freePlan": null,
+  "trial": {
+   "days": 7,
+   "quote": "7 days free trial",
+   "url": "https://www.workiz.com/pricing-plans/"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "wrike": {
+  "checkedAt": "2026-11-08T01:12:40.971Z",
+  "homepageUrl": "https://www.wrike.com/",
+  "pricingUrl": "https://www.wrike.com/price/",
+  "pricingTitle": "Plans and Pricing | Wrike",
+  "plans": [
+   {
+    "name": "Essential",
+    "monthlyUsd": 0,
+    "billing": "per user per month",
+    "quote": "Free Essential task management $0 user/ month"
+   },
+   {
+    "name": "Team",
+    "monthlyUsd": 10,
+    "billing": "per user per month",
+    "quote": "Team Intelligent project management $10 user/month"
+   },
+   {
+    "name": "Business",
+    "monthlyUsd": 25,
+    "billing": "per user per month",
+    "quote": "Business Customizable platform to manage your workflows $25 user/month"
+   }
+  ],
+  "freePlan": {
+   "quote": "free version or reach out to your Wrike representative",
+   "url": "https://www.wrike.com/price/"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day free trial",
+   "url": "https://www.wrike.com/price/"
+  },
+  "customers": {
+   "quote": "TRUSTED BY 20,000+ ORGANIZATIONS",
+   "url": "https://www.wrike.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "writesonic": {
+  "checkedAt": "2026-11-08T01:07:26.581Z",
+  "homepageUrl": "https://writesonic.com/",
+  "pricingUrl": "https://writesonic.com/pricing",
+  "pricingTitle": "Pricing | Writesonic AI Search Visibility Platform",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 79,
+    "billing": "per month, billed annually",
+    "quote": "Starter $ 79 Save $240/year per month, billed annually"
+   },
+   {
+    "name": "Basic",
+    "monthlyUsd": 199,
+    "billing": "per month, billed annually",
+    "quote": "Basic $ 199 Save $600/year per month, billed annually"
+   },
+   {
+    "name": "Growth",
+    "monthlyUsd": 399,
+    "billing": "per month, billed annually",
+    "quote": "Growth $ 399 Save $1200/year per month, billed annually"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 10,000+ leading Marketing teams",
+   "url": "https://writesonic.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "xarvio": {
+  "checkedAt": "2026-11-08T01:18:59.311Z",
+  "homepageUrl": "https://www.xarvio.com/us/en.html",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "xero": {
+  "checkedAt": "2026-11-08T01:10:36.644Z",
+  "homepageUrl": "https://www.xero.com/us/",
+  "pricingUrl": "https://www.xero.com/us/pricing-plans/",
+  "pricingTitle": "Pricing Plans | Xero US",
+  "plans": [
+   {
+    "name": "Early",
+    "monthlyUsd": 5.4,
+    "billing": "per month",
+    "quote": "Early $ 5 . 40 per month for the first 3 months"
+   },
+   {
+    "name": "Growing",
+    "monthlyUsd": 11.8,
+    "billing": "per month",
+    "quote": "Growing $ 11 . 80 per month for the first 3 months"
+   },
+   {
+    "name": "Established",
+    "monthlyUsd": 19.4,
+    "billing": "per month",
+    "quote": "Established $ 19 . 40 per month for the first 3 months"
+   }
+  ],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "Used by 5 million customers",
+   "url": "https://www.xero.com/us/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "yotpo": {
+  "checkedAt": "2026-11-08T01:20:01.074Z",
+  "homepageUrl": "https://www.yotpo.com/",
+  "pricingUrl": "https://www.yotpo.com/pricing/",
+  "pricingTitle": "Pricing &amp; plans | Yotpo",
+  "plans": [
+   {
+    "name": "Starter",
+    "monthlyUsd": 89,
+    "billing": "per month",
+    "quote": "Starter Recommended $89 / month"
+   },
+   {
+    "name": "Pro",
+    "monthlyUsd": 169,
+    "billing": "per month",
+    "quote": "Pro Recommended $169 / month"
+   }
+  ],
+  "freePlan": {
+   "quote": "free plan (up to 50 monthly orders) and paid plans starting at $15/mo",
+   "url": "https://www.yotpo.com/pricing/"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "Trusted by 35K+ commerce brands",
+   "url": "https://www.yotpo.com/"
+  },
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "you-com": {
+  "checkedAt": "2026-11-08T01:15:50.285Z",
+  "homepageUrl": "https://you.com/",
+  "pricingUrl": "https://you.com/pricing",
+  "pricingTitle": "Pricing | You.com",
+  "plans": [],
+  "freePlan": {
+   "quote": "Free tier Real-time web and news results, optimized for programmatic",
+   "url": "https://you.com/pricing"
+  },
+  "trial": null,
+  "customers": {
+   "quote": "used by more than 150k users",
+   "url": "https://you.com/"
+  },
+  "setup": null,
+  "note": "Pricing page found, but no plan price could be verified from its text."
+ },
+ "zapier-ai": {
+  "checkedAt": "2026-11-08T00:58:00.317Z",
+  "homepageUrl": "https://zapier.com/ai",
+  "pricingUrl": "https://zapier.com/pricing",
+  "pricingTitle": "Plans &amp; Pricing | Zapier | Zapier",
+  "plans": [
+   {
+    "name": "Free",
+    "monthlyUsd": 0,
+    "billing": "per month",
+    "quote": "Free forever $0 /month"
+   },
+   {
+    "name": "Chatbots Pro",
+    "monthlyUsd": 13.33,
+    "billing": "per month, billed annually",
+    "quote": "Chatbots Pro $160 billed annually $13.33 /month"
+   },
+   {
+    "name": "Professional",
+    "monthlyUsd": 19.99,
+    "billing": "per month",
+    "quote": "Professional Starting from $19.99 /month"
+   },
+   {
+    "name": "Agents Pro",
+    "monthlyUsd": 33.33,
+    "billing": "per month, billed annually",
+    "quote": "Agents Pro $400 billed annually $33.33 /month"
+   },
+   {
+    "name": "Chatbots Advanced",
+    "monthlyUsd": 66.67,
+    "billing": "per month, billed annually",
+    "quote": "Chatbots Advanced $800 billed annually $66.67 /month"
+   },
+   {
+    "name": "Team",
+    "monthlyUsd": 69,
+    "billing": "per month",
+    "quote": "Team Starting from $69 /month"
+   }
+  ],
+  "freePlan": {
+   "quote": "Free forever $0 /month Start automating with AI",
+   "url": "https://zapier.com/pricing"
+  },
+  "trial": {
+   "days": 14,
+   "quote": "14-day trial",
+   "url": "https://zapier.com/pricing"
+  },
+  "customers": null,
+  "setup": null,
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "zendesk-copilot": {
+  "checkedAt": "2026-11-08T00:57:56.532Z",
+  "homepageUrl": "https://www.zendesk.com/",
+  "pricingUrl": "https://www.zendesk.com/pricing/",
+  "pricingTitle": "Zendesk Pricing Plans | Starting from $19/month",
+  "plans": [
+   {
+    "name": "Support Team",
+    "monthlyUsd": 19,
+    "billing": "per agent/month, billed annually",
+    "quote": "$19 agent/month paid yearly"
+   },
+   {
+    "name": "Team",
+    "monthlyUsd": 55,
+    "billing": "per agent/month, billed annually",
+    "quote": "$55 agent/month paid yearly"
+   },
+   {
+    "name": "Suite Team",
+    "monthlyUsd": 115,
+    "billing": "per agent/month, billed annually",
+    "quote": "$115 agent/month paid yearly"
+   }
+  ],
+  "freePlan": null,
+  "trial": {
+   "days": 14,
+   "quote": "14 day trial",
+   "url": "https://www.zendesk.com/pricing/"
+  },
+  "customers": {
+   "quote": "more than 100 agents",
+   "url": "https://www.zendesk.com/pricing/"
+  },
+  "setup": {
+   "quote": "go live in a few clicks",
+   "url": "https://www.zendesk.com/"
+  },
+  "note": "Plans verified against quotes from the vendor pricing page."
+ },
+ "zenoti": {
+  "checkedAt": "2026-11-08T01:06:23.051Z",
+  "homepageUrl": "https://www.zenoti.com/",
+  "pricingUrl": "https://www.zenoti.com/pricing-zenoti",
+  "pricingTitle": "Pricing &amp; Plans — AI-Powered Salon, Spa &amp; Medspa Software",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": {
+   "quote": "over 30K businesses",
+   "url": "https://www.zenoti.com/"
+  },
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "zoho-books": {
+  "checkedAt": "2026-11-08T01:11:38.159Z",
+  "homepageUrl": "https://www.zoho.com/us/books/",
+  "pricingUrl": "https://www.zoho.com/books/styles/pricing/pricing-common-section.css",
+  "pricingTitle": "Zoho Books pricing",
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "Pricing page found without listed USD prices (may require a quote or JavaScript)."
+ },
+ "zoho-zia": {
+  "checkedAt": "2026-11-08T00:59:01.439Z",
+  "homepageUrl": "https://www.zoho.com/zia/",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "No public pricing page found."
+ },
+ "zoom-ai-companion": {
+  "checkedAt": "2026-11-08T01:17:55.327Z",
+  "homepageUrl": "https://www.zoom.com/en/products/ai-assistant/?cms_guid=false",
+  "pricingUrl": null,
+  "pricingTitle": null,
+  "plans": [],
+  "freePlan": null,
+  "trial": null,
+  "customers": null,
+  "setup": null,
+  "note": "No public pricing page found."
+ }
+}

@@ -1,0 +1,138 @@
+/* Display settings chosen in the header Accessibility menu (see src/lib/client/display.ts). */
+
+/* Larger text: scale the whole page so px-based utility sizes grow too. */
+html[data-text='large'] body {
+  zoom: 1.2;
+}
+
+/* Stronger contrast: darken muted greys, solidify faint borders, make focus unmistakable. */
+html[data-contrast='high'] {
+  --muted: #1f1f1f;
+  --line: #6b6b6b;
+}
+html[data-contrast='high']
+  main
+  :is(
+    [class*='text-[#4'],
+    [class*='text-[#5'],
+    [class*='text-[#6'],
+    [class*='text-[#7'],
+    [class*='text-[#8'],
+    [class*='text-[#9']
+  ),
+html[data-contrast='high'] main :is(.muted, .small, .field-hint) {
+  color: #111 !important;
+}
+html[data-contrast='high'] header [class*='text-white/'],
+html[data-contrast='high'] footer [class*='text-white/'] {
+  color: #fff !important;
+}
+html[data-contrast='high'] main :is([class*='border-[#d'], [class*='border-[#e']) {
+  border-color: #555 !important;
+}
+html[data-contrast='high'] main p a,
+html[data-contrast='high'] .quiet-link {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+html[data-contrast='high'] :focus-visible {
+  outline: 3px solid #000 !important;
+  outline-offset: 3px !important;
+  box-shadow: 0 0 0 6px #ffd200 !important;
+}
+
+/* Less motion. */
+html[data-motion='reduce'] *,
+html[data-motion='reduce'] *::before,
+html[data-motion='reduce'] *::after {
+  animation-duration: 0.01ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.01ms !important;
+  scroll-behavior: auto !important;
+}
+
+/* "Make it easier for you" step. */
+.access-needs {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+.access-needs label {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  min-height: 64px;
+  border: 1px solid #deded8;
+  border-radius: 12px;
+  padding: 12px 14px;
+  cursor: pointer;
+  background: #fff;
+}
+.access-needs label.selected {
+  border-color: #2f2f2f;
+  background: #f8f5df;
+}
+.access-needs input {
+  position: absolute;
+  opacity: 0;
+  width: 1px;
+  height: 1px;
+}
+.access-needs label:has(input:focus-visible) {
+  outline: 3px solid #111;
+  outline-offset: 2px;
+}
+.access-check {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+  width: 22px;
+  height: 22px;
+  margin-top: 1px;
+  border: 2px solid #2f2f2f;
+  border-radius: 6px;
+  background: #fff;
+}
+.access-needs label.selected .access-check {
+  background: #111;
+  color: #ffd200;
+}
+.access-needs strong {
+  display: block;
+  font-size: 0.95rem;
+  line-height: 1.35;
+}
+.access-needs label > span:last-child > span {
+  display: block;
+  margin-top: 3px;
+  font-size: 0.8rem;
+  color: #5f5f5f;
+  line-height: 1.45;
+}
+.access-quick {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  border-radius: 12px;
+  background: #f3f2ee;
+  padding: 12px 14px;
+  font-size: 0.9rem;
+}
+.voice-input {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 14px;
+  margin-top: -6px;
+}
+.voice-input p {
+  flex: 1 1 260px;
+  margin: 0;
+}
+@media (max-width: 640px) {
+  .access-needs {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "checkedAt": "2026-11-07T22:29:28.204Z",
+  "access": "anonymous publishable-key read, subject to RLS",
+  "publishedCount": 53,
+  "repositorySnapshotCount": 52,
+  "addedCount": 40,
+  "allRepositoryRecordsPublic": true,
+  "allEvidenceValid": true,
+  "medicineInventoryWorkflowImplemented": false,
+  "tools": [
+    {
+      "id": "a5ad087c-0f57-4b67-8c00-7c2edaa31ed0",
+      "slug": "adobe-firefly",
+      "name": "Adobe Firefly"
+    },
+    {
+      "id": "ea0f0175-9ae7-4c78-865f-61980d1708b5",
+      "slug": "airtable-ai",
+      "name": "Airtable AI"
+    },
+    {
+      "id": "4861dd0b-c54f-4d48-8355-cdeff336a5d1",
+      "slug": "asana-ai",
+      "name": "Asana AI"
+    },
+    {
+      "id": "ebaec66a-61e8-4594-8e2e-7aa332097c80",
+      "slug": "buffer-ai-assistant",
+      "name": "Buffer AI Assistant"
+    },
+    {
+      "id": "cf49bb8b-cf1d-4093-83f7-d022b3925272",
+      "slug": "calendly-callie",
+      "name": "Calendly Callie"
+    },
+    {
+      "id": "3647181e-6f22-4d9e-844b-2e1c79ac0828",
+      "slug": "canva-magic-write",
+      "name": "Canva Magic Write"
+    },
+    {
+      "id": "dc8c45ff-7b56-4d79-89bb-7302b17cabd6",
+      "slug": "chatgpt",
+      "name": "ChatGPT"
+    },
+    {
+      "id": "655089b0-8979-475e-80bc-f2f2243c3c84",
+      "slug": "claude",
+      "name": "Claude"
+    },
+    {
+      "id": "00456224-2dcf-4a6f-8de7-e9ff28c00d71",
+      "slug": "clickup-brain",
+      "name": "ClickUp Brain"
+    },
+    {
+      "id": "ed05fd5a-e733-44c5-8356-42d17a9cf8f2",
+      "slug": "coda-ai",
+      "name": "Coda AI"
+    },
+    {
+      "id": "993e6369-b640-4865-8c6c-f4563dab413b",
+      "slug": "descript",
+      "name": "Descript"
+    },
+    {
+      "id": "d150571f-b984-4712-8959-2e9969a817cf",
+      "slug": "dext",
+      "name": "Dext"
+    },
+    {
+      "id": "8e3d3859-f22f-4c1f-8d28-81560f36a744",
+      "slug": "elevenlabs",
+      "name": "ElevenLabs"
+    },
+    {
+      "id": "500dbef1-61d4-4413-8df5-77b2c229a36a",
+      "slug": "fathom",
+      "name": "Fathom"
+    },
+    {
+      "id": "b2221a17-49e8-443a-8450-4d396661e2ca",
+      "slug": "fireflies-ai",
+      "name": "Fireflies.ai"
+    },
+    {
+      "id": "cef74673-c593-4c6c-8283-aaf57c2bb2ec",
+      "slug": "freshworks-freddy",
+      "name": "Freshworks Freddy AI Copilot"
+    },
+    {
+      "id": "93cf413f-2aef-41a2-8310-b929a88601ac",
+      "slug": "front-copilot",
+      "name": "Front Copilot"
+    },
+    {
+      "id": "df956ece-14c9-4875-8f85-5464f4bd914c",
+      "slug": "gemini",
+      "name": "Gemini"
+    },
+    {
+      "id": "036c76aa-0b33-4f1c-8ecc-1c6e3bad973b",
+      "slug": "gemini-notebook",
+      "name": "Gemini Notebook"
+    },
+    {
+      "id": "d595a543-a90e-4d0f-8b20-610d6f59d725",
+      "slug": "google-document-ai",
+      "name": "Google Cloud Document AI"
+    },
+    {
+      "id": "6b4fb335-a261-4150-8976-240069371f86",
+      "slug": "grammarly",
+      "name": "Grammarly"
+    },
+    {
+      "id": "884cb16a-3e21-47c6-8a58-864761992815",
+      "slug": "heygen",
+      "name": "HeyGen"
+    },
+    {
+      "id": "876a846c-dfb1-4f1b-82a8-948ee550767b",
+      "slug": "hubspot-breeze",
+      "name": "HubSpot Breeze Assistant"
+    },
+    {
+      "id": "5d3cfd9f-d376-4503-8adb-2242229dfda3",
+      "slug": "intercom-copilot",
+      "name": "Intercom Copilot"
+    },
+    {
+      "id": "a3dc1541-8842-4be6-8d2f-8427be08cb7b",
+      "slug": "jasper",
+      "name": "Jasper"
+    },
+    {
+      "id": "9f9c24b5-a4c4-4bfd-8c19-70b085adcb84",
+      "slug": "klaviyo-ai",
+      "name": "Klaviyo AI"
+    },
+    {
+      "id": "d07c86ea-1fdb-482d-8db7-9dac1b9f1570",
+      "slug": "mailchimp-ai",
+      "name": "Mailchimp AI"
+    },
+    {
+      "id": "bfdf257e-a8c6-495d-81c6-ad892b81ae5c",
+      "slug": "make-ai",
+      "name": "Make AI Agents"
+    },
+    {
+      "id": "6046b5ad-eaae-4268-80a1-aece73606ad5",
+      "slug": "microsoft-365-copilot",
+      "name": "Microsoft 365 Copilot"
+    },
+    {
+      "id": "6eeaabc2-c019-4338-96a0-34e1008b84d1",
+      "slug": "missive-ea5f30",
+      "name": "Missive"
+    },
+    {
+      "id": "ce8a79f0-dacb-4832-8ddc-739d1d80cf05",
+      "slug": "monday-ai",
+      "name": "monday AI"
+    },
+    {
+      "id": "852be6cc-0d57-4e6b-8c46-e2e1607a788e",
+      "slug": "motion",
+      "name": "Motion"
+    },
+    {
+      "id": "6b24cb13-c5b0-44d8-817b-0805b18b3c56",
+      "slug": "n8n-ai",
+      "name": "n8n AI"
+    },
+    {
+      "id": "0dd47219-ac5b-49d4-8fb9-731ee6489f75",
+      "slug": "nanonets",
+      "name": "Nanonets"
+    },
+    {
+      "id": "a4c4f731-cf48-4128-8ba9-640eb7955d79",
+      "slug": "notion-ai",
+      "name": "Notion AI"
+    },
+    {
+      "id": "0f3b4c14-9643-4077-8b11-a9e76e687fa5",
+      "slug": "otter-ai",
+      "name": "Otter.ai"
+    },
+    {
+      "id": "85d1b008-2870-4b38-837c-5118fbae99de",
+      "slug": "perplexity",
+      "name": "Perplexity"
+    },
+    {
+      "id": "cae1c626-02a3-49f6-823f-9551d69fe057",
+      "slug": "pipedrive-ai",
+      "name": "Pipedrive AI Sales Assistant"
+    },
+    {
+      "id": "20d99c94-9eaf-4bdc-81fc-a210c397517d",
+      "slug": "quickbooks-accounting-ai",
+      "name": "QuickBooks Accounting AI"
+    },
+    {
+      "id": "454be542-1a5a-4834-82b8-3e092c9f54c0",
+      "slug": "reclaim-ai",
+      "name": "Reclaim AI"
+    },
+    {
+      "id": "e275b929-a0db-4522-8903-720a553c537c",
+      "slug": "rossum",
+      "name": "Rossum"
+    },
+    {
+      "id": "2fec0c3b-4c20-46ba-8f74-eadebd9bc64d",
+      "slug": "shopify-sidekick",
+      "name": "Shopify Sidekick"
+    },
+    {
+      "id": "8ffa3b5f-745f-44a7-8721-305670873854",
+      "slug": "squarespace-blueprint-ai",
+      "name": "Squarespace Blueprint AI"
+    },
+    {
+      "id": "b12ca761-ab18-494b-858f-58d3bf62c9c9",
+      "slug": "surfer-ai",
+      "name": "Surfer AI"
+    },
+    {
+      "id": "bfaf7214-27b9-4d26-8989-82a1b026d75b",
+      "slug": "synthesia",
+      "name": "Synthesia"
+    },
+    {
+      "id": "20c944a9-ba5d-4007-8deb-00da17c92e8b",
+      "slug": "tidio-lyro",
+      "name": "Tidio Lyro"
+    },
+    {
+      "id": "dbc8e2cb-4efe-486c-8ab7-e0d068fef903",
+      "slug": "trevor-ai",
+      "name": "Trevor AI"
+    },
+    {
+      "id": "2dcbe082-62a3-4367-8589-5ee67093d613",
+      "slug": "veed-ai",
+      "name": "VEED AI"
+    },
+    {
+      "id": "765c084d-7038-4ac9-8bda-fef8e0803a95",
+      "slug": "veryfi",
+      "name": "Veryfi"
+    },
+    {
+      "id": "403817e4-af33-4eb0-811e-b1a6da0c8fe0",
+      "slug": "wix-ai",
+      "name": "Wix AI Website Builder"
+    },
+    {
+      "id": "bbf2143c-97ec-4c17-87fd-cab0db42ccea",
+      "slug": "zapier-ai",
+      "name": "Zapier AI"
+    },
+    {
+      "id": "caece04d-5fc1-4177-88ac-65682a5da264",
+      "slug": "zendesk-copilot",
+      "name": "Zendesk Copilot"
+    },
+    {
+      "id": "955fb6d5-6fa1-4097-88fc-ba28891f5ecc",
+      "slug": "zoho-zia",
+      "name": "Zoho Zia"
+    }
+  ]
+}

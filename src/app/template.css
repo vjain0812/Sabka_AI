@@ -1,0 +1,164 @@
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 100 1000;
+  font-display: swap;
+  src: url('/template/fonts/dm-sans-latin.woff2') format('woff2');
+}
+/* Keep the Figma export's utilities independent of the application's legacy CSS. */
+.figma-template *,
+.figma-template *::before,
+.figma-template *::after,
+.brand-ui *:not(:where(.legacy-ui, .legacy-ui *)),
+.brand-ui *:not(:where(.legacy-ui, .legacy-ui *))::before,
+.brand-ui *:not(:where(.legacy-ui, .legacy-ui *))::after {
+  all: revert-layer;
+}
+/* .brand-ui reuses the home page isolation so Tailwind utilities win over legacy element CSS.
+   .legacy-ui marks embedded legacy components (dialogs) that keep their own styles. */
+.figma-template,
+.brand-ui {
+  font-family: 'DM Sans', ui-sans-serif, system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+}
+.figma-template button,
+.figma-template a,
+.brand-ui button,
+.brand-ui a,
+.brand-ui summary,
+.brand-ui label:has(input) {
+  cursor: pointer;
+}
+.figma-template ::selection,
+.brand-ui ::selection {
+  background: #ffd200;
+  color: #000;
+}
+.figma-template :is(button, a, textarea):focus-visible,
+.brand-ui :is(button, a, textarea, input, select, summary):focus-visible {
+  outline: 3px solid #287fbd;
+  outline-offset: 4px;
+}
+.figma-template .transition-gap {
+  transition: gap 180ms ease;
+}
+.figma-template .focus-view {
+  display: block;
+}
+.figma-template .hero-grid,
+.brand-ui .hero-grid {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px);
+  background-size: 52px 52px;
+}
+
+.figma-template .workflow-orbit::after,
+.brand-ui .workflow-orbit::after {
+  position: absolute;
+  top: -4px;
+  left: 50%;
+  width: 8px;
+  height: 8px;
+  content: '';
+  border-radius: 999px;
+  background: #ffd200;
+  box-shadow: 0 0 20px #ffd200;
+}
+
+.figma-template .workflow-orbit,
+.brand-ui .workflow-orbit {
+  animation: orbit 24s linear infinite;
+}
+
+.figma-template .float-node,
+.brand-ui .float-node {
+  animation: float 5s ease-in-out infinite;
+}
+
+.figma-template .logo-marquee {
+  width: max-content;
+  animation: marquee 90s linear infinite;
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0) rotate(-2deg);
+  }
+  50% {
+    transform: translateY(-12px) rotate(2deg);
+  }
+}
+
+@keyframes orbit {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes marquee {
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+/* Shared motion for brand pages. */
+.brand-ui .meter {
+  transform-origin: left;
+  animation: meter-grow 0.9s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+@keyframes meter-grow {
+  from {
+    transform: scaleX(0);
+  }
+}
+.brand-ui .rise {
+  animation: brand-rise 0.6s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+.brand-ui .flow-line {
+  background-image: linear-gradient(90deg, #e21833 0 50%, transparent 50% 100%);
+  background-size: 14px 2px;
+  animation: flow-dash 1.2s linear infinite;
+}
+.brand-ui .flow-line-v {
+  background-image: linear-gradient(180deg, #e21833 0 50%, transparent 50% 100%);
+  background-size: 2px 14px;
+  animation: flow-dash-v 1.2s linear infinite;
+}
+.brand-ui .pulse-ring {
+  animation: pulse-ring 2.4s ease-out infinite;
+}
+@keyframes flow-dash {
+  to {
+    background-position: 14px 0;
+  }
+}
+@keyframes flow-dash-v {
+  to {
+    background-position: 0 14px;
+  }
+}
+@keyframes pulse-ring {
+  0% {
+    box-shadow: 0 0 0 0 rgba(255, 210, 0, 0.55);
+  }
+  80%,
+  100% {
+    box-shadow: 0 0 0 14px rgba(255, 210, 0, 0);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .brand-ui :is(.workflow-orbit, .float-node, .rise, .flow-line, .flow-line-v, .pulse-ring, .meter),
+  .figma-template .workflow-orbit,
+  .figma-template .float-node,
+  .figma-template .logo-marquee {
+    animation: none;
+  }
+}
+
+.reduce-motion .figma-template :is(.workflow-orbit, .float-node, .logo-marquee) {
+  animation: none;
+}

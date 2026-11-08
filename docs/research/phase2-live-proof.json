@@ -1,0 +1,28 @@
+{
+  "checkedAt": "2026-11-06T20:39:59.116Z",
+  "runId": "2e1f5075-4e43-4942-9b18-95faeacead63",
+  "candidateId": "40254702-9087-4dfc-a433-98a281e697d1",
+  "tool": "Missive",
+  "slug": "missive-ea5f30",
+  "status": "published",
+  "publicHttp": 200,
+  "sourceUrls": [
+    "https://missiveapp.com/usecases/contracted-services",
+    "https://missiveapp.com/blog/6-ways-to-use-ai-in-your-email-inbox"
+  ],
+  "audit": [
+    {
+      "action": "verify",
+      "created_at": "2026-11-06T20:39:57.776683+00:00",
+      "note": "Codex operator source inspection: official pages support message routing and human-reviewed AI reply drafts. Pricing, approval enforcement, privacy and compatibility remain unknown. No independent test performed."
+    },
+    {
+      "action": "publish",
+      "created_at": "2026-11-06T20:39:58.75753+00:00",
+      "note": "Codex operator source inspection: official pages support message routing and human-reviewed AI reply drafts. Pricing, approval enforcement, privacy and compatibility remain unknown. No independent test performed."
+    }
+  ],
+  "temporaryAccessRevoked": true,
+  "revokedSessionHttp": 401,
+  "revokedAt": "2026-11-07T02:24:03.901Z"
+}

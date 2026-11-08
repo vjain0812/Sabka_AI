@@ -1,0 +1,8 @@
+{
+  "source": "AI Workflow Tool Finder (1).zip / src/App.tsx",
+  "sourceSha256": "33bca03cfd0114028743681ed69a5bc42c2e2ac02b0e8ac2e9d37e7d99a2ee31",
+  "staticClassSets": 147,
+  "retainedStaticClassSets": 147,
+  "missing": [],
+  "notes": "Original component structure and utility classes ported directly. Only branding, evidence data, working application actions and accessibility attributes adapted. Original template contrast limitations retained."
+}

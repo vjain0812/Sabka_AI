@@ -1,0 +1,1803 @@
+[
+  {
+    "slug": "chatgpt",
+    "name": "ChatGPT",
+    "vendor": "OpenAI",
+    "website": "https://chatgpt.com/",
+    "jobs": [],
+    "summary": "Drafting, brainstorming and analyzing uploaded files in a conversational workspace.",
+    "libraryWorkflows": ["research_knowledge", "documents_data", "marketing"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Drafting, brainstorming and analyzing uploaded files in a conversational workspace.",
+        "url": "https://help.openai.com/en/articles/12677804-what-is-chatgpt-faq"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://help.openai.com/en/articles/12677804-what-is-chatgpt-faq",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Review generated information against original sources before business use.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://help.openai.com/en/articles/12677804-what-is-chatgpt-faq",
+        "title": "ChatGPT FAQ",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "claude",
+    "name": "Claude",
+    "vendor": "Anthropic",
+    "website": "https://claude.com/",
+    "jobs": [],
+    "summary": "Draft and revise business documents, analyze information and develop written content.",
+    "libraryWorkflows": ["research_knowledge", "documents_data", "marketing"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Draft and revise business documents, analyze information and develop written content.",
+        "url": "https://claude.com/product/overview"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://claude.com/product/overview",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Check generated facts and avoid uploading confidential material until policy suitability is established.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://claude.com/product/overview",
+        "title": "Claude product overview",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "gemini",
+    "name": "Gemini",
+    "vendor": "Google",
+    "website": "https://gemini.google/",
+    "jobs": [],
+    "summary": "A multimodal assistant for working with text, images and audio.",
+    "libraryWorkflows": ["research_knowledge", "documents_data"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "A multimodal assistant for working with text, images and audio.",
+        "url": "https://gemini.google/overview/?hl=en"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://gemini.google/overview/?hl=en",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Account type and business-data terms require confirmation.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://gemini.google/overview/?hl=en",
+        "title": "Gemini overview",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "microsoft-365-copilot",
+    "name": "Microsoft 365 Copilot",
+    "vendor": "Microsoft",
+    "website": "https://www.microsoft.com/en-us/copilot/solutions/business",
+    "jobs": [],
+    "summary": "Ask questions, draft content and summarize information with a business assistant.",
+    "libraryWorkflows": ["research_knowledge", "documents_data", "communications"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Ask questions, draft content and summarize information with a business assistant.",
+        "url": "https://www.microsoft.com/en-us/copilot/solutions/business"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.microsoft.com/en-us/copilot/solutions/business",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Available features depend on the Microsoft account, licensing and tenant configuration.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.microsoft.com/en-us/copilot/solutions/business",
+        "title": "Microsoft Copilot for business",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "notion-ai",
+    "name": "Notion AI",
+    "vendor": "Notion",
+    "website": "https://www.notion.com/product/ai",
+    "jobs": [],
+    "summary": "Generate documents, work with database content and find information in a shared workspace.",
+    "libraryWorkflows": ["research_knowledge", "projects_operations", "documents_data"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Generate documents, work with database content and find information in a shared workspace.",
+        "url": "https://www.notion.com/product/ai"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.notion.com/product/ai",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Workspace permissions and AI plan limits must be checked.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.notion.com/product/ai",
+        "title": "Notion AI",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "gemini-notebook",
+    "name": "Gemini Notebook",
+    "vendor": "Google",
+    "website": "https://notebook.google/",
+    "jobs": [],
+    "summary": "Ask questions about selected uploaded sources and inspect supporting citations.",
+    "libraryWorkflows": ["research_knowledge", "documents_data"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": ["NotebookLM"],
+    "capabilities": [
+      {
+        "text": "Ask questions about selected uploaded sources and inspect supporting citations.",
+        "url": "https://support.google.com/gemininotebook/answer/16179559?hl=en"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://support.google.com/gemininotebook/answer/16179559?hl=en",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Citations help inspection but do not guarantee correct interpretation of source material.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://support.google.com/gemininotebook/answer/16179559?hl=en",
+        "title": "Use chat in Gemini Notebook",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "perplexity",
+    "name": "Perplexity",
+    "vendor": "Perplexity",
+    "website": "https://www.perplexity.ai/",
+    "jobs": [],
+    "summary": "Research business questions using an AI search and research workspace.",
+    "libraryWorkflows": ["research_knowledge"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Research business questions using an AI search and research workspace.",
+        "url": "https://www.perplexity.ai/enterprise"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.perplexity.ai/enterprise",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Inspect the underlying sources; search output is not independent verification.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.perplexity.ai/enterprise",
+        "title": "Perplexity Enterprise",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "zapier-ai",
+    "name": "Zapier AI",
+    "vendor": "Zapier",
+    "website": "https://zapier.com/ai",
+    "jobs": [],
+    "summary": "Describe an automation in plain language to get suggested workflow triggers and actions.",
+    "libraryWorkflows": ["automation", "projects_operations"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Describe an automation in plain language to get suggested workflow triggers and actions.",
+        "url": "https://help.zapier.com/hc/en-us/articles/18590756459277-AI-quick-start-guide-in-Zapier"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://help.zapier.com/hc/en-us/articles/18590756459277-AI-quick-start-guide-in-Zapier",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Connected workflows can change external systems; inspect actions and permissions before enabling them.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://help.zapier.com/hc/en-us/articles/18590756459277-AI-quick-start-guide-in-Zapier",
+        "title": "AI quick-start guide in Zapier",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "make-ai",
+    "name": "Make AI Agents",
+    "vendor": "Make",
+    "website": "https://www.make.com/",
+    "jobs": [],
+    "summary": "Configure AI agents within visual automation workflows.",
+    "libraryWorkflows": ["automation", "projects_operations"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Configure AI agents within visual automation workflows.",
+        "url": "https://help.make.com/introduction-to-make-ai-agent-new"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://help.make.com/introduction-to-make-ai-agent-new",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "The reviewed AI Agents feature is in open beta; availability and pricing can change.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://help.make.com/introduction-to-make-ai-agent-new",
+        "title": "Introduction to Make AI Agents",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "n8n-ai",
+    "name": "n8n AI",
+    "vendor": "n8n",
+    "website": "https://n8n.io/ai-agents/",
+    "jobs": [],
+    "summary": "Combine AI agents with deterministic workflows and configurable human checkpoints.",
+    "libraryWorkflows": ["automation", "projects_operations"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Combine AI agents with deterministic workflows and configurable human checkpoints.",
+        "url": "https://n8n.io/ai-agents/"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://n8n.io/ai-agents/",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Building and operating workflows requires technical configuration, credentials and oversight.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://n8n.io/ai-agents/",
+        "title": "n8n AI agents",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "airtable-ai",
+    "name": "Airtable AI",
+    "vendor": "Airtable",
+    "website": "https://www.airtable.com/platform/ai",
+    "jobs": [],
+    "summary": "Use conversational AI to build apps and automations around shared business data.",
+    "libraryWorkflows": ["documents_data", "projects_operations", "automation"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Use conversational AI to build apps and automations around shared business data.",
+        "url": "https://www.airtable.com/platform/ai"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.airtable.com/platform/ai",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Database structure, access rights and automation behavior need deliberate configuration.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.airtable.com/platform/ai",
+        "title": "Airtable Assistant",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "clickup-brain",
+    "name": "ClickUp Brain",
+    "vendor": "ClickUp",
+    "website": "https://clickup.com/brain",
+    "jobs": [],
+    "summary": "Search and work with company information in an AI-assisted workspace.",
+    "libraryWorkflows": ["research_knowledge", "projects_operations"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Search and work with company information in an AI-assisted workspace.",
+        "url": "https://clickup.com/brain"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://clickup.com/brain",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Connected knowledge coverage depends on workspace access and configuration.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://clickup.com/brain",
+        "title": "ClickUp Brain",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "asana-ai",
+    "name": "Asana AI",
+    "vendor": "Asana",
+    "website": "https://asana.com/product/ai",
+    "jobs": [],
+    "summary": "Build AI-assisted workflows for coordinating team work.",
+    "libraryWorkflows": ["projects_operations", "automation"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Build AI-assisted workflows for coordinating team work.",
+        "url": "https://asana.com/product/ai"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://asana.com/product/ai",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Feature access and permissions depend on the Asana plan and workspace.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://asana.com/product/ai",
+        "title": "Asana AI",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "monday-ai",
+    "name": "monday AI",
+    "vendor": "monday.com",
+    "website": "https://monday.com/",
+    "jobs": [],
+    "summary": "Summarize, classify, extract and generate text within board workflows.",
+    "libraryWorkflows": ["projects_operations", "documents_data", "automation"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Summarize, classify, extract and generate text within board workflows.",
+        "url": "https://support.monday.com/hc/en-us/articles/11512670770834-Get-started-with-monday-AI"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://support.monday.com/hc/en-us/articles/11512670770834-Get-started-with-monday-AI",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "AI availability and terms depend on account settings and plan.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://support.monday.com/hc/en-us/articles/11512670770834-Get-started-with-monday-AI",
+        "title": "Get started with monday AI",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "pipedrive-ai",
+    "name": "Pipedrive AI Sales Assistant",
+    "vendor": "Pipedrive",
+    "website": "https://www.pipedrive.com/",
+    "jobs": [],
+    "summary": "Generate sales notes and email drafts and summarize CRM information.",
+    "libraryWorkflows": ["sales_crm", "communications"],
+    "businessTypes": ["professional_services", "retail_ecommerce", "home_field_services"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Generate sales notes and email drafts and summarize CRM information.",
+        "url": "https://support.pipedrive.com/en/article/sales-assistant"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://support.pipedrive.com/en/article/sales-assistant",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "The reviewed Sales Assistant is a beta for selected users and requires administrator acceptance of beta terms.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://support.pipedrive.com/en/article/sales-assistant",
+        "title": "Pipedrive Sales Assistant",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "zoho-zia",
+    "name": "Zoho Zia",
+    "vendor": "Zoho",
+    "website": "https://www.zoho.com/zia/",
+    "jobs": [],
+    "summary": "Use contextual AI assistance and questions across supported Zoho applications.",
+    "libraryWorkflows": ["sales_crm", "research_knowledge", "projects_operations"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Use contextual AI assistance and questions across supported Zoho applications.",
+        "url": "https://www.zoho.com/zia/"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.zoho.com/zia/",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Specific capabilities require the applicable Zoho application and configuration.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.zoho.com/zia/",
+        "title": "Zoho Zia",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "freshworks-freddy",
+    "name": "Freshworks Freddy AI Copilot",
+    "vendor": "Freshworks",
+    "website": "https://www.freshworks.com/",
+    "jobs": [],
+    "summary": "Investigate support tickets, query knowledge and prepare replies for support agents.",
+    "libraryWorkflows": ["communications", "sales_crm"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Investigate support tickets, query knowledge and prepare replies for support agents.",
+        "url": "https://crmsupport.freshworks.com/support/solutions/articles/50000014447-conversational-copilot-agent-for-quicker-ticket-resolution"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://crmsupport.freshworks.com/support/solutions/articles/50000014447-conversational-copilot-agent-for-quicker-ticket-resolution",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Copilot availability and add-on requirements must be checked; autonomous agent products are separate.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://crmsupport.freshworks.com/support/solutions/articles/50000014447-conversational-copilot-agent-for-quicker-ticket-resolution",
+        "title": "Freddy conversational Copilot for ticket resolution",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "tidio-lyro",
+    "name": "Tidio Lyro",
+    "vendor": "Tidio",
+    "website": "https://www.tidio.com/ai-agent/",
+    "jobs": [],
+    "summary": "An AI agent for handling customer-service conversations.",
+    "libraryWorkflows": ["communications"],
+    "businessTypes": [
+      "retail_ecommerce",
+      "professional_services",
+      "food_hospitality",
+      "home_field_services"
+    ],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "An AI agent for handling customer-service conversations.",
+        "url": "https://www.tidio.com/ai-agent/"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.tidio.com/ai-agent/",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "This product can respond autonomously. It is not verified as suitable for a draft-only, mandatory-approval workflow.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.tidio.com/ai-agent/",
+        "title": "Lyro AI Agent",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "mailchimp-ai",
+    "name": "Mailchimp AI",
+    "vendor": "Intuit",
+    "website": "https://mailchimp.com/",
+    "jobs": [],
+    "summary": "Create marketing content and use AI-assisted timing and personalization recommendations.",
+    "libraryWorkflows": ["marketing", "sales_crm"],
+    "businessTypes": [
+      "retail_ecommerce",
+      "food_hospitality",
+      "professional_services",
+      "education_creators",
+      "health_wellness"
+    ],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Create marketing content and use AI-assisted timing and personalization recommendations.",
+        "url": "https://mailchimp.com/solutions/ai-tools/"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://mailchimp.com/solutions/ai-tools/",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Review content, contact consent and campaign settings before any outbound messages.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://mailchimp.com/solutions/ai-tools/",
+        "title": "Mailchimp AI marketing tools",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "klaviyo-ai",
+    "name": "Klaviyo AI",
+    "vendor": "Klaviyo",
+    "website": "https://www.klaviyo.com/",
+    "jobs": [],
+    "summary": "Plan marketing campaigns and flows with an AI marketing assistant.",
+    "libraryWorkflows": ["marketing", "websites_commerce"],
+    "businessTypes": ["retail_ecommerce", "food_hospitality", "professional_services"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Plan marketing campaigns and flows with an AI marketing assistant.",
+        "url": "https://www.klaviyo.com/solutions/ai"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.klaviyo.com/solutions/ai",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Automated marketing requires consent controls and human review of audience and messages.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.klaviyo.com/solutions/ai",
+        "title": "Klaviyo AI",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "surfer-ai",
+    "name": "Surfer AI",
+    "vendor": "Surfer",
+    "website": "https://surfer.ai/",
+    "jobs": [],
+    "summary": "Generate draft articles in the Surfer content workflow.",
+    "libraryWorkflows": ["marketing"],
+    "businessTypes": [
+      "professional_services",
+      "retail_ecommerce",
+      "education_creators",
+      "home_field_services"
+    ],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Generate draft articles in the Surfer content workflow.",
+        "url": "https://docs.surferseo.com/en/articles/7869670-surfer-ai"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://docs.surferseo.com/en/articles/7869670-surfer-ai",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Generated articles require factual and editorial review; search visibility is not guaranteed.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://docs.surferseo.com/en/articles/7869670-surfer-ai",
+        "title": "Surfer AI guide",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "adobe-firefly",
+    "name": "Adobe Firefly",
+    "vendor": "Adobe",
+    "website": "https://www.adobe.com/products/firefly.html",
+    "jobs": [],
+    "summary": "Generate and edit images and video with generative AI tools.",
+    "libraryWorkflows": ["design_media", "marketing"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Generate and edit images and video with generative AI tools.",
+        "url": "https://www.adobe.com/products/firefly.html"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.adobe.com/products/firefly.html",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Check generative-credit limits, applicable licensing and rights to input materials.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.adobe.com/products/firefly.html",
+        "title": "Adobe Firefly",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "descript",
+    "name": "Descript",
+    "vendor": "Descript",
+    "website": "https://www.descript.com/",
+    "jobs": [],
+    "summary": "Edit video through text and use automatic transcription and captions.",
+    "libraryWorkflows": ["design_media", "marketing"],
+    "businessTypes": [
+      "education_creators",
+      "professional_services",
+      "retail_ecommerce",
+      "food_hospitality"
+    ],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Edit video through text and use automatic transcription and captions.",
+        "url": "https://www.descript.com/ai-video"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.descript.com/ai-video",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Obtain recording consent and review transcripts, captions and media rights.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.descript.com/ai-video",
+        "title": "Descript AI video",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "veed-ai",
+    "name": "VEED AI",
+    "vendor": "VEED",
+    "website": "https://www.veed.io/",
+    "jobs": [],
+    "summary": "Use AI-assisted tools to edit and enhance video content.",
+    "libraryWorkflows": ["design_media", "marketing"],
+    "businessTypes": [
+      "education_creators",
+      "retail_ecommerce",
+      "food_hospitality",
+      "professional_services"
+    ],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Use AI-assisted tools to edit and enhance video content.",
+        "url": "https://www.veed.io/tools/ai-video/ai-video-editor"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.veed.io/tools/ai-video/ai-video-editor",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Check export limits and rights to uploaded footage; inspect generated edits.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.veed.io/tools/ai-video/ai-video-editor",
+        "title": "VEED AI video editor",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "synthesia",
+    "name": "Synthesia",
+    "vendor": "Synthesia",
+    "website": "https://www.synthesia.io/",
+    "jobs": [],
+    "summary": "Create AI-avatar videos from scripts, documents and prompts.",
+    "libraryWorkflows": ["design_media", "marketing"],
+    "businessTypes": [
+      "education_creators",
+      "professional_services",
+      "retail_ecommerce",
+      "agriculture_manufacturing"
+    ],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Create AI-avatar videos from scripts, documents and prompts.",
+        "url": "https://www.synthesia.io/"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.synthesia.io/",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Use authorized likenesses and voices; review translated or generated scripts.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.synthesia.io/",
+        "title": "Synthesia AI video platform",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "heygen",
+    "name": "HeyGen",
+    "vendor": "HeyGen",
+    "website": "https://www.heygen.com/",
+    "jobs": [],
+    "summary": "Create AI-avatar videos for educational and marketing content.",
+    "libraryWorkflows": ["design_media", "marketing"],
+    "businessTypes": [
+      "education_creators",
+      "professional_services",
+      "retail_ecommerce",
+      "food_hospitality"
+    ],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Create AI-avatar videos for educational and marketing content.",
+        "url": "https://www.heygen.com/"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.heygen.com/",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Obtain permission for likeness and voice use and inspect generated video.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.heygen.com/",
+        "title": "HeyGen AI video platform",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "elevenlabs",
+    "name": "ElevenLabs",
+    "vendor": "ElevenLabs",
+    "website": "https://elevenlabs.io/",
+    "jobs": [],
+    "summary": "Generate speech, transcribe audio and dub content with AI voice tools.",
+    "libraryWorkflows": ["design_media", "communications"],
+    "businessTypes": ["education_creators", "professional_services", "retail_ecommerce"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Generate speech, transcribe audio and dub content with AI voice tools.",
+        "url": "https://elevenlabs.io/"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://elevenlabs.io/",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Voice cloning and recording require appropriate consent and rights.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://elevenlabs.io/",
+        "title": "ElevenLabs voice platform",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "otter-ai",
+    "name": "Otter.ai",
+    "vendor": "Otter",
+    "website": "https://otter.ai/",
+    "jobs": [],
+    "summary": "Transcribe meetings and prepare summaries and notes.",
+    "libraryWorkflows": ["meetings_notes", "research_knowledge"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Transcribe meetings and prepare summaries and notes.",
+        "url": "https://otter.ai/"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://otter.ai/",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Obtain participants’ recording consent and check transcript accuracy and retention settings.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://otter.ai/",
+        "title": "Otter AI meeting notes",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "fathom",
+    "name": "Fathom",
+    "vendor": "Fathom",
+    "website": "https://www.fathom.ai/",
+    "jobs": [],
+    "summary": "Prepare AI meeting summaries and searchable notes after calls.",
+    "libraryWorkflows": ["meetings_notes", "research_knowledge"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Prepare AI meeting summaries and searchable notes after calls.",
+        "url": "https://www.fathom.ai/"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.fathom.ai/",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Meeting-platform permissions, recording consent and retention need checking.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.fathom.ai/",
+        "title": "Fathom AI meeting assistant",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "fireflies-ai",
+    "name": "Fireflies.ai",
+    "vendor": "Fireflies",
+    "website": "https://fireflies.ai/",
+    "jobs": [],
+    "summary": "Transcribe, summarize and search recorded conversations.",
+    "libraryWorkflows": ["meetings_notes", "research_knowledge"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Transcribe, summarize and search recorded conversations.",
+        "url": "https://fireflies.ai/"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://fireflies.ai/",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Record only with consent and review access controls for conversation data.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://fireflies.ai/",
+        "title": "Fireflies AI meeting assistant",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "dext",
+    "name": "Dext",
+    "vendor": "Dext",
+    "website": "https://dext.com/",
+    "jobs": [],
+    "summary": "Extract structured information from financial documents using machine learning and AI.",
+    "libraryWorkflows": ["finance_bookkeeping", "documents_data"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Extract structured information from financial documents using machine learning and AI.",
+        "url": "https://help.dext.com/en/articles/416691-what-information-does-dext-extract-from-costs-and-sales-documents"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://help.dext.com/en/articles/416691-what-information-does-dext-extract-from-costs-and-sales-documents",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Review extracted amounts and tax information; accounting-system compatibility is unverified.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://help.dext.com/en/articles/416691-what-information-does-dext-extract-from-costs-and-sales-documents",
+        "title": "What information Dext extracts from costs and sales documents",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "rossum",
+    "name": "Rossum",
+    "vendor": "Rossum",
+    "website": "https://rossum.ai/",
+    "jobs": [],
+    "summary": "Read, capture, validate and transform business-document data with AI.",
+    "libraryWorkflows": ["documents_data", "finance_bookkeeping", "automation"],
+    "businessTypes": [
+      "professional_services",
+      "retail_ecommerce",
+      "agriculture_manufacturing",
+      "food_hospitality"
+    ],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Read, capture, validate and transform business-document data with AI.",
+        "url": "https://rossum.ai/"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://rossum.ai/",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Document validation and downstream integration require configuration and testing.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://rossum.ai/",
+        "title": "Rossum document processing",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "nanonets",
+    "name": "Nanonets",
+    "vendor": "Nanonets",
+    "website": "https://nanonets.com/",
+    "jobs": [],
+    "summary": "Use AI agents to process business data and automate document workflows.",
+    "libraryWorkflows": ["documents_data", "automation", "finance_bookkeeping"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Use AI agents to process business data and automate document workflows.",
+        "url": "https://nanonets.com/"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://nanonets.com/",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Extraction accuracy, document coverage and target-system integration require testing.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://nanonets.com/",
+        "title": "Nanonets AI automation",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "veryfi",
+    "name": "Veryfi",
+    "vendor": "Veryfi",
+    "website": "https://www.veryfi.com/",
+    "jobs": [],
+    "summary": "Digitize receipt and expense information with document-processing tools and APIs.",
+    "libraryWorkflows": ["documents_data", "finance_bookkeeping"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Digitize receipt and expense information with document-processing tools and APIs.",
+        "url": "https://www.veryfi.com/"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.veryfi.com/",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "API use requires development and validation; no SABKA AI connector has been implemented.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.veryfi.com/",
+        "title": "Veryfi document data extraction",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "google-document-ai",
+    "name": "Google Cloud Document AI",
+    "vendor": "Google Cloud",
+    "website": "https://cloud.google.com/document-ai",
+    "jobs": [],
+    "summary": "Configure processors to classify documents and extract structured information.",
+    "libraryWorkflows": ["documents_data", "automation"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Configure processors to classify documents and extract structured information.",
+        "url": "https://cloud.google.com/document-ai"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://cloud.google.com/document-ai",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "A developer-oriented cloud service requiring billing, processor setup and extraction validation.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://cloud.google.com/document-ai",
+        "title": "Google Cloud Document AI",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "quickbooks-accounting-ai",
+    "name": "QuickBooks Accounting AI",
+    "vendor": "Intuit",
+    "website": "https://quickbooks.intuit.com/accounting-agent/",
+    "jobs": [],
+    "summary": "Assist with transaction categorization and receipt information in accounting workflows.",
+    "libraryWorkflows": ["finance_bookkeeping", "documents_data"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Assist with transaction categorization and receipt information in accounting workflows.",
+        "url": "https://quickbooks.intuit.com/accounting-agent/"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://quickbooks.intuit.com/accounting-agent/",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Plan, region and feature availability vary; a person must review accounting entries.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://quickbooks.intuit.com/accounting-agent/",
+        "title": "QuickBooks Accounting AI",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "shopify-sidekick",
+    "name": "Shopify Sidekick",
+    "vendor": "Shopify",
+    "website": "https://www.shopify.com/sidekick",
+    "jobs": [],
+    "summary": "Use an AI commerce assistant inside the Shopify business platform.",
+    "libraryWorkflows": ["websites_commerce", "marketing", "research_knowledge"],
+    "businessTypes": ["retail_ecommerce", "food_hospitality", "education_creators"],
+    "aliases": ["Shopify Magic"],
+    "capabilities": [
+      {
+        "text": "Use an AI commerce assistant inside the Shopify business platform.",
+        "url": "https://www.shopify.com/sidekick"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.shopify.com/sidekick",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Requires a Shopify store; actions and store-specific compatibility have not been tested by SABKA AI.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.shopify.com/sidekick",
+        "title": "Shopify Sidekick",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "wix-ai",
+    "name": "Wix AI Website Builder",
+    "vendor": "Wix",
+    "website": "https://www.wix.com/ai-website-builder",
+    "jobs": [],
+    "summary": "Describe a business to generate a website with AI-assisted building tools.",
+    "libraryWorkflows": ["websites_commerce", "design_media"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Describe a business to generate a website with AI-assisted building tools.",
+        "url": "https://www.wix.com/ai-website-builder"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.wix.com/ai-website-builder",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Hosting, domain, payments, accessibility and ongoing site maintenance require separate review.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.wix.com/ai-website-builder",
+        "title": "Wix AI Website Builder",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "squarespace-blueprint-ai",
+    "name": "Squarespace Blueprint AI",
+    "vendor": "Squarespace",
+    "website": "https://www.squarespace.com/websites/ai-website-builder",
+    "jobs": [],
+    "summary": "Create a website using AI-assisted design and content tools.",
+    "libraryWorkflows": ["websites_commerce", "design_media"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Create a website using AI-assisted design and content tools.",
+        "url": "https://www.squarespace.com/websites/ai-website-builder"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://www.squarespace.com/websites/ai-website-builder",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "Plan features, commerce requirements and the accessibility of the resulting site need checking.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://www.squarespace.com/websites/ai-website-builder",
+        "title": "Squarespace AI website builder",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  },
+  {
+    "slug": "coda-ai",
+    "name": "Coda AI",
+    "vendor": "Coda",
+    "website": "https://coda.io/",
+    "jobs": [],
+    "summary": "Draft content and tables, ask workspace questions and populate AI-assisted columns.",
+    "libraryWorkflows": ["documents_data", "projects_operations", "research_knowledge"],
+    "businessTypes": ["all_small_businesses"],
+    "aliases": [],
+    "capabilities": [
+      {
+        "text": "Draft content and tables, ask workspace questions and populate AI-assisted columns.",
+        "url": "https://help.coda.io/hc/en-us/articles/39555802361613-Coda-AI-features"
+      }
+    ],
+    "pricing": {
+      "tier": "Applicable plan not verified",
+      "monthlyUsd": null,
+      "billingBasis": null,
+      "url": "https://help.coda.io/hc/en-us/articles/39555802361613-Coda-AI-features",
+      "notes": "Full applicable plan, seat and usage cost has not been verified. Consult the vendor; this entry is not a price quotation."
+    },
+    "limitations": [
+      "AI availability depends on Doc Maker licensing and trial limits; review generated table values.",
+      "Official-source review only; no independent task test or SABKA AI integration is claimed."
+    ],
+    "unknowns": [
+      "Business-specific compatibility and setup effort have not been tested.",
+      "Applicable price, usage limits and regional availability require confirmation.",
+      "Privacy, retention, accessibility and human-approval controls require business-specific review.",
+      "No licensed customer-review data or measured adoption outcomes are included."
+    ],
+    "sources": [
+      {
+        "url": "https://help.coda.io/hc/en-us/articles/39555802361613-Coda-AI-features",
+        "title": "Coda AI features",
+        "type": "official",
+        "checkedAt": "2026-11-07T22:19:15Z",
+        "permissionBasis": "Public official page consulted via web research. Store only an original short factual summary with attribution and a link; no bulk copying or third-party review license is claimed.",
+        "notes": "Capability reference only. This source does not establish price, integration compatibility or independent performance."
+      }
+    ]
+  }
+]

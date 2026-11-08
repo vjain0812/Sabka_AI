@@ -1,0 +1,226 @@
+{
+  "checkedAt": "2026-11-08",
+  "basis": "Features are assigned only from what each tool’s source-checked catalog summary says it does. Statements were found on the vendor’s own site and quoted verbatim; a statement is not a test or a conformance guarantee.",
+  "features": {
+    "answers_calls": [
+      "aircall",
+      "appfolio",
+      "dialpad",
+      "eliseai",
+      "goodcall",
+      "housecall-pro",
+      "jobber",
+      "my-ai-front-desk",
+      "retell-ai",
+      "ringcentral",
+      "rosie",
+      "ruby",
+      "slang-ai",
+      "smith-ai",
+      "synthflow",
+      "workiz"
+    ],
+    "human_help": ["ruby", "smith-ai"],
+    "speech_to_text": [
+      "avoma",
+      "descript",
+      "dialpad",
+      "elevenlabs",
+      "fathom",
+      "fireflies-ai",
+      "grain",
+      "jane-app",
+      "krisp",
+      "loom",
+      "meetgeek",
+      "otter-ai",
+      "read-ai",
+      "simplepractice",
+      "tldv",
+      "zoom-ai-companion"
+    ],
+    "captions": ["capcut", "descript", "kapwing", "opus-clip"],
+    "text_to_speech": ["speechify"],
+    "voice_for_you": ["elevenlabs", "murf-ai"],
+    "writing_help": [
+      "beehiiv",
+      "canva-magic-write",
+      "chatgpt",
+      "claude",
+      "coda-ai",
+      "copy-ai",
+      "front-copilot",
+      "grammarly",
+      "help-scout-ai",
+      "jasper",
+      "jetpack-ai",
+      "le-chat",
+      "mailerlite",
+      "microsoft-365-copilot",
+      "pipedrive-ai",
+      "rytr",
+      "writesonic",
+      "zoom-ai-companion"
+    ],
+    "text_not_calls": [
+      "appfolio",
+      "birdeye",
+      "cents",
+      "chatbot-com",
+      "cleancloud",
+      "crisp",
+      "eliseai",
+      "gorgias",
+      "jobber",
+      "jotform-ai-agents",
+      "livechat",
+      "my-ai-front-desk",
+      "podium",
+      "reamaze",
+      "respond-io",
+      "structurely",
+      "tawk-to",
+      "tidio-lyro",
+      "trengo",
+      "wati"
+    ],
+    "reminders_planning": [
+      "akiflow",
+      "motion",
+      "reclaim-ai",
+      "sunsama",
+      "taskade",
+      "todoist",
+      "trevor-ai"
+    ],
+    "snap_documents": [
+      "bill",
+      "dext",
+      "expensify",
+      "marketman",
+      "quickbooks-accounting-ai",
+      "ramp",
+      "veryfi"
+    ],
+    "plain_language": [
+      "chatgpt",
+      "chatpdf",
+      "claude",
+      "gemini",
+      "gemini-notebook",
+      "le-chat",
+      "microsoft-365-copilot",
+      "perplexity",
+      "you-com",
+      "zoom-ai-companion"
+    ]
+  },
+  "technicalSetup": [
+    "bardeen",
+    "google-document-ai",
+    "gumloop",
+    "lindy",
+    "make-ai",
+    "n8n-ai",
+    "pabbly-connect",
+    "power-automate",
+    "relay-app",
+    "retell-ai",
+    "synthflow",
+    "zapier-ai"
+  ],
+  "statements": {
+    "airtable-ai": {
+      "url": "https://www.airtable.com/company/accessibility",
+      "quote": "We work with a 3rd party auditor to maintain regular audits of Airtable and complete regular VPATs."
+    },
+    "asana-ai": {
+      "url": "https://asana.com/accessibility",
+      "quote": "We’re on a multi-year journey to bring our web app into conformance with WCAG 2.2 AA guidelines, with many fundamental user flows already conforming."
+    },
+    "buffer-ai-assistant": {
+      "url": "https://buffer.com/accessibility",
+      "quote": "The Web Content Accessibility Guidelines (WCAG) defines requirements for designers and developers to improve accessibility for people with disabilities."
+    },
+    "clickup-brain": {
+      "url": "https://clickup.com/accessibility",
+      "quote": "We are committed to a multi-year plan to improve our platform and ensure it adheres to the Web Content Accessibility Guidelines (WCAG) 2.2 Level AA and the Americans with Disabilities Act (ADA)."
+    },
+    "coda-ai": {
+      "url": "https://coda.io/product/accessibility",
+      "quote": "Our partnership with Deque gives us a better understanding of where Coda stands with respect to our goal of achieving WCAG 2.2 AA standards."
+    },
+    "deepl": {
+      "url": "https://www.deepl.com/en/accessibility",
+      "quote": "We’ve made the Web Content Accessibility Guidelines (WCAG) 2.1 – Level AA an integral part of our decision-making process."
+    },
+    "docusign": {
+      "url": "https://www.docusign.com/accessibility",
+      "quote": "We and our partners strive to maintain accessibility conformance."
+    },
+    "doorloop": {
+      "url": "https://www.doorloop.com/legal/accessibility",
+      "quote": "We work toward conformance with the Web Content Accessibility Guidelines (WCAG) 2.2 Level AA, published by the World Wide Web Consortium (W3C)."
+    },
+    "expensify": {
+      "url": "https://help.expensify.com/articles/Unlisted/Accessibility",
+      "quote": "Expensify’s mission is to make expense management effortless for everyone, and everyone includes people who rely on screen readers, keyboard navigation, magnification, and other assistive technologies."
+    },
+    "gorgias": {
+      "url": "https://www.gorgias.com/legal/accessibility",
+      "quote": "We strive to substantially conform to Level A and Level AA Success Criteria and Conformance Requirements of the Web Content Accessibility Guidelines (WCAG) 2.2, as published by the World Wide Web Consortium (W3C) and its Web…"
+    },
+    "grammarly": {
+      "url": "https://www.grammarly.com/accessibility-statement",
+      "quote": "The accessibility of Grammarly.com and our services relies on the following technologies to work"
+    },
+    "hootsuite": {
+      "url": "https://www.hootsuite.com/accessibility",
+      "quote": "Hootsuite Accessibility: VPATs, Policies, and More"
+    },
+    "magicschool": {
+      "url": "https://www.magicschool.ai/accessibility",
+      "quote": "We align our work with the Web Content Accessibility Guidelines (WCAG) 2.2 Level AA ↗ , which help ensure digital experiences are perceivable, operable, understandable, and robust for people with a wide range of abilities."
+    },
+    "mentimeter": {
+      "url": "https://www.mentimeter.com/accessibility",
+      "quote": "We are continuously working to improve accessibility across Mentimeter and aim to align with the Web Content Accessibility Guidelines (WCAG)."
+    },
+    "monday-ai": {
+      "url": "https://monday.com/accessibility-statement",
+      "quote": "We are in the process of making our platform accessible and compliant with international standards such as the World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.1 level AA."
+    },
+    "ringcentral": {
+      "url": "https://www.ringcentral.com/product-accessibility.html",
+      "quote": "Screen reader support Enable quick navigation for those with vision limitations."
+    },
+    "shopify-sidekick": {
+      "url": "https://www.shopify.com/accessibility",
+      "quote": "Shopify uses the Web Content Accessibility Guidelines (WCAG) version 2.2 as its guiding principle."
+    },
+    "sprout-social": {
+      "url": "https://sproutsocial.com/legal/accessibility/",
+      "quote": "As part of our commitment, Sprout Social partnered with Accessiblü to conduct a comprehensive retesting of our web and mobile applications against the most recent and rigorous industry standard: Web Content Accessibility Guidelines…"
+    },
+    "teachable": {
+      "url": "https://www.teachable.com/legal/accessibility",
+      "quote": "The Web Content Accessibility Guidelines (WCAG) defines requirements for designers and developers to improve accessibility for people with disabilities."
+    },
+    "xero": {
+      "url": "https://www.xero.com/us/accessibility/",
+      "quote": "We are proud to have a dedicated Digital Accessibility team and we’re committed to meeting the global standards for accessibility as set out in the Web Content Accessibility Guidelines (WCAG) ."
+    },
+    "yotpo": {
+      "url": "https://www.yotpo.com/accessibility-statement/",
+      "quote": "The Web Content Accessibility Guidelines (WCAG) defines requirements for developers and designers to improve accessibility for people with disabilities."
+    },
+    "zendesk-copilot": {
+      "url": "https://support.zendesk.com/hc/en-us/articles/10831381898650-Zendesk-Accessibility-Plan",
+      "quote": "In terms of product, our goal is not only to meet the industry standard of WCAG 2.2 AA, but to create experiences where anyone who accesses the Zendesk platform with assistive technology has a productive and successful experience."
+    },
+    "zoom-ai-companion": {
+      "url": "https://www.zoom.com/en/accessibility/",
+      "quote": "Use Zoom with a screen reader and customize the audible announcements you want to hear with granular control over screen reader alerts."
+    }
+  }
+}
